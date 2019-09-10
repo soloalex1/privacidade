@@ -1,0 +1,1001 @@
+id,pais,estado,cidade,genero,data,salario
+1,United States,Alabama,Mobile,Male,10/01/1987,$5407.86
+2,Portugal,Porto,Rego,Male,29/11/2007,$7833.82
+3,Sweden,Kalmar,Emmaboda,Male,23/06/1984,$5530.85
+4,Sweden,Västmanland,Sala,Female,04/11/1983,$2803.76
+5,France,Bretagne,Quimperlé,Female,18/11/1990,$2201.87
+6,United States,Ohio,Cincinnati,Female,10/07/1981,$4047.44
+7,France,Poitou-Charentes,Niort,Female,23/03/1989,$2004.14
+8,Mexico,Tamaulipas,Del Valle,Male,02/05/1990,$883.43
+9,United States,Oklahoma,Oklahoma City,Male,27/11/1992,$5307.88
+10,France,Champagne-Ardenne,Reims,Female,19/01/2007,$7418.79
+11,United States,Florida,Melbourne,Male,29/01/2007,$813.67
+12,Sweden,Värmland,Årjäng,Male,25/03/1995,$5435.41
+13,Sweden,Uppsala,Uppsala,Female,15/01/1996,$2541.75
+14,Sweden,Södermanland,Katrineholm,Female,31/10/2002,$4874.88
+15,United States,Kentucky,Frankfort,Female,14/11/1980,$4178.43
+16,Sweden,Stockholm,Älvsjö,Female,05/05/1985,$4391.85
+17,Canada,Manitoba,Thompson,Male,30/04/2009,$6289.41
+18,United States,Alabama,Mobile,Female,06/05/1983,$2934.66
+19,Mexico,Veracruz Llave,Morelos,Male,09/11/2004,$6995.08
+20,Sweden,Dalarna,Avesta,Female,04/05/2000,$6250.72
+21,Sweden,Kalmar,Nybro,Female,28/02/1996,$2923.67
+22,United States,Texas,Corpus Christi,Male,06/01/1999,$4941.92
+23,United Kingdom,England,Church End,Male,27/04/1992,$3585.70
+24,France,Haute-Normandie,Rouen,Male,20/09/2002,$7512.12
+25,France,Pays de la Loire,Nantes,Female,21/11/1990,$4627.31
+26,Sweden,Västernorrland,Kvissleby,Male,19/10/1981,$5563.83
+27,Sweden,Västra Götaland,Göteborg,Male,01/12/2000,$3472.88
+28,Portugal,Portalegre,Santo Aleixo,Male,25/10/1999,$2534.88
+29,France,Franche-Comté,Besançon,Male,19/04/1994,$5689.99
+30,Sweden,Stockholm,Gustavsberg,Female,16/08/1999,$4848.93
+31,Mexico,Veracruz Llave,Lindavista,Female,09/03/2000,$7103.44
+32,France,Bretagne,Vannes,Male,03/02/1992,$3827.17
+33,Portugal,Porto,Guimarei,Female,18/04/1996,$7202.43
+34,Sweden,Skåne,Ystad,Female,17/09/1999,$6552.66
+35,Sweden,Västra Götaland,Göteborg,Male,30/12/1997,$938.01
+36,Portugal,Castelo Branco,Aranhas,Female,03/04/1981,$5772.69
+37,Portugal,Setúbal,Santana,Male,01/06/2000,$3591.12
+38,Portugal,Porto,Fojo,Female,29/05/1981,$7847.46
+39,United States,Kentucky,Louisville,Female,26/10/1993,$3472.73
+40,Portugal,Aveiro,Canedo,Male,23/12/1999,$5979.17
+41,Portugal,Viana do Castelo,Viso,Female,12/01/2005,$1213.00
+42,Portugal,Vila Real,Mondim de Basto,Female,18/08/1981,$7539.41
+43,Sweden,Skåne,Ängelholm,Female,28/06/2004,$7758.57
+44,Sweden,Stockholm,Sundbyberg,Female,17/03/2000,$4941.80
+45,Portugal,Vila Real,Amieiro,Female,25/02/2008,$6907.90
+46,Portugal,Braga,Agra,Male,29/04/1997,$3200.30
+47,Portugal,Santarém,Barrosa,Female,17/01/1981,$1133.30
+48,France,Île-de-France,Paris 10,Female,15/01/2004,$1191.96
+49,France,Centre,Tours,Male,18/07/2010,$6336.71
+50,Sweden,Gävleborg,Gävle,Female,29/09/1985,$6867.13
+51,Canada,British Columbia,Burns Lake,Female,25/07/2001,$2894.36
+52,United States,Colorado,Denver,Female,27/10/2009,$4689.02
+53,Portugal,Lisboa,Algueirão,Female,08/02/1995,$2363.38
+54,Sweden,Stockholm,Hägersten,Male,26/07/2000,$919.06
+55,Portugal,Coimbra,Costa de Rios Frios,Female,07/10/1988,$3223.62
+56,Mexico,San Luis Potosi,San Francisco,Female,11/01/1993,$6528.84
+57,Portugal,Leiria,Chão de Couce,Male,25/09/1988,$2944.40
+58,United States,Missouri,Saint Louis,Female,22/02/2010,$6968.33
+59,Portugal,Castelo Branco,Aldeia do Bispo,Female,26/07/1996,$2642.75
+60,France,Pays de la Loire,Nantes,Female,26/08/2004,$6148.93
+61,Portugal,Guarda,Muxagata,Female,07/10/1997,$7077.49
+62,United States,Colorado,Greeley,Male,01/07/2007,$3435.80
+63,Portugal,Aveiro,Veiros,Male,05/05/1995,$6842.64
+64,Mexico,Chiapas,San Sebastian,Female,31/08/2001,$2690.43
+65,France,Bourgogne,Nuits-Saint-Georges,Male,26/02/1989,$1186.54
+66,Portugal,Ilha de São Miguel,Ribeira Grande,Female,21/07/1988,$4022.26
+67,Portugal,Porto,Moinhos,Male,10/06/1984,$2420.72
+68,United States,Pennsylvania,Pittsburgh,Female,02/11/1988,$1348.47
+69,France,Île-de-France,Bobigny,Female,14/10/1997,$5536.87
+70,Mexico,Puebla,El Calvario,Male,05/02/1990,$6445.22
+71,France,Bretagne,Saint-Grégoire,Male,13/02/1998,$5323.97
+72,Mexico,Oaxaca,Las Palmas,Male,24/06/2008,$7170.52
+73,France,Pays de la Loire,Nantes,Female,05/05/2007,$6432.81
+74,United States,Oklahoma,Tulsa,Female,23/12/2007,$7653.00
+75,Canada,Ontario,Collingwood,Female,16/06/1990,$4627.92
+76,United States,West Virginia,Huntington,Female,21/06/2010,$7983.68
+77,Portugal,Viseu,Granja,Male,11/01/1987,$1586.61
+78,United States,California,San Bernardino,Female,21/07/2000,$6964.99
+79,Canada,Saskatchewan,Kamsack,Male,28/06/1998,$4094.94
+80,Canada,Manitoba,Altona,Female,27/01/2007,$983.67
+81,Mexico,Oaxaca,Lazaro Cardenas,Female,07/09/2009,$2858.06
+82,Portugal,Ilha da Madeira,Igreja,Male,25/03/1994,$4504.29
+83,Sweden,Västra Götaland,Göteborg,Male,24/08/1999,$5383.93
+84,Canada,British Columbia,Vanderhoof,Female,31/12/1987,$4100.69
+85,Portugal,Vila Real,Montalegre,Male,02/05/1999,$6999.54
+86,France,Île-de-France,Paris 09,Male,05/05/2008,$4254.84
+87,Sweden,Örebro,Örebro,Female,04/09/1988,$6144.12
+88,Portugal,Aveiro,Nogueira da Regedoura,Male,10/05/1997,$1247.98
+89,Canada,Manitoba,Carman,Female,20/07/2004,$7209.03
+90,Mexico,Jalisco,Santa Cecilia,Female,30/10/1984,$2076.62
+91,France,Lorraine,Longwy,Female,23/09/1983,$4160.18
+92,France,Pays de la Loire,Nantes,Male,26/01/2004,$5054.87
+93,United States,Indiana,Evansville,Female,16/09/2000,$1676.91
+94,Portugal,Viseu,Cepões,Female,25/10/1980,$7622.47
+95,Sweden,Jönköping,Nässjö,Male,23/02/2010,$2260.68
+96,Sweden,Västra Götaland,Lysekil,Male,18/03/1996,$4862.69
+97,France,Lorraine,Vagney,Female,19/03/2010,$7595.55
+98,Portugal,Ilha de São Miguel,Feteira Grande,Male,03/12/1995,$4389.71
+99,Sweden,Stockholm,Vällingby,Female,20/03/2009,$2293.48
+100,Portugal,Setúbal,Almada,Male,24/09/2000,$3573.26
+101,France,Provence-Alpes-Côte d'Azur,Saint-Laurent-du-Var,Female,20/01/1993,$6974.65
+102,Sweden,Stockholm,Järfälla,Female,06/05/2005,$5609.60
+103,Sweden,Västernorrland,Sundsvall,Male,30/03/2004,$6963.88
+104,Sweden,Norrbotten,Boden,Male,14/06/1981,$2161.64
+105,Canada,Newfoundland and Labrador,Pasadena,Female,03/06/1984,$7913.17
+106,Mexico,Michoacan De Ocampo,Emiliano Zapata,Male,10/09/1994,$6686.36
+107,Portugal,Lisboa,Cobre,Male,25/01/1983,$6691.57
+108,Portugal,Braga,Sobreira,Male,26/12/2003,$7386.55
+109,Canada,Québec,Saint-Augustin,Female,28/11/1995,$7292.50
+110,Sweden,Västerbotten,Skellefteå,Female,11/07/2000,$3615.07
+111,Portugal,Porto,Lamas,Female,20/04/1985,$1488.42
+112,France,Île-de-France,Paris 05,Female,25/01/1994,$2236.23
+113,Mexico,Guerrero,Fovissste,Female,13/06/2001,$2184.75
+114,Canada,Québec,Saint-Raymond,Male,02/12/1990,$6642.44
+115,Mexico,Zacatecas,Francisco I Madero,Male,19/11/1997,$4077.84
+116,Canada,Manitoba,Lac du Bonnet,Male,24/07/1993,$7376.21
+117,Sweden,Stockholm,Hässelby,Male,12/02/1983,$7922.29
+118,Mexico,Veracruz Llave,Vicente Guerrero,Female,09/09/1981,$6340.24
+119,Portugal,Leiria,Passagem,Female,01/01/2003,$2137.01
+120,Portugal,Braga,Vermoim,Male,17/04/1984,$1558.87
+121,Portugal,Porto,Corujeira,Female,17/01/2002,$1973.45
+122,Portugal,Santarém,Valada,Male,29/03/2003,$5214.50
+123,Portugal,Viana do Castelo,Regueiro,Female,10/06/1984,$5788.73
+124,Portugal,Lisboa,Francos,Male,11/10/1980,$6314.95
+125,United States,Ohio,Cleveland,Female,26/10/1998,$3562.87
+126,Portugal,Aveiro,Boavista,Male,17/01/1981,$7973.93
+127,United States,Colorado,Denver,Male,16/03/2001,$6553.93
+128,Canada,Manitoba,Morris,Male,12/11/2004,$1129.83
+129,France,Centre,Saint-Avertin,Male,01/07/1988,$5485.14
+130,Portugal,Lisboa,Bom Sucesso,Male,28/05/2007,$4578.33
+131,Portugal,Guarda,Freixo de Numão,Female,14/01/2000,$5737.46
+132,France,Île-de-France,Bondy,Male,14/01/1994,$4879.99
+133,Sweden,Östergötland,Söderköping,Female,12/10/1994,$4966.48
+134,Sweden,Västra Götaland,Uddevalla,Female,31/03/1993,$5240.94
+135,Sweden,Uppsala,Uppsala,Female,11/01/2008,$4109.65
+136,Sweden,Stockholm,Stockholm,Male,16/06/1999,$6492.17
+137,France,Haute-Normandie,Le Havre,Female,14/02/2002,$6889.74
+138,Sweden,Kronoberg,Alvesta,Female,12/12/1994,$1916.17
+139,Portugal,Lisboa,Campelos,Male,22/02/1996,$6026.38
+140,Sweden,Västra Götaland,Trollhättan,Female,28/08/2008,$7268.00
+141,France,Provence-Alpes-Côte d'Azur,Marseille,Female,04/02/1985,$1238.66
+142,Mexico,Puebla,Vicente Guerrero,Male,06/02/1991,$3076.92
+143,Sweden,Blekinge,Mörrum,Male,23/04/2000,$5745.78
+144,Canada,Québec,Lavaltrie,Female,21/02/1997,$4240.55
+145,Portugal,Porto,Laúndos,Female,06/10/2009,$1665.32
+146,Sweden,Dalarna,Smedjebacken,Male,03/08/1988,$1574.30
+147,Portugal,Coimbra,Carromeu,Male,05/12/1984,$3526.69
+148,Portugal,Lisboa,Colares,Female,07/08/1981,$5751.78
+149,Portugal,Viseu,Cruz,Male,18/11/1984,$7345.49
+150,France,Île-de-France,Paris 12,Female,03/09/1993,$4480.55
+151,France,Bourgogne,Chenôve,Male,08/02/2004,$4907.54
+152,Canada,Québec,Ormstown,Female,24/11/1993,$5727.15
+153,Mexico,Coahuila De Zaragoza,Independencia,Female,16/06/1996,$1144.42
+154,Mexico,Veracruz Llave,Francisco Villa,Male,30/03/1999,$4430.56
+155,Sweden,Norrbotten,Boden,Male,07/04/2006,$3003.76
+156,Portugal,Viana do Castelo,Agrela,Male,20/03/1990,$1245.80
+157,Mexico,Chiapas,Santa Elena,Female,23/09/1989,$7018.06
+158,Mexico,Nuevo Leon,Santa Fe,Male,25/03/2008,$3602.31
+159,France,Aquitaine,Bordeaux,Male,17/02/2001,$7665.32
+160,Canada,Newfoundland and Labrador,Torbay,Female,14/07/1985,$5677.54
+161,Sweden,Skåne,Tomelilla,Female,31/03/1982,$4407.88
+162,United States,Oklahoma,Tulsa,Male,28/05/2005,$2729.76
+163,Sweden,Västernorrland,Njurunda,Female,26/10/1984,$2809.72
+164,Canada,Ontario,Pickering,Male,31/03/1995,$6383.39
+165,Portugal,Braga,Loureiro,Female,15/01/2001,$7327.12
+166,Portugal,Viana do Castelo,Portela,Female,13/01/1990,$3878.76
+167,Portugal,Santarém,Chouto,Male,24/05/1990,$6680.18
+168,Sweden,Västmanland,Köping,Female,18/08/2003,$7582.88
+169,Mexico,Veracruz Llave,Francisco Villa,Male,12/05/2003,$4663.81
+170,Mexico,Nayarit,Independencia,Male,25/08/1994,$3389.21
+171,Portugal,Porto,São Mamede de Infesta,Male,28/05/1995,$6584.92
+172,Portugal,Setúbal,Morgados,Male,07/10/1985,$5932.94
+173,France,Aquitaine,Villeneuve-sur-Lot,Male,01/12/1990,$1841.41
+174,United States,Colorado,Denver,Female,29/04/2009,$943.67
+175,Portugal,Aveiro,Lombo Meão,Male,20/08/2002,$7540.04
+176,Sweden,Västra Götaland,Lerum,Female,26/12/1984,$2350.70
+177,Portugal,Bragança,Santulhão,Male,01/02/2002,$7917.34
+178,Canada,Ontario,Napanee Downtown,Male,04/09/2005,$1319.03
+179,France,Île-de-France,Colombes,Male,24/01/2006,$1492.88
+180,Sweden,Stockholm,Täby,Female,27/01/2003,$7718.13
+181,Portugal,Porto,Maganha,Female,20/05/1996,$3296.00
+182,United States,Oklahoma,Tulsa,Male,17/05/2004,$5946.05
+183,Sweden,Södermanland,Eskilstuna,Male,25/05/1990,$7175.98
+184,Portugal,Braga,Couto,Female,25/04/1983,$7046.63
+185,France,Aquitaine,Sarlat-la-Canéda,Male,26/08/2008,$3542.00
+186,Sweden,Östergötland,Norrköping,Male,13/02/2007,$2411.09
+187,France,Île-de-France,Arcueil,Male,20/02/1995,$5825.49
+188,Portugal,Viana do Castelo,Quintães,Female,10/12/2002,$4332.69
+189,United States,Florida,West Palm Beach,Female,30/08/1989,$2495.07
+190,United States,Louisiana,Shreveport,Female,31/01/2000,$5152.79
+191,France,Île-de-France,Levallois-Perret,Female,03/08/2007,$3525.88
+192,Canada,Ontario,Owen Sound,Female,27/06/1993,$7096.91
+193,Portugal,Porto,Engenho,Female,24/03/1988,$4302.66
+194,Portugal,Viseu,Igreja,Female,16/03/1987,$7760.46
+195,United States,Ohio,Dayton,Male,30/05/1999,$3911.50
+196,Canada,Ontario,Timmins,Female,29/04/1997,$5974.55
+197,Sweden,Västmanland,Västerås,Male,10/07/1990,$4682.04
+198,United States,Florida,Kissimmee,Male,26/11/2008,$5236.49
+199,Mexico,Veracruz Llave,Petrolera,Male,12/09/1994,$3408.00
+200,Sweden,Stockholm,Åkersberga,Male,02/03/1989,$6874.81
+201,France,Provence-Alpes-Côte d'Azur,Marseille,Female,18/07/1981,$1353.19
+202,France,Nord-Pas-de-Calais,Noyelles-sous-Lens,Male,22/06/2001,$3316.55
+203,Sweden,Västra Götaland,Göteborg,Female,10/03/1994,$7586.61
+204,Sweden,Västra Götaland,Mölndal,Female,19/02/1997,$6062.26
+205,Canada,Québec,Sainte-Anne-des-Monts,Female,05/11/1982,$3027.02
+206,France,Basse-Normandie,Saint-Lô,Female,29/01/1987,$2422.65
+207,Portugal,Lisboa,Santa Iria de Azóia,Male,26/08/2003,$2866.63
+208,France,Pays de la Loire,Saint-Herblain,Female,23/07/1992,$1484.69
+209,France,Languedoc-Roussillon,Montpellier,Female,12/06/2006,$6325.50
+210,France,Bretagne,Rennes,Male,05/06/2009,$6712.81
+211,Canada,Nunavut,Iqaluit,Female,30/03/2006,$1786.57
+212,France,Île-de-France,Évry,Female,17/04/1981,$2654.98
+213,Portugal,Viana do Castelo,Quintães,Female,21/07/1984,$7319.09
+214,France,Île-de-France,Rungis,Male,24/03/1993,$7733.10
+215,United States,Maryland,Silver Spring,Female,22/12/1988,$7157.05
+216,United States,Texas,San Antonio,Male,01/02/1981,$4000.92
+217,Mexico,Veracruz Llave,Azteca,Female,17/10/1993,$2071.57
+218,Portugal,Aveiro,Lombo Meão,Male,13/04/2005,$3717.17
+219,Canada,Saskatchewan,Kindersley,Male,14/10/1994,$4511.71
+220,United States,New Jersey,Newark,Female,16/03/1991,$1329.70
+221,France,Aquitaine,Trélissac,Female,20/03/1995,$5475.66
+222,Sweden,Västra Götaland,Mölndal,Female,12/09/1996,$6059.58
+223,United States,Virginia,Roanoke,Female,31/07/1993,$4241.71
+224,Portugal,Lisboa,Carrascal,Male,02/02/1991,$6417.75
+225,Canada,Manitoba,Niverville,Female,20/05/1998,$979.70
+226,France,Île-de-France,Morangis,Male,14/06/1984,$3466.43
+227,Portugal,Ilha de São Miguel,Porto Formoso,Male,28/05/1984,$4964.31
+228,France,Île-de-France,Courbevoie,Male,27/11/1989,$4959.20
+229,Sweden,Västra Götaland,Tibro,Male,19/02/2009,$7665.45
+230,France,Basse-Normandie,Argentan,Female,01/09/1989,$1280.62
+231,Canada,Saskatchewan,Dalmeny,Female,25/06/1983,$5469.92
+232,France,Île-de-France,Colombes,Female,19/04/1981,$3435.34
+233,Portugal,Setúbal,Vale Boeiro,Female,02/12/1996,$7753.83
+234,Canada,Québec,Mont-Laurier,Male,03/06/1985,$4501.34
+235,Portugal,Aveiro,Vessada,Female,25/07/2005,$4728.31
+236,France,Île-de-France,Paris 13,Male,29/03/1987,$2627.52
+237,United Kingdom,England,Stapleford,Female,12/08/1996,$7166.43
+238,France,Lorraine,Lunéville,Male,24/10/2003,$4105.04
+239,Portugal,Porto,Veiga,Male,01/06/1985,$3863.39
+240,Sweden,Skåne,Ystad,Male,29/06/2010,$2969.04
+241,Canada,Alberta,Olds,Male,29/06/2007,$4910.20
+242,Sweden,Kalmar,Vimmerby,Male,20/01/1998,$1583.21
+243,Sweden,Västra Götaland,Alingsås,Female,09/08/2002,$4382.96
+244,Portugal,Porto,Castelo,Female,13/03/2005,$5283.42
+245,United States,Mississippi,Jackson,Female,01/11/2005,$3112.29
+246,Mexico,Jalisco,Lagunillas,Male,06/11/1986,$3989.06
+247,Sweden,Östergötland,Norrköping,Female,15/07/2000,$3800.57
+248,Sweden,Uppsala,Uppsala,Male,26/03/2008,$2096.28
+249,Canada,Ontario,Waterloo,Male,23/04/2005,$2454.18
+250,Portugal,Leiria,Figueiras,Female,05/02/2005,$6289.95
+251,Portugal,Braga,Castelões,Male,02/10/1997,$2867.51
+252,United States,Connecticut,New Haven,Female,03/05/1991,$1899.31
+253,United States,Michigan,Detroit,Male,30/07/1986,$6235.09
+254,United States,California,Santa Rosa,Female,09/04/2001,$5892.17
+255,Sweden,Stockholm,Stockholm,Female,08/04/1995,$2007.00
+256,United States,District of Columbia,Washington,Male,16/08/1984,$7827.47
+257,Sweden,Skåne,Klippan,Male,12/04/1999,$4542.92
+258,Portugal,Leiria,Matos da Ranha,Male,14/10/1987,$5038.59
+259,Portugal,Ilha de São Miguel,Ribeira Seca,Male,11/12/2000,$5530.59
+260,France,Île-de-France,Sainte-Geneviève-des-Bois,Female,26/07/1990,$7279.48
+261,Sweden,Stockholm,Stockholm,Female,18/05/1994,$6950.84
+262,France,Nord-Pas-de-Calais,Wasquehal,Male,08/08/2008,$2329.05
+263,Canada,British Columbia,Anmore,Female,03/06/1994,$7760.58
+264,Sweden,Stockholm,Hallstavik,Female,01/11/1986,$4664.24
+265,United States,Alabama,Birmingham,Male,26/03/1993,$4300.13
+266,France,Île-de-France,Puteaux,Male,10/07/2006,$7825.33
+267,Portugal,Braga,Macieira de Rates,Male,05/10/1981,$1305.29
+268,Portugal,Vila Real,Murça,Female,26/03/2006,$2060.75
+269,Canada,Québec,Vaudreuil-Dorion,Male,15/08/2002,$3613.73
+270,Portugal,Viana do Castelo,Coutada,Male,03/02/1993,$4919.65
+271,Sweden,Stockholm,Kista,Female,12/11/1981,$7035.04
+272,Portugal,Viseu,Cabanas de Viriato,Female,29/01/1992,$5919.34
+273,United Kingdom,Scotland,Edinburgh,Female,10/01/2008,$2367.97
+274,Canada,Alberta,Camrose,Male,26/09/2003,$6593.84
+275,Portugal,Guarda,Sebadelhe,Female,23/06/1985,$2854.38
+276,United States,Ohio,Youngstown,Female,04/08/1989,$2775.31
+277,United States,California,Los Angeles,Female,31/12/1990,$1165.10
+278,United States,Arizona,Tucson,Female,28/04/1989,$7511.52
+279,Mexico,Sinaloa,Emiliano Zapata,Male,22/06/2004,$4531.43
+280,Sweden,Södermanland,Nyköping,Male,16/03/2004,$6630.49
+281,Portugal,Viseu,Várzea,Female,09/10/1994,$5268.85
+282,United States,Michigan,Grand Rapids,Male,09/11/1999,$1575.72
+283,Portugal,Braga,Infantas,Male,10/08/2001,$4663.87
+284,United States,New York,Albany,Female,17/07/1981,$5953.02
+285,France,Rhône-Alpes,Saint-Étienne,Female,16/06/1996,$5399.22
+286,Mexico,Durango,Francisco Villa,Male,05/12/1999,$1452.90
+287,Canada,Saskatchewan,Swift Current,Male,03/02/1988,$3401.73
+288,Portugal,Braga,Boucinha,Male,03/12/1996,$1657.74
+289,Sweden,Västra Götaland,Tibro,Male,19/08/2006,$3520.57
+290,United States,West Virginia,Charleston,Female,22/06/1982,$5750.62
+291,France,Alsace,Sélestat,Male,26/08/1981,$4263.66
+292,Portugal,Viseu,Quintãs,Female,20/07/1992,$6639.31
+293,Portugal,Viana do Castelo,Loureiro,Male,17/08/1996,$6549.93
+294,Canada,Québec,Lac-Mégantic,Male,26/09/1981,$7082.80
+295,France,Centre,Tours,Female,28/02/1996,$1934.60
+296,Sweden,Örebro,Degerfors,Male,26/07/2004,$3875.41
+297,Canada,Ontario,Brampton,Male,01/11/1980,$6095.84
+298,Canada,Ontario,Innisfil,Female,06/08/1988,$2465.50
+299,Portugal,Leiria,Amieirinha,Female,07/11/1983,$4776.95
+300,Portugal,Bragança,Carrazeda de Ansiães,Female,10/07/1994,$7467.66
+301,Canada,New Brunswick,Saint Andrews,Female,16/06/1996,$1693.13
+302,France,Picardie,Noyon,Male,20/02/1987,$7063.28
+303,France,Franche-Comté,Belfort,Female,01/06/2007,$6827.27
+304,United States,New Jersey,Trenton,Male,04/07/2004,$1342.37
+305,Sweden,Skåne,Landskrona,Male,30/11/1988,$962.08
+306,France,Lorraine,Épinal,Female,27/07/1985,$3201.59
+307,France,Bretagne,Noyal-sur-Vilaine,Male,02/11/1999,$5116.30
+308,France,Pays de la Loire,Nantes,Male,02/09/1994,$7145.67
+309,Canada,Québec,Maskinongé,Male,08/03/2008,$7816.91
+310,United States,Pennsylvania,Erie,Male,21/10/1986,$6068.22
+311,United States,Ohio,Cincinnati,Male,18/09/1988,$2843.99
+312,Portugal,Santarém,Praia do Ribatejo,Female,27/11/2000,$3375.21
+313,France,Limousin,Guéret,Female,20/05/2003,$5080.95
+314,Canada,Ontario,Brant,Male,24/06/1981,$5453.13
+315,United States,Indiana,Evansville,Male,13/04/1987,$3191.09
+316,United States,Idaho,Boise,Female,05/08/1999,$4924.11
+317,Canada,Ontario,Angus,Female,21/11/2007,$1611.63
+318,France,Pays de la Loire,Laval,Female,24/06/1984,$1350.28
+319,Mexico,Oaxaca,Buenavista,Female,11/05/1994,$6285.72
+320,Portugal,Braga,Pedome,Female,28/07/1988,$6594.48
+321,Sweden,Stockholm,Tumba,Female,11/05/1995,$7278.18
+322,Portugal,Castelo Branco,Tortosendo,Female,12/03/2010,$5730.25
+323,France,Provence-Alpes-Côte d'Azur,Marseille,Female,23/10/1992,$5763.40
+324,France,Provence-Alpes-Côte d'Azur,Le Pontet,Male,12/07/2003,$7199.46
+325,Sweden,Västerbotten,Vilhelmina,Male,07/09/1999,$1611.42
+326,Sweden,Västernorrland,Sundsvall,Male,26/01/2004,$4631.52
+327,United States,California,Santa Barbara,Male,14/01/2008,$6841.99
+328,France,Île-de-France,Paris 08,Male,06/03/2009,$5216.68
+329,Sweden,Stockholm,Stockholm,Male,08/04/1991,$4912.45
+330,Portugal,Viana do Castelo,Arão,Male,19/05/1982,$3783.40
+331,Canada,Québec,Lévis,Male,18/06/1984,$5790.08
+332,United States,New York,New York City,Female,15/12/2001,$2622.47
+333,United States,Missouri,Independence,Male,24/08/2000,$4095.50
+334,Portugal,Porto,Veiga,Female,06/08/2005,$7795.42
+335,Sweden,Östergötland,Linköping,Male,14/11/2000,$2321.79
+336,Portugal,Ilha de São Miguel,Ajuda,Female,03/06/1993,$5532.48
+337,Portugal,Ilha Terceira,Biscoitos,Male,25/10/1994,$7857.47
+338,Mexico,Chiapas,Santa Elena,Male,16/11/1999,$1534.82
+339,United States,Florida,Tallahassee,Female,04/10/1997,$5428.38
+340,France,Centre,Fleury-les-Aubrais,Female,27/04/2010,$2902.49
+341,Mexico,Oaxaca,Guadalupe,Female,01/05/1995,$5563.62
+342,Mexico,Chihuahua,Guadalupe,Female,16/05/1986,$7049.85
+343,France,Île-de-France,Antony,Male,05/04/1983,$1020.66
+344,Portugal,Coimbra,Vila Pouca da Beira,Female,02/02/1981,$4450.49
+345,France,Île-de-France,Évry,Male,30/07/2000,$2851.56
+346,Mexico,Coahuila De Zaragoza,Santa Maria,Female,24/03/1998,$3769.13
+347,France,Île-de-France,Paris La Défense,Female,21/11/2009,$5410.56
+348,Sweden,Västra Götaland,Lidköping,Female,04/04/1990,$4161.69
+349,France,Pays de la Loire,Angers,Female,07/01/2000,$7274.50
+350,United States,Florida,Saint Petersburg,Female,26/02/2004,$3435.26
+351,United States,North Carolina,Charlotte,Male,10/05/1997,$5366.98
+352,United States,Texas,Houston,Female,28/08/1987,$3006.83
+353,United States,California,Sacramento,Male,17/01/1981,$3362.11
+354,Sweden,Stockholm,Järfälla,Male,28/04/1984,$3349.35
+355,Sweden,Skåne,Helsingborg,Female,13/12/1982,$1322.83
+356,Sweden,Västra Götaland,Göteborg,Male,16/06/1985,$6881.36
+357,United States,Kentucky,Lexington,Female,04/09/1981,$5249.08
+358,United States,Minnesota,Saint Paul,Female,03/11/1994,$3041.78
+359,Sweden,Västerbotten,Umeå,Male,17/07/1999,$3109.94
+360,France,Pays de la Loire,Rezé,Male,18/12/1996,$4354.51
+361,Portugal,Coimbra,São Paio de Gramaços,Female,31/12/1992,$2849.06
+362,Portugal,Setúbal,Torrão,Male,10/12/1984,$2661.36
+363,Sweden,Stockholm,Stockholm,Female,15/07/1985,$1145.67
+364,Canada,Québec,Senneterre,Male,07/09/2006,$3407.45
+365,France,Franche-Comté,Besançon,Female,02/08/1999,$6940.06
+366,Portugal,Coimbra,São Paio de Gramaços,Female,18/12/1996,$7588.24
+367,Portugal,Ilha de São Miguel,Porto Formoso,Male,16/04/2001,$6118.17
+368,Portugal,Leiria,Carpalho,Male,26/04/1989,$1858.90
+369,United States,Oklahoma,Tulsa,Female,01/01/1995,$3480.31
+370,Portugal,Vila Real,Ribeiro,Male,26/05/2005,$2106.68
+371,Portugal,Santarém,Zibreira,Female,12/10/2000,$5964.41
+372,France,Rhône-Alpes,Chambéry,Female,07/06/2001,$3747.55
+373,Portugal,Porto,Cruzeiro,Male,13/08/1982,$6067.37
+374,Portugal,Leiria,Portela,Male,17/04/1995,$2582.92
+375,Sweden,Norrbotten,Piteå,Male,02/03/1988,$2746.65
+376,Canada,Ontario,Atikokan,Female,14/10/2000,$4938.67
+377,Sweden,Stockholm,Hägersten,Female,03/01/1994,$2943.14
+378,Sweden,Västra Götaland,Göteborg,Male,06/09/2003,$2946.37
+379,France,Haute-Normandie,Sotteville-lès-Rouen,Female,16/05/1989,$4400.91
+380,Portugal,Braga,Lordelo,Male,02/10/1980,$6267.86
+381,Portugal,Lisboa,Vale de Figueira,Female,22/05/2004,$3639.38
+382,Sweden,Värmland,Karlstad,Female,17/06/1985,$3014.90
+383,Canada,Alberta,Edson,Female,10/07/1985,$4468.31
+384,France,Rhône-Alpes,Cluses,Male,22/11/1998,$1191.22
+385,Sweden,Västerbotten,Vilhelmina,Female,07/02/1982,$6563.49
+386,Sweden,Västra Götaland,Färgelanda,Female,20/02/2002,$6869.03
+387,Mexico,Chiapas,Guadalupe,Female,10/09/1995,$3667.75
+388,Sweden,Dalarna,Falun,Male,13/09/1993,$1455.74
+389,Portugal,Lisboa,Casal de Cambra,Male,15/12/1997,$4461.88
+390,France,Île-de-France,Puteaux,Male,13/11/1990,$7503.54
+391,Canada,Alberta,Irricana,Male,09/05/1998,$4675.13
+392,France,Île-de-France,Boulogne-Billancourt,Male,19/01/1998,$6769.72
+393,Portugal,Lisboa,Estribeiro,Female,25/09/2007,$6191.96
+394,United States,Texas,Irving,Female,14/01/1985,$7700.50
+395,France,Limousin,Ussel,Male,13/03/1986,$3988.74
+396,Sweden,Skåne,Staffanstorp,Male,20/10/1983,$6293.42
+397,United States,Texas,Austin,Female,06/10/1982,$3358.51
+398,United States,Indiana,Indianapolis,Female,19/06/1995,$5116.24
+399,France,Centre,Orléans,Female,15/11/2005,$1242.05
+400,Mexico,Oaxaca,Lindavista,Female,13/06/1990,$3556.11
+401,France,Provence-Alpes-Côte d'Azur,Marseille,Female,30/01/1991,$2772.86
+402,Sweden,Västra Götaland,Dalsjöfors,Male,28/11/1985,$6436.46
+403,France,Centre,Nogent-le-Rotrou,Female,25/03/1986,$976.45
+404,Mexico,Michoacan De Ocampo,Emiliano Zapata,Female,28/10/2006,$7184.92
+405,Sweden,Halland,Laholm,Female,07/10/1998,$4576.59
+406,Mexico,Guerrero,La Esperanza,Male,15/02/1984,$7303.77
+407,Sweden,Västra Götaland,Göteborg,Female,30/03/1986,$5891.65
+408,Mexico,San Luis Potosi,Infonavit,Female,14/10/2000,$1126.55
+409,Canada,Newfoundland and Labrador,Catalina,Female,09/10/1985,$3993.28
+410,Portugal,Faro,Armação de Pêra,Female,20/03/1990,$1610.27
+411,Mexico,Sinaloa,Los Angeles,Female,29/08/2003,$1095.44
+412,United States,Missouri,Independence,Female,05/08/2008,$1320.94
+413,France,Provence-Alpes-Côte d'Azur,Istres,Female,09/10/2003,$6183.10
+414,France,Rhône-Alpes,Cluses,Female,03/11/1995,$2565.78
+415,France,Bretagne,Lannion,Male,13/08/1999,$6856.56
+416,France,Île-de-France,Chilly-Mazarin,Male,11/02/2005,$1174.30
+417,United States,Pennsylvania,Erie,Female,29/06/1983,$3201.71
+418,Mexico,Michoacan De Ocampo,La Palma,Male,26/11/1989,$2344.10
+419,Sweden,Kalmar,Torsås,Female,28/06/2007,$7478.53
+420,Canada,Ontario,Midland,Female,27/07/1994,$7060.60
+421,Portugal,Porto,Vilela,Female,29/05/1995,$948.41
+422,France,Limousin,Limoges,Male,25/12/1998,$4491.03
+423,Portugal,Lisboa,Paço de Arcos,Male,05/10/1989,$5108.35
+424,France,Poitou-Charentes,Niort,Female,01/08/1981,$6674.63
+425,United States,Pennsylvania,Philadelphia,Male,25/03/1995,$1697.67
+426,United States,California,Sacramento,Female,08/10/1989,$6742.63
+427,United States,California,San Diego,Male,29/07/1993,$2795.69
+428,France,Lorraine,Metz,Male,20/03/1982,$2458.05
+429,Portugal,Setúbal,Charneca da Cotovia,Female,23/01/2002,$7649.68
+430,Portugal,Beja,Vila Nova de Milfontes,Male,20/02/1982,$7296.43
+431,Portugal,Braga,Lama,Male,07/03/2008,$2142.15
+432,Canada,Québec,Napierville,Female,04/09/1992,$4234.16
+433,Portugal,Porto,São Mamede de Infesta,Female,11/05/2008,$7233.37
+434,Portugal,Porto,Cabo de Vila,Female,18/03/1986,$1684.26
+435,Portugal,Ilha de São Miguel,Achadinha,Female,02/09/1988,$1426.01
+436,United States,Texas,Irving,Male,11/10/1986,$1059.41
+437,France,Centre,Orléans,Male,15/11/2009,$7519.69
+438,United States,Florida,Gainesville,Male,27/10/1991,$5721.70
+439,France,Rhône-Alpes,Lyon,Female,18/06/1991,$6410.80
+440,France,Île-de-France,Paris 09,Female,07/06/1984,$5823.97
+441,Sweden,Dalarna,Falun,Male,01/10/1986,$2881.34
+442,France,Île-de-France,Antony,Female,10/12/1986,$2918.64
+443,France,Provence-Alpes-Côte d'Azur,Nice,Male,11/03/1995,$2208.72
+444,Sweden,Stockholm,Täby,Female,08/11/1987,$5057.22
+445,Portugal,Braga,Vermoim,Female,26/02/1986,$2309.35
+446,Portugal,Coimbra,Almalaguês,Female,12/11/2005,$6172.13
+447,France,Champagne-Ardenne,Langres,Female,12/10/1993,$5796.92
+448,France,Limousin,Limoges,Male,24/02/1991,$1399.34
+449,Portugal,Aveiro,Fornos,Female,22/06/1996,$2981.49
+450,Canada,Nova Scotia,Sydney Mines,Male,04/03/2002,$5937.25
+451,Portugal,Vila Real,Loivos,Male,18/04/2005,$4370.17
+452,United States,California,San Diego,Female,19/11/2004,$7942.98
+453,Sweden,Västra Götaland,Göteborg,Male,12/08/1990,$7924.89
+454,Sweden,Västra Götaland,Bohus,Male,04/08/2001,$6578.25
+455,France,Nord-Pas-de-Calais,Wasquehal,Female,03/08/2005,$4518.41
+456,Canada,Saskatchewan,Maple Creek,Male,28/09/1986,$7689.46
+457,Portugal,Porto,Linhares,Male,19/01/1988,$4590.54
+458,Mexico,Veracruz Llave,Dante Delgado,Female,25/08/1984,$7741.81
+459,Portugal,Ilha de São Miguel,Sete Cidades,Female,06/05/1988,$4126.56
+460,Portugal,Porto,Penedo,Male,26/02/1997,$2932.96
+461,Mexico,Mexico,La Virgen,Male,14/12/2001,$7814.46
+462,Canada,Ontario,Pickering,Female,05/09/1994,$3688.22
+463,Mexico,Oaxaca,Buenavista,Male,20/12/1995,$959.80
+464,Canada,Québec,Notre-Dame-de-l'Île-Perrot,Male,21/05/2005,$7600.54
+465,Sweden,Stockholm,Stockholm,Female,01/01/1998,$2909.91
+466,United States,Massachusetts,Springfield,Female,09/04/2002,$1041.43
+467,Portugal,Porto,Ladário,Female,19/04/2003,$4930.40
+468,United States,Florida,Fort Lauderdale,Female,22/06/1998,$4324.50
+469,France,Rhône-Alpes,Lyon,Male,20/03/1998,$6223.79
+470,Portugal,Coimbra,Sarzedo,Male,27/08/1994,$1809.17
+471,Portugal,Évora,Portel,Female,01/10/1980,$3090.80
+472,United States,New York,New Hyde Park,Female,13/04/2004,$5447.94
+473,Sweden,Uppsala,Bålsta,Female,15/03/2004,$5477.25
+474,United States,Missouri,Kansas City,Male,14/08/1995,$2946.19
+475,Portugal,Viana do Castelo,Giesteira,Male,28/08/1983,$7454.96
+476,Canada,Alberta,Rocky Mountain House,Female,21/07/2001,$7801.31
+477,Portugal,Porto,Pereiras,Female,14/12/1995,$4764.60
+478,Sweden,Stockholm,Älvsjö,Female,13/12/1986,$5373.09
+479,United States,West Virginia,Charleston,Female,03/08/1991,$1288.62
+480,Mexico,Chiapas,San Isidro,Female,20/03/2005,$6825.59
+481,Portugal,Porto,Eido,Female,31/07/1983,$7130.79
+482,Canada,British Columbia,Summerland,Male,17/04/1982,$1653.38
+483,Mexico,Guerrero,Fovissste,Female,18/06/1985,$7525.73
+484,United States,Massachusetts,Boston,Male,17/04/1981,$5002.09
+485,Sweden,Södermanland,Eskilstuna,Female,03/02/2003,$886.98
+486,Portugal,Lisboa,Campelos,Male,14/05/1994,$2437.75
+487,Portugal,Porto,Fonte,Male,01/07/1999,$3392.24
+488,United States,South Dakota,Sioux Falls,Male,24/10/1984,$5910.48
+489,France,Aquitaine,Mérignac,Female,11/06/1986,$4783.94
+490,United States,District of Columbia,Washington,Female,04/07/1988,$4199.58
+491,Sweden,Västra Götaland,Göteborg,Female,19/05/1992,$5268.12
+492,Sweden,Norrbotten,Kalix,Male,20/02/1999,$4632.50
+493,Canada,Québec,Coaticook,Female,20/06/1981,$6657.46
+494,Canada,Québec,Saguenay,Female,10/06/1987,$5427.64
+495,France,Nord-Pas-de-Calais,Saint-Amand-les-Eaux,Male,21/09/2004,$3511.27
+496,Mexico,Veracruz Llave,Pemex,Female,07/06/2008,$7048.06
+497,Portugal,Bragança,Paradela,Male,29/11/1987,$1374.14
+498,Portugal,Coimbra,Sarzedo,Female,12/12/2000,$5999.29
+499,United States,Virginia,Newport News,Female,11/08/1994,$2781.81
+500,Portugal,Porto,Constance,Female,13/09/1990,$5823.77
+501,France,Provence-Alpes-Côte d'Azur,Avignon,Female,28/05/1999,$1622.32
+502,Sweden,Västra Götaland,Torslanda,Female,14/01/1992,$6651.08
+503,Canada,Manitoba,Killarney,Male,15/11/1986,$3502.45
+504,France,Île-de-France,Montreuil,Female,30/07/1996,$7410.13
+505,Sweden,Västra Götaland,Svenljunga,Male,04/03/1989,$3218.09
+506,Sweden,Uppsala,Uppsala,Female,08/06/2005,$7134.93
+507,Sweden,Södermanland,Katrineholm,Male,08/05/1982,$7783.26
+508,Canada,Nunavut,Gjoa Haven,Male,31/12/2005,$3918.00
+509,France,Languedoc-Roussillon,Lattes,Male,14/06/1992,$6363.88
+510,Portugal,Coimbra,Vidual,Female,20/05/1983,$7453.73
+511,Sweden,Skåne,Trelleborg,Female,16/10/1990,$1900.48
+512,Portugal,Porto,Barroco,Female,08/07/2008,$5866.61
+513,Portugal,Santarém,Olival,Male,27/03/1998,$6954.30
+514,Portugal,Lisboa,Pobral,Male,13/09/2003,$6760.76
+515,Canada,Alberta,Vegreville,Female,31/05/2001,$3909.93
+516,France,Île-de-France,Rungis,Male,28/10/2007,$3533.25
+517,Sweden,Östergötland,Linköping,Female,05/02/1989,$1370.53
+518,United States,District of Columbia,Washington,Female,01/11/1981,$1715.64
+519,France,Île-de-France,Rueil-Malmaison,Male,21/06/2010,$3645.69
+520,France,Île-de-France,Cergy-Pontoise,Female,20/03/1983,$6872.51
+521,France,Rhône-Alpes,Tassin-la-Demi-Lune,Female,11/04/1989,$1355.25
+522,France,Lorraine,Metz,Female,09/11/1997,$6428.54
+523,France,Rhône-Alpes,Guilherand-Granges,Female,05/11/2000,$5368.06
+524,Canada,Québec,Drummondville,Female,08/03/1998,$3976.35
+525,Canada,New Brunswick,Oromocto,Female,29/05/2002,$1403.76
+526,Sweden,Stockholm,Stockholm,Female,10/05/1996,$6416.83
+527,Portugal,Aveiro,Igreja,Female,29/06/2002,$4713.83
+528,Canada,Ontario,Milton,Male,26/01/1995,$6983.95
+529,Mexico,Coahuila De Zaragoza,Las Flores,Male,30/06/2005,$2435.84
+530,Canada,Alberta,Coaldale,Male,22/08/1995,$3609.17
+531,France,Provence-Alpes-Côte d'Azur,Cannes,Female,21/12/1984,$6860.11
+532,Sweden,Värmland,Säffle,Female,06/11/1990,$6509.58
+533,United States,Texas,Fort Worth,Male,01/04/1981,$6749.17
+534,Portugal,Viseu,Vales,Female,09/07/1987,$1367.51
+535,Portugal,Santarém,Parreira,Female,20/10/1980,$1653.56
+536,Sweden,Örebro,Hallsberg,Female,28/07/2001,$3625.99
+537,France,Provence-Alpes-Côte d'Azur,Nice,Male,02/03/2003,$1466.87
+538,Portugal,Faro,Quarteira,Male,29/04/1994,$2666.96
+539,Mexico,Guanajuato,Emiliano Zapata,Male,12/08/1991,$5747.87
+540,Portugal,Faro,Monte Francisco,Female,24/04/1991,$5189.45
+541,United States,Ohio,Cleveland,Female,23/05/1986,$7694.59
+542,Mexico,Mexico,La Mesa,Male,29/08/2000,$4477.79
+543,Portugal,Évora,Monte do Outeiro,Female,02/08/1982,$4052.82
+544,Canada,Alberta,Banff,Female,25/05/2005,$1310.34
+545,Portugal,Vila Real,Celeirós,Female,03/09/1982,$2029.76
+546,France,Alsace,Molsheim,Male,26/07/2007,$6749.86
+547,France,Centre,Blois,Male,21/07/2002,$3635.14
+548,Mexico,Guanajuato,Miguel Hidalgo,Male,04/04/2000,$7718.68
+549,United States,Alaska,Anchorage,Male,23/10/1981,$5731.07
+550,Portugal,Setúbal,Jardia,Female,07/08/1997,$3572.00
+551,Portugal,Évora,Monte de Trigo,Male,20/06/2009,$3078.97
+552,France,Languedoc-Roussillon,Perpignan,Female,27/08/2003,$3478.88
+553,Mexico,San Luis Potosi,San Jose,Female,01/10/1996,$2667.16
+554,Sweden,Dalarna,Älvdalen,Female,16/07/2006,$7201.47
+555,United States,Texas,Fort Worth,Female,18/12/1986,$2926.75
+556,Canada,Nunavut,Kugluktuk,Female,10/06/1998,$7697.11
+557,Canada,Ontario,Hearst,Female,04/10/2001,$6431.42
+558,United States,New York,New York City,Female,29/01/2005,$1509.69
+559,United States,West Virginia,Huntington,Male,31/10/2007,$2476.57
+560,Sweden,Västra Götaland,Bengtsfors,Male,15/03/1994,$5726.93
+561,Sweden,Stockholm,Bromma,Male,22/04/1992,$5169.65
+562,Portugal,Viana do Castelo,Vilar,Male,08/06/1985,$7373.11
+563,Sweden,Dalarna,Älvdalen,Male,20/12/1987,$1755.24
+564,Mexico,Tamaulipas,Magdaleno Aguilar,Male,17/10/1987,$1188.11
+565,Mexico,Michoacan De Ocampo,San Rafael,Female,13/11/2005,$6230.34
+566,Mexico,Mexico,Morelos,Female,24/12/2001,$5229.44
+567,France,Corse,Ajaccio,Male,06/03/2010,$1824.90
+568,France,Île-de-France,Orsay,Male,18/02/2010,$1348.85
+569,Portugal,Porto,Sobrosa,Male,13/05/1987,$5264.43
+570,Sweden,Västra Götaland,Göteborg,Female,09/11/2003,$6190.47
+571,France,Île-de-France,Paris 11,Female,26/10/1993,$6649.25
+572,France,Alsace,Strasbourg,Female,13/01/1987,$3445.67
+573,Mexico,Michoacan De Ocampo,Independencia,Female,23/07/2007,$2407.39
+574,United States,Pennsylvania,Erie,Female,13/11/2005,$3334.96
+575,Mexico,Veracruz Llave,Lazaro Cardenas,Male,28/04/1989,$996.76
+576,France,Île-de-France,Paris 11,Female,30/01/2006,$1907.75
+577,France,Languedoc-Roussillon,Nîmes,Female,06/06/2002,$7213.98
+578,Portugal,Faro,Olhão,Female,07/05/1990,$3082.24
+579,France,Picardie,Saint-Quentin,Male,16/07/2004,$4826.17
+580,Sweden,Stockholm,Stockholm,Female,27/09/1992,$3358.30
+581,Sweden,Västra Götaland,Göteborg,Female,18/01/1985,$4250.40
+582,France,Languedoc-Roussillon,Nîmes,Female,05/04/1996,$1958.82
+583,Canada,Québec,Magog,Male,25/03/1994,$7753.78
+584,France,Provence-Alpes-Côte d'Azur,Avignon,Male,24/02/1984,$1742.83
+585,Portugal,Viseu,Aviúges,Female,16/09/2005,$4550.42
+586,United States,Massachusetts,Lynn,Male,19/10/1981,$6189.32
+587,United States,New Mexico,Las Cruces,Female,14/09/2005,$1112.80
+588,Sweden,Stockholm,Täby,Male,19/12/1995,$3372.24
+589,France,Aquitaine,Bordeaux,Male,01/11/2007,$7689.77
+590,France,Basse-Normandie,Bayeux,Female,27/10/1985,$5772.96
+591,Sweden,Kalmar,Västervik,Female,11/11/1987,$3028.28
+592,Sweden,Stockholm,Norsborg,Male,24/01/1983,$2282.26
+593,United States,North Carolina,Durham,Male,06/12/1991,$4879.74
+594,United States,Texas,Dallas,Male,24/06/1985,$3427.50
+595,Sweden,Jönköping,Vetlanda,Female,12/06/1985,$4733.60
+596,Sweden,Jämtland,Brunflo,Female,31/05/2007,$4348.19
+597,Portugal,Porto,Corgo,Male,25/05/1981,$4902.14
+598,Sweden,Jönköping,Huskvarna,Female,06/01/1985,$5238.49
+599,Portugal,Braga,Refojos,Female,01/06/1995,$5848.86
+600,France,Île-de-France,Moret-sur-Loing,Female,26/05/2003,$1422.11
+601,France,Île-de-France,Colombes,Female,09/02/1999,$1467.94
+602,Portugal,Porto,Lamoso,Male,22/04/1983,$942.32
+603,United States,Nebraska,Omaha,Female,06/10/1997,$6834.47
+604,Portugal,Coimbra,Albergaria,Female,23/07/2000,$3399.67
+605,Canada,Nova Scotia,Middleton,Male,11/05/1998,$4067.61
+606,France,Rhône-Alpes,Saint-Égrève,Male,21/11/1995,$3770.58
+607,Sweden,Stockholm,Norrtälje,Male,10/07/1997,$1823.14
+608,United States,Arkansas,North Little Rock,Female,27/08/2009,$805.10
+609,Portugal,Viseu,Portela,Male,10/12/1986,$4357.15
+610,Portugal,Setúbal,Alto do Estanqueiro,Male,14/12/1994,$7159.29
+611,Portugal,Coimbra,Montemor-o-Velho,Male,11/08/2006,$7800.59
+612,France,Basse-Normandie,L'Aigle,Male,18/02/2007,$2942.07
+613,United Kingdom,England,Newport,Male,30/05/2007,$1735.93
+614,Portugal,Porto,Ribas,Female,13/08/1985,$3248.92
+615,United States,California,San Rafael,Female,30/08/1995,$5057.48
+616,France,Nord-Pas-de-Calais,Lille,Female,04/04/1997,$5891.93
+617,Mexico,Guanajuato,San Francisco,Male,19/03/1992,$1395.82
+618,Canada,Ontario,Gananoque,Male,06/11/1992,$6598.41
+619,Portugal,Setúbal,Seixal,Female,24/05/1988,$1404.57
+620,France,Centre,Orléans,Female,14/04/1999,$6424.69
+621,Canada,Québec,Château-Richer,Male,08/06/2006,$5871.22
+622,Portugal,Lisboa,Santa Iria de Azóia,Female,13/02/1989,$5191.05
+623,Portugal,Porto,Seixo Alvo,Male,19/06/2003,$7779.56
+624,Canada,New Brunswick,Oromocto,Female,18/07/2007,$5396.24
+625,Portugal,Braga,Macieira de Rates,Female,18/07/2000,$1411.11
+626,Portugal,Aveiro,Cavadas,Female,28/11/2002,$6310.65
+627,United States,California,San Francisco,Male,20/09/1989,$1900.04
+628,France,Rhône-Alpes,Lyon,Male,26/06/1988,$4468.57
+629,Sweden,Västmanland,Norberg,Male,21/07/1987,$1846.26
+630,Sweden,Skåne,Landskrona,Female,21/08/1988,$2250.17
+631,France,Picardie,Saint-Quentin,Female,10/01/1981,$4796.47
+632,Sweden,Stockholm,Farsta,Female,07/03/2002,$1609.66
+633,Sweden,Skåne,Svalöv,Female,12/01/1998,$7553.46
+634,Canada,British Columbia,Cache Creek,Male,25/08/2003,$3585.21
+635,Portugal,Ilha de São Miguel,Lagoa,Female,09/05/2008,$6520.97
+636,Portugal,Viseu,Vale de Açores,Male,08/04/1995,$2608.66
+637,Canada,British Columbia,Cache Creek,Male,14/05/2004,$1405.83
+638,United States,Maryland,Baltimore,Female,09/05/2004,$1812.50
+639,United States,New York,Rochester,Male,01/01/2007,$1681.00
+640,France,Languedoc-Roussillon,Saint-Jean-de-Védas,Female,16/08/2003,$1336.07
+641,Portugal,Porto,Lavadorinhos,Female,11/08/1982,$6369.60
+642,United States,Florida,Miami,Male,02/03/1998,$7355.48
+643,Sweden,Västmanland,Fagersta,Male,27/03/2002,$2468.51
+644,United States,Minnesota,Rochester,Male,16/03/1989,$4260.81
+645,United Kingdom,Scotland,Newton,Female,12/01/1985,$809.15
+646,United States,Kentucky,Louisville,Female,05/05/2007,$5663.67
+647,Portugal,Faro,São Brás de Alportel,Male,26/10/1991,$7147.42
+648,Mexico,Nuevo Leon,Los Angeles,Female,25/08/2009,$2098.58
+649,Portugal,Portalegre,Campo Maior,Female,03/09/1997,$1575.77
+650,Canada,Québec,Notre-Dame-de-l'Île-Perrot,Female,10/04/1995,$3488.65
+651,France,Rhône-Alpes,La Ravoire,Female,19/05/2006,$5503.12
+652,Sweden,Västmanland,Köping,Female,18/11/1998,$6075.15
+653,France,Île-de-France,Nemours,Female,15/02/2000,$5316.35
+654,Portugal,Setúbal,Barra Cheia,Female,15/05/2006,$2533.07
+655,Portugal,Porto,Argivai,Female,03/10/1990,$6169.95
+656,Portugal,Santarém,Casais de Revelhos,Female,12/10/1991,$4371.91
+657,France,Lorraine,Metz,Male,03/09/2005,$3030.74
+658,Portugal,Lisboa,Junqueiro,Male,27/09/2008,$5825.82
+659,Mexico,Coahuila De Zaragoza,Francisco Villa,Male,03/04/1999,$5328.86
+660,Canada,Saskatchewan,White City,Female,09/10/1986,$2409.34
+661,Portugal,Setúbal,Quinta do Anjo,Male,13/01/1994,$7189.04
+662,Portugal,Setúbal,Torrão,Male,15/09/1983,$4803.14
+663,France,Poitou-Charentes,Saintes,Male,15/09/1999,$7900.09
+664,Mexico,Jalisco,Santa Rosa,Female,10/11/1985,$2174.45
+665,France,Lorraine,Laxou,Male,09/07/1996,$6606.39
+666,United States,Texas,Dallas,Male,17/02/2008,$3306.51
+667,Sweden,Jönköping,Eksjö,Female,24/01/1997,$4718.05
+668,United States,North Carolina,Charlotte,Female,12/07/1993,$3031.23
+669,France,Rhône-Alpes,Annecy,Female,18/12/1992,$3055.75
+670,Sweden,Södermanland,Eskilstuna,Male,26/02/2009,$6721.69
+671,United Kingdom,Scotland,Kinloch,Female,26/12/1980,$1385.97
+672,France,Rhône-Alpes,Bonneville,Male,31/01/1999,$5736.48
+673,United Kingdom,England,Norton,Male,05/03/1983,$1127.28
+674,United States,Florida,Miami,Female,07/11/1996,$1031.51
+675,Portugal,Lisboa,Serra da Silveira,Female,13/09/2009,$5213.70
+676,Portugal,Faro,Tavira,Female,09/06/2009,$3483.46
+677,France,Île-de-France,Vincennes,Female,31/05/1984,$1246.34
+678,France,Île-de-France,Paris La Défense,Male,27/05/2003,$1768.62
+679,France,Auvergne,Aurillac,Female,04/06/1995,$3227.73
+680,Sweden,Stockholm,Stockholm,Female,27/02/1983,$5412.88
+681,Portugal,Lisboa,Cabra Figa,Male,11/02/1985,$3122.25
+682,Mexico,Chihuahua,Fovissste,Female,07/02/1996,$4970.32
+683,Portugal,Braga,Telhado,Female,17/03/1986,$7659.54
+684,United States,California,San Francisco,Male,21/05/2009,$4979.70
+685,Mexico,Michoacan De Ocampo,Los Pinos,Female,09/10/1994,$2723.11
+686,Mexico,Jalisco,El Rosario,Male,25/02/2006,$2587.42
+687,Sweden,Stockholm,Stockholm,Female,24/06/1982,$6525.14
+688,France,Auvergne,Clermont-Ferrand,Female,17/07/1991,$1073.36
+689,Mexico,Coahuila De Zaragoza,Primero de Mayo,Male,17/07/1983,$2280.82
+690,France,Poitou-Charentes,Angoulême,Male,18/07/1985,$5778.85
+691,Mexico,Nuevo Leon,San Antonio,Female,25/04/1995,$1483.52
+692,Mexico,Tamaulipas,Cuauhtemoc,Female,17/12/2008,$4210.02
+693,Portugal,Beja,Peroguarda,Female,19/03/2009,$3303.24
+694,Canada,Québec,Sainte-Agathe-des-Monts,Male,22/07/1982,$6296.75
+695,Canada,Alberta,Fort Macleod,Female,02/07/2000,$4762.01
+696,Sweden,Stockholm,Stockholm,Female,02/06/1982,$2282.24
+697,United States,Georgia,Marietta,Female,05/06/2003,$6243.42
+698,Portugal,Beja,Selmes,Male,19/02/1994,$2533.59
+699,Portugal,Santarém,Alcanena,Male,17/04/2010,$6187.48
+700,United States,Tennessee,Memphis,Male,13/11/1996,$6488.85
+701,United States,California,Newport Beach,Male,03/09/1993,$953.73
+702,France,Île-de-France,Paris 08,Female,07/08/1989,$6728.72
+703,France,Île-de-France,Gif-sur-Yvette,Male,31/12/1989,$6691.81
+704,Sweden,Stockholm,Lidingö,Female,26/05/2008,$939.87
+705,France,Île-de-France,Le Blanc-Mesnil,Male,26/07/1983,$6946.23
+706,United Kingdom,England,Middleton,Female,03/01/1983,$1569.15
+707,Canada,Québec,Saint-Augustin,Male,02/02/1984,$6662.13
+708,Sweden,Jämtland,Sveg,Male,16/02/1991,$1240.82
+709,Canada,British Columbia,Sparwood,Male,28/07/1997,$5677.74
+710,Mexico,Tamaulipas,Las Palmas,Female,07/03/1998,$4460.26
+711,France,Picardie,Soissons,Male,30/07/2009,$2558.15
+712,Sweden,Skåne,Svedala,Male,18/03/1986,$1909.73
+713,United States,Florida,Fort Lauderdale,Female,07/02/1988,$4305.72
+714,Sweden,Västra Götaland,Göteborg,Male,07/01/1993,$3689.16
+715,Sweden,Uppsala,Knivsta,Male,30/12/1982,$3859.70
+716,Portugal,Porto,São Miguel,Female,21/09/1982,$1708.14
+717,United States,Tennessee,Memphis,Female,23/03/1997,$2306.02
+718,Canada,British Columbia,Anmore,Female,24/02/1997,$1647.59
+719,Mexico,Tamaulipas,San Antonio,Male,15/07/2002,$1390.00
+720,Mexico,Jalisco,Loma Bonita,Female,14/02/2004,$7803.39
+721,France,Provence-Alpes-Côte d'Azur,Gardanne,Male,31/08/1987,$1555.57
+722,France,Île-de-France,Cergy-Pontoise,Female,11/11/1981,$3374.55
+723,Portugal,Porto,Levandeira,Female,15/03/2004,$5798.07
+724,Portugal,Coimbra,Casais de Vera Cruz,Male,12/12/2003,$4260.82
+725,Portugal,Viseu,Carvalhal,Male,19/10/1999,$3618.49
+726,Sweden,Västra Götaland,Mölndal,Male,17/05/2001,$5977.38
+727,France,Centre,Fleury-les-Aubrais,Male,15/01/1988,$3812.30
+728,Portugal,Braga,Souto,Male,14/03/1996,$3574.50
+729,Sweden,Stockholm,Nykvarn,Male,14/09/1995,$6327.46
+730,Sweden,Stockholm,Lidingö,Female,11/12/2007,$2385.96
+731,France,Centre,Orléans,Male,13/02/1983,$2655.12
+732,France,Poitou-Charentes,Poitiers,Male,27/02/1989,$5700.29
+733,Portugal,Braga,Couto,Female,02/07/1982,$2880.77
+734,Portugal,Porto,Monte,Female,30/01/1981,$7548.51
+735,France,Île-de-France,Saint-Quentin-en-Yvelines,Female,21/04/2001,$4544.05
+736,Sweden,Västra Götaland,Askim,Male,29/01/1991,$4930.16
+737,Portugal,Braga,Real,Male,15/09/1992,$2261.44
+738,Portugal,Braga,São Bento,Male,07/08/1994,$3868.21
+739,United States,Michigan,Detroit,Male,20/11/2006,$2454.79
+740,France,Franche-Comté,Besançon,Male,18/05/1989,$3772.66
+741,United States,Alabama,Birmingham,Female,24/10/2003,$1839.10
+742,Sweden,Gävleborg,Söderhamn,Female,28/08/1988,$3011.36
+743,France,Basse-Normandie,Cherbourg-Octeville,Female,30/12/1983,$6749.04
+744,United States,Florida,Pompano Beach,Male,05/10/1998,$2212.91
+745,United States,Texas,Midland,Male,24/10/1990,$7638.46
+746,United States,Missouri,Saint Louis,Male,24/02/1997,$5130.58
+747,Portugal,Coimbra,Seixas,Male,29/11/1987,$5948.45
+748,Portugal,Porto,Constance,Female,26/05/1985,$7276.96
+749,Portugal,Lisboa,Tapada das Mercês,Female,05/06/1985,$2411.36
+750,France,Île-de-France,Orsay,Female,22/12/2006,$2561.84
+751,Sweden,Örebro,Askersund,Female,03/03/1996,$2172.78
+752,Sweden,Stockholm,Saltsjöbaden,Female,13/11/1984,$3765.74
+753,Sweden,Västra Götaland,Uddevalla,Female,18/08/1990,$5126.92
+754,Sweden,Västra Götaland,Bengtsfors,Male,29/01/1987,$5039.13
+755,Sweden,Södermanland,Strängnäs,Female,24/08/1982,$2385.94
+756,Portugal,Porto,Tapado,Female,04/07/2010,$6508.41
+757,United States,Washington,Bellevue,Male,04/11/1984,$5411.17
+758,France,Rhône-Alpes,Le Bourget-du-Lac,Female,15/11/2005,$7881.42
+759,Portugal,Aveiro,Póvoa,Female,16/06/1988,$3721.36
+760,United States,North Carolina,Charlotte,Male,08/01/1986,$2697.06
+761,Portugal,Lisboa,Fonte Boa dos Nabos,Male,30/06/1996,$6063.49
+762,France,Rhône-Alpes,Lyon,Female,25/09/1982,$1160.10
+763,United States,Florida,Tampa,Female,09/03/2002,$5805.91
+764,France,Lorraine,Metz,Female,15/10/2004,$2463.52
+765,Mexico,Mexico,San Antonio,Male,04/12/1980,$7517.14
+766,Portugal,Aveiro,Oliveirinha,Male,18/04/1982,$962.88
+767,France,Basse-Normandie,Carpiquet,Male,12/11/2000,$4510.14
+768,Sweden,Stockholm,Vallentuna,Male,04/10/2005,$7937.78
+769,Portugal,Viana do Castelo,Vilarelho,Female,13/05/2000,$4466.02
+770,Portugal,Braga,Sobreira,Female,17/11/1991,$7482.17
+771,Canada,British Columbia,Osoyoos,Male,06/01/2010,$2617.72
+772,Portugal,Viseu,Vales,Male,23/06/1999,$6056.46
+773,Sweden,Gävleborg,Gävle,Male,21/11/1980,$2789.50
+774,Portugal,Viana do Castelo,Chão,Male,04/10/2007,$7313.37
+775,United States,Florida,Orlando,Male,17/06/1991,$7516.22
+776,Portugal,Lisboa,Catujal Velho,Male,11/04/2001,$7491.62
+777,United States,Michigan,Saginaw,Male,29/07/2002,$1175.28
+778,France,Franche-Comté,Belfort,Male,24/09/1989,$7125.73
+779,France,Île-de-France,Bonneuil-sur-Marne,Female,23/12/1986,$7474.04
+780,United States,Kentucky,Louisville,Female,18/05/1988,$4117.83
+781,France,Centre,Tours,Female,11/08/2005,$2471.10
+782,Portugal,Porto,Póvoa,Male,05/11/2006,$2263.59
+783,Canada,New Brunswick,Dieppe,Male,31/10/1986,$1318.68
+784,Portugal,Bragança,Santulhão,Male,07/02/1994,$6043.66
+785,France,Île-de-France,Rueil-Malmaison,Female,31/03/1987,$3108.98
+786,United Kingdom,England,Bradford,Female,15/02/1981,$1887.39
+787,Sweden,Skåne,Tyringe,Female,03/03/2004,$7475.57
+788,Sweden,Stockholm,Vällingby,Male,14/03/1985,$2692.72
+789,Canada,Québec,Oka,Male,26/02/2002,$1994.12
+790,Mexico,Guerrero,El Paraiso,Female,25/02/1990,$3814.74
+791,Sweden,Halland,Halmstad,Male,26/07/2009,$6261.32
+792,Mexico,Tamaulipas,Azteca,Male,18/05/2000,$3209.90
+793,Portugal,Setúbal,Vale Boeiro,Male,08/03/2003,$7421.85
+794,United States,California,Sunnyvale,Male,20/01/1988,$3621.99
+795,Portugal,Porto,Eiriz,Male,13/06/1999,$3200.25
+796,Portugal,Santarém,Ferreira do Zêzere,Male,19/08/2009,$4575.88
+797,Portugal,Vila Real,Santa Valha,Male,24/03/1990,$5746.59
+798,Mexico,Mexico,San Martin,Female,26/02/1989,$2837.82
+799,United States,New York,Jamaica,Male,08/11/1985,$2816.85
+800,France,Bretagne,Roscoff,Female,16/12/2002,$5843.31
+801,Sweden,Värmland,Arvika,Male,08/12/2005,$5443.77
+802,France,Provence-Alpes-Côte d'Azur,Nice,Female,18/03/2003,$5404.43
+803,United States,Minnesota,Young America,Female,03/03/2008,$4329.22
+804,Sweden,Västra Götaland,Lidköping,Female,22/07/2004,$4306.65
+805,Portugal,Leiria,Serra D'El Rei,Male,28/10/2004,$4323.07
+806,Mexico,Veracruz Llave,Lindavista,Female,25/08/2008,$6888.06
+807,France,Languedoc-Roussillon,Béziers,Female,12/11/1980,$1366.21
+808,France,Bourgogne,Beaune,Male,24/07/2001,$3381.06
+809,France,Bretagne,Quimperlé,Male,05/10/1989,$5459.27
+810,Sweden,Stockholm,Solna,Female,10/11/2003,$1188.09
+811,Canada,Québec,Magog,Female,22/07/1997,$3646.85
+812,United States,Michigan,Detroit,Male,02/09/1982,$3581.83
+813,Portugal,Viana do Castelo,Lameira,Female,13/11/1998,$6030.61
+814,United States,Pennsylvania,Philadelphia,Male,01/09/1991,$7248.09
+815,Canada,Québec,Donnacona,Female,27/06/2005,$1032.14
+816,Sweden,Stockholm,Bromma,Female,19/04/1986,$7701.36
+817,Sweden,Skåne,Trelleborg,Male,23/07/1981,$3027.41
+818,Portugal,Braga,Barbudo,Male,07/05/1994,$7794.99
+819,United States,Florida,Gainesville,Female,04/07/2007,$3591.60
+820,France,Rhône-Alpes,Aubenas,Female,23/08/1992,$5447.93
+821,Portugal,Braga,Lamas,Male,17/02/1982,$7552.80
+822,Canada,Alberta,Athabasca,Male,20/05/2010,$5387.93
+823,Sweden,Stockholm,Stockholm,Female,29/12/1991,$7290.49
+824,Sweden,Örebro,Kopparberg,Female,21/11/1981,$4767.88
+825,Portugal,Setúbal,Casal do Sapo,Female,15/05/1998,$877.91
+826,Sweden,Västra Götaland,Ulricehamn,Male,30/06/1990,$3840.66
+827,Sweden,Västra Götaland,Göteborg,Female,23/07/2005,$4148.82
+828,Canada,New Brunswick,Nackawic,Female,02/09/1992,$4139.57
+829,Portugal,Viana do Castelo,Mosteiro,Female,20/06/1994,$5252.25
+830,United States,Georgia,Atlanta,Female,21/01/1983,$7589.64
+831,Sweden,Kalmar,Hultsfred,Female,16/10/1989,$5830.80
+832,United States,Connecticut,New Haven,Female,03/06/1996,$4441.41
+833,Sweden,Halland,Varberg,Female,14/01/1982,$3951.59
+834,United Kingdom,England,Sheffield,Male,28/11/1984,$6517.73
+835,United States,Texas,Fort Worth,Male,26/06/1991,$2891.78
+836,France,Provence-Alpes-Côte d'Azur,Villefranche-sur-Mer,Female,19/10/1989,$7068.52
+837,Sweden,Stockholm,Stockholm,Female,14/05/1998,$5338.30
+838,Portugal,Lisboa,Casal de Cambra,Female,12/05/1983,$7373.73
+839,Sweden,Stockholm,Stockholm,Female,18/11/1997,$1624.94
+840,Sweden,Jönköping,Nässjö,Female,06/03/2010,$6819.26
+841,Sweden,Stockholm,Stockholm,Male,14/11/2007,$7468.47
+842,Sweden,Västra Götaland,Sollebrunn,Female,23/12/1984,$5701.55
+843,United States,Texas,Corpus Christi,Male,05/12/1993,$3036.16
+844,Sweden,Kalmar,Västervik,Male,10/03/1982,$7314.87
+845,United States,Florida,Boca Raton,Female,12/05/2005,$5471.10
+846,France,Île-de-France,Paris 15,Female,01/04/2000,$2452.61
+847,Portugal,Porto,Maganha,Female,15/11/1985,$4320.80
+848,Mexico,Veracruz Llave,Buenos Aires,Male,05/04/1995,$7844.90
+849,Canada,Alberta,Coaldale,Male,14/05/2005,$5514.96
+850,Canada,Alberta,Nanton,Female,05/07/1986,$1385.71
+851,France,Lorraine,Épinal,Female,02/09/1998,$2306.32
+852,Portugal,Braga,Seara,Female,20/06/1993,$4550.26
+853,Sweden,Stockholm,Bandhagen,Female,07/01/1983,$3246.27
+854,France,Alsace,Strasbourg,Female,24/06/2010,$1999.59
+855,Portugal,Leiria,Porto de Mós,Female,14/11/1988,$7091.02
+856,France,Picardie,Amiens,Female,30/08/2006,$7606.13
+857,Portugal,Porto,Além,Female,20/06/2002,$3725.73
+858,France,Île-de-France,Paris 04,Male,06/05/1985,$6939.54
+859,France,Île-de-France,Paris 18,Female,26/08/2005,$4725.00
+860,United States,California,Lancaster,Female,02/10/1982,$1641.08
+861,United Kingdom,England,Norton,Male,24/09/2003,$1622.77
+862,Portugal,Coimbra,Ribeira,Female,23/08/1985,$7105.57
+863,United States,Delaware,Wilmington,Female,26/08/1999,$6285.14
+864,Portugal,Lisboa,Santiago dos Velhos,Male,19/08/2003,$7660.68
+865,France,Bretagne,Rennes,Male,02/11/1989,$4197.51
+866,France,Île-de-France,Boulogne-Billancourt,Male,28/02/2010,$7109.56
+867,Portugal,Leiria,Quinta do Sobrado,Female,06/05/1983,$3229.72
+868,France,Provence-Alpes-Côte d'Azur,Nice,Male,14/07/1996,$6648.08
+869,Canada,Québec,Mercier,Male,23/06/2010,$1876.11
+870,United Kingdom,England,Newtown,Female,13/06/1997,$3561.11
+871,Portugal,Beja,Vila Nova de Milfontes,Male,20/06/1988,$6298.92
+872,United States,California,Lancaster,Male,20/02/1990,$2065.92
+873,Portugal,Porto,Navais,Male,08/02/1997,$4472.72
+874,Canada,Québec,Saint-Lin-Laurentides,Female,30/03/1982,$5074.78
+875,Mexico,Mexico,Lazaro Cardenas,Male,13/03/2008,$1403.09
+876,Portugal,Braga,Atães,Male,18/10/1988,$2566.78
+877,France,Île-de-France,Cergy-Pontoise,Female,15/05/1986,$4680.61
+878,Sweden,Östergötland,Vadstena,Male,08/07/1992,$3775.21
+879,Mexico,Campeche,Guadalupe,Male,15/11/2003,$7646.16
+880,Sweden,Halland,Kungsbacka,Female,04/08/1993,$2587.45
+881,United States,Kentucky,Frankfort,Male,04/08/1987,$7402.15
+882,Portugal,Setúbal,Alcácer do Sal,Female,08/01/2005,$6296.35
+883,Canada,Saskatchewan,Watrous,Female,13/06/2004,$7039.05
+884,Portugal,Braga,Gonça,Female,18/01/1990,$6376.96
+885,Sweden,Gotland,Visby,Female,08/10/2006,$3420.93
+886,France,Île-de-France,Cergy-Pontoise,Male,23/09/1993,$1022.20
+887,Portugal,Setúbal,Pinhal de Frades,Female,31/01/1988,$1160.22
+888,Canada,Newfoundland and Labrador,Marystown,Female,24/10/1981,$2100.45
+889,United States,Illinois,Chicago,Male,14/08/1985,$3567.45
+890,United States,Florida,Tampa,Female,24/09/1992,$3912.08
+891,France,Rhône-Alpes,Annecy,Female,24/06/2005,$7382.35
+892,Portugal,Viana do Castelo,Vila Franca,Female,22/03/1982,$3567.38
+893,Canada,Saskatchewan,Moose Jaw,Female,06/05/1987,$1939.10
+894,United States,Arizona,Mesa,Female,01/11/2009,$7311.26
+895,Sweden,Stockholm,Skärholmen,Male,30/11/2004,$4107.46
+896,France,Aquitaine,Agen,Female,19/03/2007,$7634.03
+897,Mexico,Guanajuato,San Isidro,Female,10/06/2000,$5966.72
+898,United States,Texas,Houston,Male,17/06/2002,$1006.79
+899,Canada,Ontario,Carleton Place,Male,18/03/1992,$7565.57
+900,Mexico,Puebla,Buenavista,Male,06/10/1986,$825.82
+901,France,Île-de-France,Paris 14,Female,06/06/2002,$5198.50
+902,United States,Virginia,Roanoke,Female,17/08/2008,$3720.58
+903,Sweden,Stockholm,Johanneshov,Male,07/04/1991,$4176.07
+904,Portugal,Lisboa,Famões,Male,09/07/1998,$2381.31
+905,United States,Florida,Daytona Beach,Female,05/10/2000,$5196.14
+906,Sweden,Stockholm,Täby,Female,10/06/1999,$3873.74
+907,France,Provence-Alpes-Côte d'Azur,Sophia Antipolis,Female,10/09/1984,$5814.99
+908,Canada,Québec,Saint-Bruno-de-Guigues,Female,03/02/1998,$2268.22
+909,Sweden,Södermanland,Eskilstuna,Female,15/05/1997,$7858.32
+910,Sweden,Dalarna,Borlänge,Male,16/10/2005,$7242.59
+911,Sweden,Skåne,Svalöv,Female,08/07/1994,$1430.78
+912,Canada,Alberta,Crossfield,Female,10/02/1996,$7370.54
+913,United States,Ohio,Toledo,Male,20/06/1996,$3911.57
+914,Portugal,Ilha de São Miguel,Porto Formoso,Female,27/06/2009,$7591.61
+915,Canada,Québec,Labelle,Male,06/10/1986,$5150.96
+916,Canada,New Brunswick,Nackawic,Female,10/03/2006,$5372.60
+917,United States,Florida,Saint Petersburg,Female,20/10/2003,$1668.43
+918,Portugal,Vila Real,Igreja,Male,07/08/2003,$7070.82
+919,Canada,Alberta,Grande Cache,Male,11/07/2008,$991.46
+920,France,Provence-Alpes-Côte d'Azur,Marseille,Female,11/05/1994,$2874.62
+921,France,Île-de-France,Paris 14,Male,11/09/1995,$3945.26
+922,Portugal,Porto,Vinhas,Female,16/11/2000,$6154.03
+923,Sweden,Västra Götaland,Billdal,Male,22/10/1991,$7885.38
+924,Portugal,Porto,Sobrosa,Female,27/04/1984,$6184.82
+925,Portugal,Coimbra,Vilarinho,Female,25/06/1991,$7198.71
+926,Portugal,Castelo Branco,Souto da Casa,Female,12/08/1998,$6545.90
+927,United States,Oregon,Portland,Female,10/08/2006,$6185.72
+928,France,Aquitaine,Bordeaux,Female,11/01/1988,$1598.58
+929,United States,Hawaii,Honolulu,Male,04/12/1982,$4285.93
+930,Sweden,Västra Götaland,Alingsås,Female,26/09/2000,$5087.05
+931,Portugal,Braga,Eirado,Female,14/11/1998,$2270.42
+932,United States,Connecticut,Hartford,Male,30/12/1990,$4901.14
+933,United States,South Carolina,Spartanburg,Male,02/11/2005,$1966.51
+934,France,Franche-Comté,Besançon,Male,01/11/1983,$7537.16
+935,France,Poitou-Charentes,Niort,Female,04/11/1985,$6430.52
+936,United States,Connecticut,Hartford,Male,16/04/1982,$4066.86
+937,France,Aquitaine,Cestas,Female,26/03/1995,$3531.22
+938,United States,California,Van Nuys,Male,03/05/1995,$1967.98
+939,Canada,Ontario,Greater Napanee,Male,13/08/1992,$3468.54
+940,United States,Illinois,Chicago,Female,27/11/2000,$7530.19
+941,France,Auvergne,Montluçon,Female,18/04/2010,$2118.25
+942,United States,Kentucky,Lexington,Male,18/07/2007,$7890.52
+943,France,Languedoc-Roussillon,Alès,Female,22/06/1996,$3849.89
+944,France,Rhône-Alpes,Lyon,Female,02/07/2004,$2671.01
+945,France,Île-de-France,Créteil,Female,20/09/1987,$5511.34
+946,Portugal,Lisboa,Alverca do Ribatejo,Female,27/11/2005,$5368.89
+947,Portugal,Bragança,Valtelheiro,Male,21/01/1986,$4468.82
+948,United Kingdom,England,Kingston,Male,06/12/1982,$3837.29
+949,Sweden,Halland,Kungsbacka,Male,01/07/1999,$4615.15
+950,France,Île-de-France,Paris 02,Male,26/05/1983,$5521.83
+951,Portugal,Braga,Alminhas,Male,11/03/1984,$2558.30
+952,United States,Virginia,Richmond,Male,29/01/2010,$7749.41
+953,France,Bourgogne,Mâcon,Female,22/11/2002,$1032.68
+954,Mexico,Veracruz Llave,Emiliano Zapata,Male,06/11/2009,$4856.16
+955,United States,Arizona,Scottsdale,Female,26/11/2006,$7947.82
+956,Portugal,Lisboa,Várzea de Sintra,Female,14/04/2000,$3114.52
+957,France,Île-de-France,Saint-Quentin-en-Yvelines,Female,17/12/2006,$5352.76
+958,France,Île-de-France,Paris La Défense,Female,15/10/1993,$6294.64
+959,Sweden,Norrbotten,Luleå,Female,08/08/1983,$7155.79
+960,France,Île-de-France,Domont,Female,03/12/1988,$4953.85
+961,United States,Virginia,Reston,Male,17/10/1987,$7817.66
+962,France,Aquitaine,Blaye,Male,01/10/2004,$880.79
+963,France,Corse,Ajaccio,Female,23/11/1998,$7201.06
+964,United States,Texas,Beaumont,Male,06/05/2006,$2735.48
+965,France,Île-de-France,Issy-les-Moulineaux,Male,19/05/1985,$3752.70
+966,France,Alsace,Strasbourg,Male,27/02/1981,$6987.28
+967,Mexico,Guerrero,Arroyo Seco,Female,14/10/1996,$1780.40
+968,Portugal,Setúbal,Morgados,Female,29/01/1998,$2335.56
+969,Sweden,Västerbotten,Umeå,Male,08/08/1989,$7745.97
+970,Sweden,Skåne,Svalöv,Female,06/01/2002,$1798.82
+971,France,Limousin,Limoges,Male,13/02/1985,$4583.37
+972,France,Île-de-France,Neuilly-sur-Marne,Female,27/08/2007,$5163.00
+973,Portugal,Aveiro,Sangalhos,Male,21/01/2006,$2562.92
+974,United States,Alabama,Mobile,Female,24/01/2007,$4942.31
+975,Portugal,Santarém,Meia Via,Female,23/06/1992,$7816.46
+976,Portugal,Coimbra,Senhor da Serra,Female,13/05/1981,$5847.43
+977,Portugal,Setúbal,Canha,Male,08/06/1984,$4443.31
+978,France,Centre,Orléans,Male,23/10/1996,$5620.85
+979,Portugal,Aveiro,Cruzeiro,Male,30/07/2008,$1618.95
+980,Portugal,Santarém,Almeirim,Female,22/04/1985,$7982.36
+981,Portugal,Viseu,Quintãs,Female,20/04/1999,$2320.29
+982,France,Pays de la Loire,Le Mans,Male,12/03/1994,$1265.76
+983,Mexico,Distrito Federal,El Mirador,Female,06/06/2004,$7048.51
+984,Portugal,Braga,Souto,Female,17/10/2008,$6105.52
+985,United States,Texas,Dallas,Female,29/05/1999,$5896.63
+986,Sweden,Örebro,Hallsberg,Female,16/10/1985,$6173.77
+987,Sweden,Jönköping,Habo,Male,02/12/1994,$6525.63
+988,United States,California,San Francisco,Female,23/03/1999,$2460.19
+989,United States,Alaska,Anchorage,Female,31/03/1997,$4630.14
+990,France,Rhône-Alpes,Cran-Gevrier,Female,26/08/1996,$4630.99
+991,France,Centre,Saint-Avertin,Male,08/04/1981,$7680.45
+992,Sweden,Västra Götaland,Strömstad,Female,22/01/1987,$1919.83
+993,France,Provence-Alpes-Côte d'Azur,Martigues,Male,27/10/1989,$1655.67
+994,Canada,Ontario,Mississauga,Female,14/09/1999,$7202.18
+995,Portugal,Vila Real,Vidago,Male,27/02/1991,$7831.28
+996,Canada,Saskatchewan,Nipawin,Female,29/11/1995,$7782.63
+997,Portugal,Portalegre,Santo Aleixo,Female,09/02/1988,$4772.43
+998,France,Île-de-France,Boissy-Saint-Léger,Male,17/10/1990,$5004.78
+999,France,Bretagne,Rennes,Male,23/09/1996,$5362.26
+1000,Mexico,Guanajuato,Lindavista,Female,19/11/2006,$3737.37
