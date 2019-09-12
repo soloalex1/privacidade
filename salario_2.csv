@@ -1,0 +1,1001 @@
+pais,estado,cidade,data,salario,genero
+United States,Alabama,Mobile,10/01/1987,$5407.86,1
+Portugal,Porto,Rego,29/11/2007,$7833.82,1
+Sweden,Kalmar,Emmaboda,23/06/1984,$5530.85,1
+Sweden,Västmanland,Sala,04/11/1983,$2803.76,0
+France,Bretagne,Quimperlé,18/11/1990,$2201.87,0
+United States,Ohio,Cincinnati,10/07/1981,$4047.44,0
+France,Poitou-Charentes,Niort,23/03/1989,$2004.14,0
+Mexico,Tamaulipas,Del Valle,02/05/1990,$883.43,1
+United States,Oklahoma,Oklahoma City,27/11/1992,$5307.88,1
+France,Champagne-Ardenne,Reims,19/01/2007,$7418.79,0
+United States,Florida,Melbourne,29/01/2007,$813.67,1
+Sweden,Värmland,Årjäng,25/03/1995,$5435.41,1
+Sweden,Uppsala,Uppsala,15/01/1996,$2541.75,0
+Sweden,Södermanland,Katrineholm,31/10/2002,$4874.88,0
+United States,Kentucky,Frankfort,14/11/1980,$4178.43,0
+Sweden,Stockholm,Älvsjö,05/05/1985,$4391.85,0
+Canada,Manitoba,Thompson,30/04/2009,$6289.41,1
+United States,Alabama,Mobile,06/05/1983,$2934.66,0
+Mexico,Veracruz Llave,Morelos,09/11/2004,$6995.08,1
+Sweden,Dalarna,Avesta,04/05/2000,$6250.72,0
+Sweden,Kalmar,Nybro,28/02/1996,$2923.67,0
+United States,Texas,Corpus Christi,06/01/1999,$4941.92,1
+United Kingdom,England,Church End,27/04/1992,$3585.70,1
+France,Haute-Normandie,Rouen,20/09/2002,$7512.12,1
+France,Pays de la Loire,Nantes,21/11/1990,$4627.31,0
+Sweden,Västernorrland,Kvissleby,19/10/1981,$5563.83,1
+Sweden,Västra Götaland,Göteborg,01/12/2000,$3472.88,1
+Portugal,Portalegre,Santo Aleixo,25/10/1999,$2534.88,1
+France,Franche-Comté,Besançon,19/04/1994,$5689.99,1
+Sweden,Stockholm,Gustavsberg,16/08/1999,$4848.93,0
+Mexico,Veracruz Llave,Lindavista,09/03/2000,$7103.44,0
+France,Bretagne,Vannes,03/02/1992,$3827.17,1
+Portugal,Porto,Guimarei,18/04/1996,$7202.43,0
+Sweden,Skåne,Ystad,17/09/1999,$6552.66,0
+Sweden,Västra Götaland,Göteborg,30/12/1997,$938.01,1
+Portugal,Castelo Branco,Aranhas,03/04/1981,$5772.69,0
+Portugal,Setúbal,Santana,01/06/2000,$3591.12,1
+Portugal,Porto,Fojo,29/05/1981,$7847.46,0
+United States,Kentucky,Louisville,26/10/1993,$3472.73,0
+Portugal,Aveiro,Canedo,23/12/1999,$5979.17,1
+Portugal,Viana do Castelo,Viso,12/01/2005,$1213.00,0
+Portugal,Vila Real,Mondim de Basto,18/08/1981,$7539.41,0
+Sweden,Skåne,Ängelholm,28/06/2004,$7758.57,0
+Sweden,Stockholm,Sundbyberg,17/03/2000,$4941.80,0
+Portugal,Vila Real,Amieiro,25/02/2008,$6907.90,0
+Portugal,Braga,Agra,29/04/1997,$3200.30,1
+Portugal,Santarém,Barrosa,17/01/1981,$1133.30,0
+France,Île-de-France,Paris 10,15/01/2004,$1191.96,0
+France,Centre,Tours,18/07/2010,$6336.71,1
+Sweden,Gävleborg,Gävle,29/09/1985,$6867.13,0
+Canada,British Columbia,Burns Lake,25/07/2001,$2894.36,0
+United States,Colorado,Denver,27/10/2009,$4689.02,0
+Portugal,Lisboa,Algueirão,08/02/1995,$2363.38,0
+Sweden,Stockholm,Hägersten,26/07/2000,$919.06,1
+Portugal,Coimbra,Costa de Rios Frios,07/10/1988,$3223.62,0
+Mexico,San Luis Potosi,San Francisco,11/01/1993,$6528.84,0
+Portugal,Leiria,Chão de Couce,25/09/1988,$2944.40,1
+United States,Missouri,Saint Louis,22/02/2010,$6968.33,0
+Portugal,Castelo Branco,Aldeia do Bispo,26/07/1996,$2642.75,0
+France,Pays de la Loire,Nantes,26/08/2004,$6148.93,0
+Portugal,Guarda,Muxagata,07/10/1997,$7077.49,0
+United States,Colorado,Greeley,01/07/2007,$3435.80,1
+Portugal,Aveiro,Veiros,05/05/1995,$6842.64,1
+Mexico,Chiapas,San Sebastian,31/08/2001,$2690.43,0
+France,Bourgogne,Nuits-Saint-Georges,26/02/1989,$1186.54,1
+Portugal,Ilha de São Miguel,Ribeira Grande,21/07/1988,$4022.26,0
+Portugal,Porto,Moinhos,10/06/1984,$2420.72,1
+United States,Pennsylvania,Pittsburgh,02/11/1988,$1348.47,0
+France,Île-de-France,Bobigny,14/10/1997,$5536.87,0
+Mexico,Puebla,El Calvario,05/02/1990,$6445.22,1
+France,Bretagne,Saint-Grégoire,13/02/1998,$5323.97,1
+Mexico,Oaxaca,Las Palmas,24/06/2008,$7170.52,1
+France,Pays de la Loire,Nantes,05/05/2007,$6432.81,0
+United States,Oklahoma,Tulsa,23/12/2007,$7653.00,0
+Canada,Ontario,Collingwood,16/06/1990,$4627.92,0
+United States,West Virginia,Huntington,21/06/2010,$7983.68,0
+Portugal,Viseu,Granja,11/01/1987,$1586.61,1
+United States,California,San Bernardino,21/07/2000,$6964.99,0
+Canada,Saskatchewan,Kamsack,28/06/1998,$4094.94,1
+Canada,Manitoba,Altona,27/01/2007,$983.67,0
+Mexico,Oaxaca,Lazaro Cardenas,07/09/2009,$2858.06,0
+Portugal,Ilha da Madeira,Igreja,25/03/1994,$4504.29,1
+Sweden,Västra Götaland,Göteborg,24/08/1999,$5383.93,1
+Canada,British Columbia,Vanderhoof,31/12/1987,$4100.69,0
+Portugal,Vila Real,Montalegre,02/05/1999,$6999.54,1
+France,Île-de-France,Paris 09,05/05/2008,$4254.84,1
+Sweden,Örebro,Örebro,04/09/1988,$6144.12,0
+Portugal,Aveiro,Nogueira da Regedoura,10/05/1997,$1247.98,1
+Canada,Manitoba,Carman,20/07/2004,$7209.03,0
+Mexico,Jalisco,Santa Cecilia,30/10/1984,$2076.62,0
+France,Lorraine,Longwy,23/09/1983,$4160.18,0
+France,Pays de la Loire,Nantes,26/01/2004,$5054.87,1
+United States,Indiana,Evansville,16/09/2000,$1676.91,0
+Portugal,Viseu,Cepões,25/10/1980,$7622.47,0
+Sweden,Jönköping,Nässjö,23/02/2010,$2260.68,1
+Sweden,Västra Götaland,Lysekil,18/03/1996,$4862.69,1
+France,Lorraine,Vagney,19/03/2010,$7595.55,0
+Portugal,Ilha de São Miguel,Feteira Grande,03/12/1995,$4389.71,1
+Sweden,Stockholm,Vällingby,20/03/2009,$2293.48,0
+Portugal,Setúbal,Almada,24/09/2000,$3573.26,1
+France,Provence-Alpes-Côte d'Azur,Saint-Laurent-du-Var,20/01/1993,$6974.65,0
+Sweden,Stockholm,Järfälla,06/05/2005,$5609.60,0
+Sweden,Västernorrland,Sundsvall,30/03/2004,$6963.88,1
+Sweden,Norrbotten,Boden,14/06/1981,$2161.64,1
+Canada,Newfoundland and Labrador,Pasadena,03/06/1984,$7913.17,0
+Mexico,Michoacan De Ocampo,Emiliano Zapata,10/09/1994,$6686.36,1
+Portugal,Lisboa,Cobre,25/01/1983,$6691.57,1
+Portugal,Braga,Sobreira,26/12/2003,$7386.55,1
+Canada,Québec,Saint-Augustin,28/11/1995,$7292.50,0
+Sweden,Västerbotten,Skellefteå,11/07/2000,$3615.07,0
+Portugal,Porto,Lamas,20/04/1985,$1488.42,0
+France,Île-de-France,Paris 05,25/01/1994,$2236.23,0
+Mexico,Guerrero,Fovissste,13/06/2001,$2184.75,0
+Canada,Québec,Saint-Raymond,02/12/1990,$6642.44,1
+Mexico,Zacatecas,Francisco I Madero,19/11/1997,$4077.84,1
+Canada,Manitoba,Lac du Bonnet,24/07/1993,$7376.21,1
+Sweden,Stockholm,Hässelby,12/02/1983,$7922.29,1
+Mexico,Veracruz Llave,Vicente Guerrero,09/09/1981,$6340.24,0
+Portugal,Leiria,Passagem,01/01/2003,$2137.01,0
+Portugal,Braga,Vermoim,17/04/1984,$1558.87,1
+Portugal,Porto,Corujeira,17/01/2002,$1973.45,0
+Portugal,Santarém,Valada,29/03/2003,$5214.50,1
+Portugal,Viana do Castelo,Regueiro,10/06/1984,$5788.73,0
+Portugal,Lisboa,Francos,11/10/1980,$6314.95,1
+United States,Ohio,Cleveland,26/10/1998,$3562.87,0
+Portugal,Aveiro,Boavista,17/01/1981,$7973.93,1
+United States,Colorado,Denver,16/03/2001,$6553.93,1
+Canada,Manitoba,Morris,12/11/2004,$1129.83,1
+France,Centre,Saint-Avertin,01/07/1988,$5485.14,1
+Portugal,Lisboa,Bom Sucesso,28/05/2007,$4578.33,1
+Portugal,Guarda,Freixo de Numão,14/01/2000,$5737.46,0
+France,Île-de-France,Bondy,14/01/1994,$4879.99,1
+Sweden,Östergötland,Söderköping,12/10/1994,$4966.48,0
+Sweden,Västra Götaland,Uddevalla,31/03/1993,$5240.94,0
+Sweden,Uppsala,Uppsala,11/01/2008,$4109.65,0
+Sweden,Stockholm,Stockholm,16/06/1999,$6492.17,1
+France,Haute-Normandie,Le Havre,14/02/2002,$6889.74,0
+Sweden,Kronoberg,Alvesta,12/12/1994,$1916.17,0
+Portugal,Lisboa,Campelos,22/02/1996,$6026.38,1
+Sweden,Västra Götaland,Trollhättan,28/08/2008,$7268.00,0
+France,Provence-Alpes-Côte d'Azur,Marseille,04/02/1985,$1238.66,0
+Mexico,Puebla,Vicente Guerrero,06/02/1991,$3076.92,1
+Sweden,Blekinge,Mörrum,23/04/2000,$5745.78,1
+Canada,Québec,Lavaltrie,21/02/1997,$4240.55,0
+Portugal,Porto,Laúndos,06/10/2009,$1665.32,0
+Sweden,Dalarna,Smedjebacken,03/08/1988,$1574.30,1
+Portugal,Coimbra,Carromeu,05/12/1984,$3526.69,1
+Portugal,Lisboa,Colares,07/08/1981,$5751.78,0
+Portugal,Viseu,Cruz,18/11/1984,$7345.49,1
+France,Île-de-France,Paris 12,03/09/1993,$4480.55,0
+France,Bourgogne,Chenôve,08/02/2004,$4907.54,1
+Canada,Québec,Ormstown,24/11/1993,$5727.15,0
+Mexico,Coahuila De Zaragoza,Independencia,16/06/1996,$1144.42,0
+Mexico,Veracruz Llave,Francisco Villa,30/03/1999,$4430.56,1
+Sweden,Norrbotten,Boden,07/04/2006,$3003.76,1
+Portugal,Viana do Castelo,Agrela,20/03/1990,$1245.80,1
+Mexico,Chiapas,Santa Elena,23/09/1989,$7018.06,0
+Mexico,Nuevo Leon,Santa Fe,25/03/2008,$3602.31,1
+France,Aquitaine,Bordeaux,17/02/2001,$7665.32,1
+Canada,Newfoundland and Labrador,Torbay,14/07/1985,$5677.54,0
+Sweden,Skåne,Tomelilla,31/03/1982,$4407.88,0
+United States,Oklahoma,Tulsa,28/05/2005,$2729.76,1
+Sweden,Västernorrland,Njurunda,26/10/1984,$2809.72,0
+Canada,Ontario,Pickering,31/03/1995,$6383.39,1
+Portugal,Braga,Loureiro,15/01/2001,$7327.12,0
+Portugal,Viana do Castelo,Portela,13/01/1990,$3878.76,0
+Portugal,Santarém,Chouto,24/05/1990,$6680.18,1
+Sweden,Västmanland,Köping,18/08/2003,$7582.88,0
+Mexico,Veracruz Llave,Francisco Villa,12/05/2003,$4663.81,1
+Mexico,Nayarit,Independencia,25/08/1994,$3389.21,1
+Portugal,Porto,São Mamede de Infesta,28/05/1995,$6584.92,1
+Portugal,Setúbal,Morgados,07/10/1985,$5932.94,1
+France,Aquitaine,Villeneuve-sur-Lot,01/12/1990,$1841.41,1
+United States,Colorado,Denver,29/04/2009,$943.67,0
+Portugal,Aveiro,Lombo Meão,20/08/2002,$7540.04,1
+Sweden,Västra Götaland,Lerum,26/12/1984,$2350.70,0
+Portugal,Bragança,Santulhão,01/02/2002,$7917.34,1
+Canada,Ontario,Napanee Downtown,04/09/2005,$1319.03,1
+France,Île-de-France,Colombes,24/01/2006,$1492.88,1
+Sweden,Stockholm,Täby,27/01/2003,$7718.13,0
+Portugal,Porto,Maganha,20/05/1996,$3296.00,0
+United States,Oklahoma,Tulsa,17/05/2004,$5946.05,1
+Sweden,Södermanland,Eskilstuna,25/05/1990,$7175.98,1
+Portugal,Braga,Couto,25/04/1983,$7046.63,0
+France,Aquitaine,Sarlat-la-Canéda,26/08/2008,$3542.00,1
+Sweden,Östergötland,Norrköping,13/02/2007,$2411.09,1
+France,Île-de-France,Arcueil,20/02/1995,$5825.49,1
+Portugal,Viana do Castelo,Quintães,10/12/2002,$4332.69,0
+United States,Florida,West Palm Beach,30/08/1989,$2495.07,0
+United States,Louisiana,Shreveport,31/01/2000,$5152.79,0
+France,Île-de-France,Levallois-Perret,03/08/2007,$3525.88,0
+Canada,Ontario,Owen Sound,27/06/1993,$7096.91,0
+Portugal,Porto,Engenho,24/03/1988,$4302.66,0
+Portugal,Viseu,Igreja,16/03/1987,$7760.46,0
+United States,Ohio,Dayton,30/05/1999,$3911.50,1
+Canada,Ontario,Timmins,29/04/1997,$5974.55,0
+Sweden,Västmanland,Västerås,10/07/1990,$4682.04,1
+United States,Florida,Kissimmee,26/11/2008,$5236.49,1
+Mexico,Veracruz Llave,Petrolera,12/09/1994,$3408.00,1
+Sweden,Stockholm,Åkersberga,02/03/1989,$6874.81,1
+France,Provence-Alpes-Côte d'Azur,Marseille,18/07/1981,$1353.19,0
+France,Nord-Pas-de-Calais,Noyelles-sous-Lens,22/06/2001,$3316.55,1
+Sweden,Västra Götaland,Göteborg,10/03/1994,$7586.61,0
+Sweden,Västra Götaland,Mölndal,19/02/1997,$6062.26,0
+Canada,Québec,Sainte-Anne-des-Monts,05/11/1982,$3027.02,0
+France,Basse-Normandie,Saint-Lô,29/01/1987,$2422.65,0
+Portugal,Lisboa,Santa Iria de Azóia,26/08/2003,$2866.63,1
+France,Pays de la Loire,Saint-Herblain,23/07/1992,$1484.69,0
+France,Languedoc-Roussillon,Montpellier,12/06/2006,$6325.50,0
+France,Bretagne,Rennes,05/06/2009,$6712.81,1
+Canada,Nunavut,Iqaluit,30/03/2006,$1786.57,0
+France,Île-de-France,Évry,17/04/1981,$2654.98,0
+Portugal,Viana do Castelo,Quintães,21/07/1984,$7319.09,0
+France,Île-de-France,Rungis,24/03/1993,$7733.10,1
+United States,Maryland,Silver Spring,22/12/1988,$7157.05,0
+United States,Texas,San Antonio,01/02/1981,$4000.92,1
+Mexico,Veracruz Llave,Azteca,17/10/1993,$2071.57,0
+Portugal,Aveiro,Lombo Meão,13/04/2005,$3717.17,1
+Canada,Saskatchewan,Kindersley,14/10/1994,$4511.71,1
+United States,New Jersey,Newark,16/03/1991,$1329.70,0
+France,Aquitaine,Trélissac,20/03/1995,$5475.66,0
+Sweden,Västra Götaland,Mölndal,12/09/1996,$6059.58,0
+United States,Virginia,Roanoke,31/07/1993,$4241.71,0
+Portugal,Lisboa,Carrascal,02/02/1991,$6417.75,1
+Canada,Manitoba,Niverville,20/05/1998,$979.70,0
+France,Île-de-France,Morangis,14/06/1984,$3466.43,1
+Portugal,Ilha de São Miguel,Porto Formoso,28/05/1984,$4964.31,1
+France,Île-de-France,Courbevoie,27/11/1989,$4959.20,1
+Sweden,Västra Götaland,Tibro,19/02/2009,$7665.45,1
+France,Basse-Normandie,Argentan,01/09/1989,$1280.62,0
+Canada,Saskatchewan,Dalmeny,25/06/1983,$5469.92,0
+France,Île-de-France,Colombes,19/04/1981,$3435.34,0
+Portugal,Setúbal,Vale Boeiro,02/12/1996,$7753.83,0
+Canada,Québec,Mont-Laurier,03/06/1985,$4501.34,1
+Portugal,Aveiro,Vessada,25/07/2005,$4728.31,0
+France,Île-de-France,Paris 13,29/03/1987,$2627.52,1
+United Kingdom,England,Stapleford,12/08/1996,$7166.43,0
+France,Lorraine,Lunéville,24/10/2003,$4105.04,1
+Portugal,Porto,Veiga,01/06/1985,$3863.39,1
+Sweden,Skåne,Ystad,29/06/2010,$2969.04,1
+Canada,Alberta,Olds,29/06/2007,$4910.20,1
+Sweden,Kalmar,Vimmerby,20/01/1998,$1583.21,1
+Sweden,Västra Götaland,Alingsås,09/08/2002,$4382.96,0
+Portugal,Porto,Castelo,13/03/2005,$5283.42,0
+United States,Mississippi,Jackson,01/11/2005,$3112.29,0
+Mexico,Jalisco,Lagunillas,06/11/1986,$3989.06,1
+Sweden,Östergötland,Norrköping,15/07/2000,$3800.57,0
+Sweden,Uppsala,Uppsala,26/03/2008,$2096.28,1
+Canada,Ontario,Waterloo,23/04/2005,$2454.18,1
+Portugal,Leiria,Figueiras,05/02/2005,$6289.95,0
+Portugal,Braga,Castelões,02/10/1997,$2867.51,1
+United States,Connecticut,New Haven,03/05/1991,$1899.31,0
+United States,Michigan,Detroit,30/07/1986,$6235.09,1
+United States,California,Santa Rosa,09/04/2001,$5892.17,0
+Sweden,Stockholm,Stockholm,08/04/1995,$2007.00,0
+United States,District of Columbia,Washington,16/08/1984,$7827.47,1
+Sweden,Skåne,Klippan,12/04/1999,$4542.92,1
+Portugal,Leiria,Matos da Ranha,14/10/1987,$5038.59,1
+Portugal,Ilha de São Miguel,Ribeira Seca,11/12/2000,$5530.59,1
+France,Île-de-France,Sainte-Geneviève-des-Bois,26/07/1990,$7279.48,0
+Sweden,Stockholm,Stockholm,18/05/1994,$6950.84,0
+France,Nord-Pas-de-Calais,Wasquehal,08/08/2008,$2329.05,1
+Canada,British Columbia,Anmore,03/06/1994,$7760.58,0
+Sweden,Stockholm,Hallstavik,01/11/1986,$4664.24,0
+United States,Alabama,Birmingham,26/03/1993,$4300.13,1
+France,Île-de-France,Puteaux,10/07/2006,$7825.33,1
+Portugal,Braga,Macieira de Rates,05/10/1981,$1305.29,1
+Portugal,Vila Real,Murça,26/03/2006,$2060.75,0
+Canada,Québec,Vaudreuil-Dorion,15/08/2002,$3613.73,1
+Portugal,Viana do Castelo,Coutada,03/02/1993,$4919.65,1
+Sweden,Stockholm,Kista,12/11/1981,$7035.04,0
+Portugal,Viseu,Cabanas de Viriato,29/01/1992,$5919.34,0
+United Kingdom,Scotland,Edinburgh,10/01/2008,$2367.97,0
+Canada,Alberta,Camrose,26/09/2003,$6593.84,1
+Portugal,Guarda,Sebadelhe,23/06/1985,$2854.38,0
+United States,Ohio,Youngstown,04/08/1989,$2775.31,0
+United States,California,Los Angeles,31/12/1990,$1165.10,0
+United States,Arizona,Tucson,28/04/1989,$7511.52,0
+Mexico,Sinaloa,Emiliano Zapata,22/06/2004,$4531.43,1
+Sweden,Södermanland,Nyköping,16/03/2004,$6630.49,1
+Portugal,Viseu,Várzea,09/10/1994,$5268.85,0
+United States,Michigan,Grand Rapids,09/11/1999,$1575.72,1
+Portugal,Braga,Infantas,10/08/2001,$4663.87,1
+United States,New York,Albany,17/07/1981,$5953.02,0
+France,Rhône-Alpes,Saint-Étienne,16/06/1996,$5399.22,0
+Mexico,Durango,Francisco Villa,05/12/1999,$1452.90,1
+Canada,Saskatchewan,Swift Current,03/02/1988,$3401.73,1
+Portugal,Braga,Boucinha,03/12/1996,$1657.74,1
+Sweden,Västra Götaland,Tibro,19/08/2006,$3520.57,1
+United States,West Virginia,Charleston,22/06/1982,$5750.62,0
+France,Alsace,Sélestat,26/08/1981,$4263.66,1
+Portugal,Viseu,Quintãs,20/07/1992,$6639.31,0
+Portugal,Viana do Castelo,Loureiro,17/08/1996,$6549.93,1
+Canada,Québec,Lac-Mégantic,26/09/1981,$7082.80,1
+France,Centre,Tours,28/02/1996,$1934.60,0
+Sweden,Örebro,Degerfors,26/07/2004,$3875.41,1
+Canada,Ontario,Brampton,01/11/1980,$6095.84,1
+Canada,Ontario,Innisfil,06/08/1988,$2465.50,0
+Portugal,Leiria,Amieirinha,07/11/1983,$4776.95,0
+Portugal,Bragança,Carrazeda de Ansiães,10/07/1994,$7467.66,0
+Canada,New Brunswick,Saint Andrews,16/06/1996,$1693.13,0
+France,Picardie,Noyon,20/02/1987,$7063.28,1
+France,Franche-Comté,Belfort,01/06/2007,$6827.27,0
+United States,New Jersey,Trenton,04/07/2004,$1342.37,1
+Sweden,Skåne,Landskrona,30/11/1988,$962.08,1
+France,Lorraine,Épinal,27/07/1985,$3201.59,0
+France,Bretagne,Noyal-sur-Vilaine,02/11/1999,$5116.30,1
+France,Pays de la Loire,Nantes,02/09/1994,$7145.67,1
+Canada,Québec,Maskinongé,08/03/2008,$7816.91,1
+United States,Pennsylvania,Erie,21/10/1986,$6068.22,1
+United States,Ohio,Cincinnati,18/09/1988,$2843.99,1
+Portugal,Santarém,Praia do Ribatejo,27/11/2000,$3375.21,0
+France,Limousin,Guéret,20/05/2003,$5080.95,0
+Canada,Ontario,Brant,24/06/1981,$5453.13,1
+United States,Indiana,Evansville,13/04/1987,$3191.09,1
+United States,Idaho,Boise,05/08/1999,$4924.11,0
+Canada,Ontario,Angus,21/11/2007,$1611.63,0
+France,Pays de la Loire,Laval,24/06/1984,$1350.28,0
+Mexico,Oaxaca,Buenavista,11/05/1994,$6285.72,0
+Portugal,Braga,Pedome,28/07/1988,$6594.48,0
+Sweden,Stockholm,Tumba,11/05/1995,$7278.18,0
+Portugal,Castelo Branco,Tortosendo,12/03/2010,$5730.25,0
+France,Provence-Alpes-Côte d'Azur,Marseille,23/10/1992,$5763.40,0
+France,Provence-Alpes-Côte d'Azur,Le Pontet,12/07/2003,$7199.46,1
+Sweden,Västerbotten,Vilhelmina,07/09/1999,$1611.42,1
+Sweden,Västernorrland,Sundsvall,26/01/2004,$4631.52,1
+United States,California,Santa Barbara,14/01/2008,$6841.99,1
+France,Île-de-France,Paris 08,06/03/2009,$5216.68,1
+Sweden,Stockholm,Stockholm,08/04/1991,$4912.45,1
+Portugal,Viana do Castelo,Arão,19/05/1982,$3783.40,1
+Canada,Québec,Lévis,18/06/1984,$5790.08,1
+United States,New York,New York City,15/12/2001,$2622.47,0
+United States,Missouri,Independence,24/08/2000,$4095.50,1
+Portugal,Porto,Veiga,06/08/2005,$7795.42,0
+Sweden,Östergötland,Linköping,14/11/2000,$2321.79,1
+Portugal,Ilha de São Miguel,Ajuda,03/06/1993,$5532.48,0
+Portugal,Ilha Terceira,Biscoitos,25/10/1994,$7857.47,1
+Mexico,Chiapas,Santa Elena,16/11/1999,$1534.82,1
+United States,Florida,Tallahassee,04/10/1997,$5428.38,0
+France,Centre,Fleury-les-Aubrais,27/04/2010,$2902.49,0
+Mexico,Oaxaca,Guadalupe,01/05/1995,$5563.62,0
+Mexico,Chihuahua,Guadalupe,16/05/1986,$7049.85,0
+France,Île-de-France,Antony,05/04/1983,$1020.66,1
+Portugal,Coimbra,Vila Pouca da Beira,02/02/1981,$4450.49,0
+France,Île-de-France,Évry,30/07/2000,$2851.56,1
+Mexico,Coahuila De Zaragoza,Santa Maria,24/03/1998,$3769.13,0
+France,Île-de-France,Paris La Défense,21/11/2009,$5410.56,0
+Sweden,Västra Götaland,Lidköping,04/04/1990,$4161.69,0
+France,Pays de la Loire,Angers,07/01/2000,$7274.50,0
+United States,Florida,Saint Petersburg,26/02/2004,$3435.26,0
+United States,North Carolina,Charlotte,10/05/1997,$5366.98,1
+United States,Texas,Houston,28/08/1987,$3006.83,0
+United States,California,Sacramento,17/01/1981,$3362.11,1
+Sweden,Stockholm,Järfälla,28/04/1984,$3349.35,1
+Sweden,Skåne,Helsingborg,13/12/1982,$1322.83,0
+Sweden,Västra Götaland,Göteborg,16/06/1985,$6881.36,1
+United States,Kentucky,Lexington,04/09/1981,$5249.08,0
+United States,Minnesota,Saint Paul,03/11/1994,$3041.78,0
+Sweden,Västerbotten,Umeå,17/07/1999,$3109.94,1
+France,Pays de la Loire,Rezé,18/12/1996,$4354.51,1
+Portugal,Coimbra,São Paio de Gramaços,31/12/1992,$2849.06,0
+Portugal,Setúbal,Torrão,10/12/1984,$2661.36,1
+Sweden,Stockholm,Stockholm,15/07/1985,$1145.67,0
+Canada,Québec,Senneterre,07/09/2006,$3407.45,1
+France,Franche-Comté,Besançon,02/08/1999,$6940.06,0
+Portugal,Coimbra,São Paio de Gramaços,18/12/1996,$7588.24,0
+Portugal,Ilha de São Miguel,Porto Formoso,16/04/2001,$6118.17,1
+Portugal,Leiria,Carpalho,26/04/1989,$1858.90,1
+United States,Oklahoma,Tulsa,01/01/1995,$3480.31,0
+Portugal,Vila Real,Ribeiro,26/05/2005,$2106.68,1
+Portugal,Santarém,Zibreira,12/10/2000,$5964.41,0
+France,Rhône-Alpes,Chambéry,07/06/2001,$3747.55,0
+Portugal,Porto,Cruzeiro,13/08/1982,$6067.37,1
+Portugal,Leiria,Portela,17/04/1995,$2582.92,1
+Sweden,Norrbotten,Piteå,02/03/1988,$2746.65,1
+Canada,Ontario,Atikokan,14/10/2000,$4938.67,0
+Sweden,Stockholm,Hägersten,03/01/1994,$2943.14,0
+Sweden,Västra Götaland,Göteborg,06/09/2003,$2946.37,1
+France,Haute-Normandie,Sotteville-lès-Rouen,16/05/1989,$4400.91,0
+Portugal,Braga,Lordelo,02/10/1980,$6267.86,1
+Portugal,Lisboa,Vale de Figueira,22/05/2004,$3639.38,0
+Sweden,Värmland,Karlstad,17/06/1985,$3014.90,0
+Canada,Alberta,Edson,10/07/1985,$4468.31,0
+France,Rhône-Alpes,Cluses,22/11/1998,$1191.22,1
+Sweden,Västerbotten,Vilhelmina,07/02/1982,$6563.49,0
+Sweden,Västra Götaland,Färgelanda,20/02/2002,$6869.03,0
+Mexico,Chiapas,Guadalupe,10/09/1995,$3667.75,0
+Sweden,Dalarna,Falun,13/09/1993,$1455.74,1
+Portugal,Lisboa,Casal de Cambra,15/12/1997,$4461.88,1
+France,Île-de-France,Puteaux,13/11/1990,$7503.54,1
+Canada,Alberta,Irricana,09/05/1998,$4675.13,1
+France,Île-de-France,Boulogne-Billancourt,19/01/1998,$6769.72,1
+Portugal,Lisboa,Estribeiro,25/09/2007,$6191.96,0
+United States,Texas,Irving,14/01/1985,$7700.50,0
+France,Limousin,Ussel,13/03/1986,$3988.74,1
+Sweden,Skåne,Staffanstorp,20/10/1983,$6293.42,1
+United States,Texas,Austin,06/10/1982,$3358.51,0
+United States,Indiana,Indianapolis,19/06/1995,$5116.24,0
+France,Centre,Orléans,15/11/2005,$1242.05,0
+Mexico,Oaxaca,Lindavista,13/06/1990,$3556.11,0
+France,Provence-Alpes-Côte d'Azur,Marseille,30/01/1991,$2772.86,0
+Sweden,Västra Götaland,Dalsjöfors,28/11/1985,$6436.46,1
+France,Centre,Nogent-le-Rotrou,25/03/1986,$976.45,0
+Mexico,Michoacan De Ocampo,Emiliano Zapata,28/10/2006,$7184.92,0
+Sweden,Halland,Laholm,07/10/1998,$4576.59,0
+Mexico,Guerrero,La Esperanza,15/02/1984,$7303.77,1
+Sweden,Västra Götaland,Göteborg,30/03/1986,$5891.65,0
+Mexico,San Luis Potosi,Infonavit,14/10/2000,$1126.55,0
+Canada,Newfoundland and Labrador,Catalina,09/10/1985,$3993.28,0
+Portugal,Faro,Armação de Pêra,20/03/1990,$1610.27,0
+Mexico,Sinaloa,Los Angeles,29/08/2003,$1095.44,0
+United States,Missouri,Independence,05/08/2008,$1320.94,0
+France,Provence-Alpes-Côte d'Azur,Istres,09/10/2003,$6183.10,0
+France,Rhône-Alpes,Cluses,03/11/1995,$2565.78,0
+France,Bretagne,Lannion,13/08/1999,$6856.56,1
+France,Île-de-France,Chilly-Mazarin,11/02/2005,$1174.30,1
+United States,Pennsylvania,Erie,29/06/1983,$3201.71,0
+Mexico,Michoacan De Ocampo,La Palma,26/11/1989,$2344.10,1
+Sweden,Kalmar,Torsås,28/06/2007,$7478.53,0
+Canada,Ontario,Midland,27/07/1994,$7060.60,0
+Portugal,Porto,Vilela,29/05/1995,$948.41,0
+France,Limousin,Limoges,25/12/1998,$4491.03,1
+Portugal,Lisboa,Paço de Arcos,05/10/1989,$5108.35,1
+France,Poitou-Charentes,Niort,01/08/1981,$6674.63,0
+United States,Pennsylvania,Philadelphia,25/03/1995,$1697.67,1
+United States,California,Sacramento,08/10/1989,$6742.63,0
+United States,California,San Diego,29/07/1993,$2795.69,1
+France,Lorraine,Metz,20/03/1982,$2458.05,1
+Portugal,Setúbal,Charneca da Cotovia,23/01/2002,$7649.68,0
+Portugal,Beja,Vila Nova de Milfontes,20/02/1982,$7296.43,1
+Portugal,Braga,Lama,07/03/2008,$2142.15,1
+Canada,Québec,Napierville,04/09/1992,$4234.16,0
+Portugal,Porto,São Mamede de Infesta,11/05/2008,$7233.37,0
+Portugal,Porto,Cabo de Vila,18/03/1986,$1684.26,0
+Portugal,Ilha de São Miguel,Achadinha,02/09/1988,$1426.01,0
+United States,Texas,Irving,11/10/1986,$1059.41,1
+France,Centre,Orléans,15/11/2009,$7519.69,1
+United States,Florida,Gainesville,27/10/1991,$5721.70,1
+France,Rhône-Alpes,Lyon,18/06/1991,$6410.80,0
+France,Île-de-France,Paris 09,07/06/1984,$5823.97,0
+Sweden,Dalarna,Falun,01/10/1986,$2881.34,1
+France,Île-de-France,Antony,10/12/1986,$2918.64,0
+France,Provence-Alpes-Côte d'Azur,Nice,11/03/1995,$2208.72,1
+Sweden,Stockholm,Täby,08/11/1987,$5057.22,0
+Portugal,Braga,Vermoim,26/02/1986,$2309.35,0
+Portugal,Coimbra,Almalaguês,12/11/2005,$6172.13,0
+France,Champagne-Ardenne,Langres,12/10/1993,$5796.92,0
+France,Limousin,Limoges,24/02/1991,$1399.34,1
+Portugal,Aveiro,Fornos,22/06/1996,$2981.49,0
+Canada,Nova Scotia,Sydney Mines,04/03/2002,$5937.25,1
+Portugal,Vila Real,Loivos,18/04/2005,$4370.17,1
+United States,California,San Diego,19/11/2004,$7942.98,0
+Sweden,Västra Götaland,Göteborg,12/08/1990,$7924.89,1
+Sweden,Västra Götaland,Bohus,04/08/2001,$6578.25,1
+France,Nord-Pas-de-Calais,Wasquehal,03/08/2005,$4518.41,0
+Canada,Saskatchewan,Maple Creek,28/09/1986,$7689.46,1
+Portugal,Porto,Linhares,19/01/1988,$4590.54,1
+Mexico,Veracruz Llave,Dante Delgado,25/08/1984,$7741.81,0
+Portugal,Ilha de São Miguel,Sete Cidades,06/05/1988,$4126.56,0
+Portugal,Porto,Penedo,26/02/1997,$2932.96,1
+Mexico,Mexico,La Virgen,14/12/2001,$7814.46,1
+Canada,Ontario,Pickering,05/09/1994,$3688.22,0
+Mexico,Oaxaca,Buenavista,20/12/1995,$959.80,1
+Canada,Québec,Notre-Dame-de-l'Île-Perrot,21/05/2005,$7600.54,1
+Sweden,Stockholm,Stockholm,01/01/1998,$2909.91,0
+United States,Massachusetts,Springfield,09/04/2002,$1041.43,0
+Portugal,Porto,Ladário,19/04/2003,$4930.40,0
+United States,Florida,Fort Lauderdale,22/06/1998,$4324.50,0
+France,Rhône-Alpes,Lyon,20/03/1998,$6223.79,1
+Portugal,Coimbra,Sarzedo,27/08/1994,$1809.17,1
+Portugal,Évora,Portel,01/10/1980,$3090.80,0
+United States,New York,New Hyde Park,13/04/2004,$5447.94,0
+Sweden,Uppsala,Bålsta,15/03/2004,$5477.25,0
+United States,Missouri,Kansas City,14/08/1995,$2946.19,1
+Portugal,Viana do Castelo,Giesteira,28/08/1983,$7454.96,1
+Canada,Alberta,Rocky Mountain House,21/07/2001,$7801.31,0
+Portugal,Porto,Pereiras,14/12/1995,$4764.60,0
+Sweden,Stockholm,Älvsjö,13/12/1986,$5373.09,0
+United States,West Virginia,Charleston,03/08/1991,$1288.62,0
+Mexico,Chiapas,San Isidro,20/03/2005,$6825.59,0
+Portugal,Porto,Eido,31/07/1983,$7130.79,0
+Canada,British Columbia,Summerland,17/04/1982,$1653.38,1
+Mexico,Guerrero,Fovissste,18/06/1985,$7525.73,0
+United States,Massachusetts,Boston,17/04/1981,$5002.09,1
+Sweden,Södermanland,Eskilstuna,03/02/2003,$886.98,0
+Portugal,Lisboa,Campelos,14/05/1994,$2437.75,1
+Portugal,Porto,Fonte,01/07/1999,$3392.24,1
+United States,South Dakota,Sioux Falls,24/10/1984,$5910.48,1
+France,Aquitaine,Mérignac,11/06/1986,$4783.94,0
+United States,District of Columbia,Washington,04/07/1988,$4199.58,0
+Sweden,Västra Götaland,Göteborg,19/05/1992,$5268.12,0
+Sweden,Norrbotten,Kalix,20/02/1999,$4632.50,1
+Canada,Québec,Coaticook,20/06/1981,$6657.46,0
+Canada,Québec,Saguenay,10/06/1987,$5427.64,0
+France,Nord-Pas-de-Calais,Saint-Amand-les-Eaux,21/09/2004,$3511.27,1
+Mexico,Veracruz Llave,Pemex,07/06/2008,$7048.06,0
+Portugal,Bragança,Paradela,29/11/1987,$1374.14,1
+Portugal,Coimbra,Sarzedo,12/12/2000,$5999.29,0
+United States,Virginia,Newport News,11/08/1994,$2781.81,0
+Portugal,Porto,Constance,13/09/1990,$5823.77,0
+France,Provence-Alpes-Côte d'Azur,Avignon,28/05/1999,$1622.32,0
+Sweden,Västra Götaland,Torslanda,14/01/1992,$6651.08,0
+Canada,Manitoba,Killarney,15/11/1986,$3502.45,1
+France,Île-de-France,Montreuil,30/07/1996,$7410.13,0
+Sweden,Västra Götaland,Svenljunga,04/03/1989,$3218.09,1
+Sweden,Uppsala,Uppsala,08/06/2005,$7134.93,0
+Sweden,Södermanland,Katrineholm,08/05/1982,$7783.26,1
+Canada,Nunavut,Gjoa Haven,31/12/2005,$3918.00,1
+France,Languedoc-Roussillon,Lattes,14/06/1992,$6363.88,1
+Portugal,Coimbra,Vidual,20/05/1983,$7453.73,0
+Sweden,Skåne,Trelleborg,16/10/1990,$1900.48,0
+Portugal,Porto,Barroco,08/07/2008,$5866.61,0
+Portugal,Santarém,Olival,27/03/1998,$6954.30,1
+Portugal,Lisboa,Pobral,13/09/2003,$6760.76,1
+Canada,Alberta,Vegreville,31/05/2001,$3909.93,0
+France,Île-de-France,Rungis,28/10/2007,$3533.25,1
+Sweden,Östergötland,Linköping,05/02/1989,$1370.53,0
+United States,District of Columbia,Washington,01/11/1981,$1715.64,0
+France,Île-de-France,Rueil-Malmaison,21/06/2010,$3645.69,1
+France,Île-de-France,Cergy-Pontoise,20/03/1983,$6872.51,0
+France,Rhône-Alpes,Tassin-la-Demi-Lune,11/04/1989,$1355.25,0
+France,Lorraine,Metz,09/11/1997,$6428.54,0
+France,Rhône-Alpes,Guilherand-Granges,05/11/2000,$5368.06,0
+Canada,Québec,Drummondville,08/03/1998,$3976.35,0
+Canada,New Brunswick,Oromocto,29/05/2002,$1403.76,0
+Sweden,Stockholm,Stockholm,10/05/1996,$6416.83,0
+Portugal,Aveiro,Igreja,29/06/2002,$4713.83,0
+Canada,Ontario,Milton,26/01/1995,$6983.95,1
+Mexico,Coahuila De Zaragoza,Las Flores,30/06/2005,$2435.84,1
+Canada,Alberta,Coaldale,22/08/1995,$3609.17,1
+France,Provence-Alpes-Côte d'Azur,Cannes,21/12/1984,$6860.11,0
+Sweden,Värmland,Säffle,06/11/1990,$6509.58,0
+United States,Texas,Fort Worth,01/04/1981,$6749.17,1
+Portugal,Viseu,Vales,09/07/1987,$1367.51,0
+Portugal,Santarém,Parreira,20/10/1980,$1653.56,0
+Sweden,Örebro,Hallsberg,28/07/2001,$3625.99,0
+France,Provence-Alpes-Côte d'Azur,Nice,02/03/2003,$1466.87,1
+Portugal,Faro,Quarteira,29/04/1994,$2666.96,1
+Mexico,Guanajuato,Emiliano Zapata,12/08/1991,$5747.87,1
+Portugal,Faro,Monte Francisco,24/04/1991,$5189.45,0
+United States,Ohio,Cleveland,23/05/1986,$7694.59,0
+Mexico,Mexico,La Mesa,29/08/2000,$4477.79,1
+Portugal,Évora,Monte do Outeiro,02/08/1982,$4052.82,0
+Canada,Alberta,Banff,25/05/2005,$1310.34,0
+Portugal,Vila Real,Celeirós,03/09/1982,$2029.76,0
+France,Alsace,Molsheim,26/07/2007,$6749.86,1
+France,Centre,Blois,21/07/2002,$3635.14,1
+Mexico,Guanajuato,Miguel Hidalgo,04/04/2000,$7718.68,1
+United States,Alaska,Anchorage,23/10/1981,$5731.07,1
+Portugal,Setúbal,Jardia,07/08/1997,$3572.00,0
+Portugal,Évora,Monte de Trigo,20/06/2009,$3078.97,1
+France,Languedoc-Roussillon,Perpignan,27/08/2003,$3478.88,0
+Mexico,San Luis Potosi,San Jose,01/10/1996,$2667.16,0
+Sweden,Dalarna,Älvdalen,16/07/2006,$7201.47,0
+United States,Texas,Fort Worth,18/12/1986,$2926.75,0
+Canada,Nunavut,Kugluktuk,10/06/1998,$7697.11,0
+Canada,Ontario,Hearst,04/10/2001,$6431.42,0
+United States,New York,New York City,29/01/2005,$1509.69,0
+United States,West Virginia,Huntington,31/10/2007,$2476.57,1
+Sweden,Västra Götaland,Bengtsfors,15/03/1994,$5726.93,1
+Sweden,Stockholm,Bromma,22/04/1992,$5169.65,1
+Portugal,Viana do Castelo,Vilar,08/06/1985,$7373.11,1
+Sweden,Dalarna,Älvdalen,20/12/1987,$1755.24,1
+Mexico,Tamaulipas,Magdaleno Aguilar,17/10/1987,$1188.11,1
+Mexico,Michoacan De Ocampo,San Rafael,13/11/2005,$6230.34,0
+Mexico,Mexico,Morelos,24/12/2001,$5229.44,0
+France,Corse,Ajaccio,06/03/2010,$1824.90,1
+France,Île-de-France,Orsay,18/02/2010,$1348.85,1
+Portugal,Porto,Sobrosa,13/05/1987,$5264.43,1
+Sweden,Västra Götaland,Göteborg,09/11/2003,$6190.47,0
+France,Île-de-France,Paris 11,26/10/1993,$6649.25,0
+France,Alsace,Strasbourg,13/01/1987,$3445.67,0
+Mexico,Michoacan De Ocampo,Independencia,23/07/2007,$2407.39,0
+United States,Pennsylvania,Erie,13/11/2005,$3334.96,0
+Mexico,Veracruz Llave,Lazaro Cardenas,28/04/1989,$996.76,1
+France,Île-de-France,Paris 11,30/01/2006,$1907.75,0
+France,Languedoc-Roussillon,Nîmes,06/06/2002,$7213.98,0
+Portugal,Faro,Olhão,07/05/1990,$3082.24,0
+France,Picardie,Saint-Quentin,16/07/2004,$4826.17,1
+Sweden,Stockholm,Stockholm,27/09/1992,$3358.30,0
+Sweden,Västra Götaland,Göteborg,18/01/1985,$4250.40,0
+France,Languedoc-Roussillon,Nîmes,05/04/1996,$1958.82,0
+Canada,Québec,Magog,25/03/1994,$7753.78,1
+France,Provence-Alpes-Côte d'Azur,Avignon,24/02/1984,$1742.83,1
+Portugal,Viseu,Aviúges,16/09/2005,$4550.42,0
+United States,Massachusetts,Lynn,19/10/1981,$6189.32,1
+United States,New Mexico,Las Cruces,14/09/2005,$1112.80,0
+Sweden,Stockholm,Täby,19/12/1995,$3372.24,1
+France,Aquitaine,Bordeaux,01/11/2007,$7689.77,1
+France,Basse-Normandie,Bayeux,27/10/1985,$5772.96,0
+Sweden,Kalmar,Västervik,11/11/1987,$3028.28,0
+Sweden,Stockholm,Norsborg,24/01/1983,$2282.26,1
+United States,North Carolina,Durham,06/12/1991,$4879.74,1
+United States,Texas,Dallas,24/06/1985,$3427.50,1
+Sweden,Jönköping,Vetlanda,12/06/1985,$4733.60,0
+Sweden,Jämtland,Brunflo,31/05/2007,$4348.19,0
+Portugal,Porto,Corgo,25/05/1981,$4902.14,1
+Sweden,Jönköping,Huskvarna,06/01/1985,$5238.49,0
+Portugal,Braga,Refojos,01/06/1995,$5848.86,0
+France,Île-de-France,Moret-sur-Loing,26/05/2003,$1422.11,0
+France,Île-de-France,Colombes,09/02/1999,$1467.94,0
+Portugal,Porto,Lamoso,22/04/1983,$942.32,1
+United States,Nebraska,Omaha,06/10/1997,$6834.47,0
+Portugal,Coimbra,Albergaria,23/07/2000,$3399.67,0
+Canada,Nova Scotia,Middleton,11/05/1998,$4067.61,1
+France,Rhône-Alpes,Saint-Égrève,21/11/1995,$3770.58,1
+Sweden,Stockholm,Norrtälje,10/07/1997,$1823.14,1
+United States,Arkansas,North Little Rock,27/08/2009,$805.10,0
+Portugal,Viseu,Portela,10/12/1986,$4357.15,1
+Portugal,Setúbal,Alto do Estanqueiro,14/12/1994,$7159.29,1
+Portugal,Coimbra,Montemor-o-Velho,11/08/2006,$7800.59,1
+France,Basse-Normandie,L'Aigle,18/02/2007,$2942.07,1
+United Kingdom,England,Newport,30/05/2007,$1735.93,1
+Portugal,Porto,Ribas,13/08/1985,$3248.92,0
+United States,California,San Rafael,30/08/1995,$5057.48,0
+France,Nord-Pas-de-Calais,Lille,04/04/1997,$5891.93,0
+Mexico,Guanajuato,San Francisco,19/03/1992,$1395.82,1
+Canada,Ontario,Gananoque,06/11/1992,$6598.41,1
+Portugal,Setúbal,Seixal,24/05/1988,$1404.57,0
+France,Centre,Orléans,14/04/1999,$6424.69,0
+Canada,Québec,Château-Richer,08/06/2006,$5871.22,1
+Portugal,Lisboa,Santa Iria de Azóia,13/02/1989,$5191.05,0
+Portugal,Porto,Seixo Alvo,19/06/2003,$7779.56,1
+Canada,New Brunswick,Oromocto,18/07/2007,$5396.24,0
+Portugal,Braga,Macieira de Rates,18/07/2000,$1411.11,0
+Portugal,Aveiro,Cavadas,28/11/2002,$6310.65,0
+United States,California,San Francisco,20/09/1989,$1900.04,1
+France,Rhône-Alpes,Lyon,26/06/1988,$4468.57,1
+Sweden,Västmanland,Norberg,21/07/1987,$1846.26,1
+Sweden,Skåne,Landskrona,21/08/1988,$2250.17,0
+France,Picardie,Saint-Quentin,10/01/1981,$4796.47,0
+Sweden,Stockholm,Farsta,07/03/2002,$1609.66,0
+Sweden,Skåne,Svalöv,12/01/1998,$7553.46,0
+Canada,British Columbia,Cache Creek,25/08/2003,$3585.21,1
+Portugal,Ilha de São Miguel,Lagoa,09/05/2008,$6520.97,0
+Portugal,Viseu,Vale de Açores,08/04/1995,$2608.66,1
+Canada,British Columbia,Cache Creek,14/05/2004,$1405.83,1
+United States,Maryland,Baltimore,09/05/2004,$1812.50,0
+United States,New York,Rochester,01/01/2007,$1681.00,1
+France,Languedoc-Roussillon,Saint-Jean-de-Védas,16/08/2003,$1336.07,0
+Portugal,Porto,Lavadorinhos,11/08/1982,$6369.60,0
+United States,Florida,Miami,02/03/1998,$7355.48,1
+Sweden,Västmanland,Fagersta,27/03/2002,$2468.51,1
+United States,Minnesota,Rochester,16/03/1989,$4260.81,1
+United Kingdom,Scotland,Newton,12/01/1985,$809.15,0
+United States,Kentucky,Louisville,05/05/2007,$5663.67,0
+Portugal,Faro,São Brás de Alportel,26/10/1991,$7147.42,1
+Mexico,Nuevo Leon,Los Angeles,25/08/2009,$2098.58,0
+Portugal,Portalegre,Campo Maior,03/09/1997,$1575.77,0
+Canada,Québec,Notre-Dame-de-l'Île-Perrot,10/04/1995,$3488.65,0
+France,Rhône-Alpes,La Ravoire,19/05/2006,$5503.12,0
+Sweden,Västmanland,Köping,18/11/1998,$6075.15,0
+France,Île-de-France,Nemours,15/02/2000,$5316.35,0
+Portugal,Setúbal,Barra Cheia,15/05/2006,$2533.07,0
+Portugal,Porto,Argivai,03/10/1990,$6169.95,0
+Portugal,Santarém,Casais de Revelhos,12/10/1991,$4371.91,0
+France,Lorraine,Metz,03/09/2005,$3030.74,1
+Portugal,Lisboa,Junqueiro,27/09/2008,$5825.82,1
+Mexico,Coahuila De Zaragoza,Francisco Villa,03/04/1999,$5328.86,1
+Canada,Saskatchewan,White City,09/10/1986,$2409.34,0
+Portugal,Setúbal,Quinta do Anjo,13/01/1994,$7189.04,1
+Portugal,Setúbal,Torrão,15/09/1983,$4803.14,1
+France,Poitou-Charentes,Saintes,15/09/1999,$7900.09,1
+Mexico,Jalisco,Santa Rosa,10/11/1985,$2174.45,0
+France,Lorraine,Laxou,09/07/1996,$6606.39,1
+United States,Texas,Dallas,17/02/2008,$3306.51,1
+Sweden,Jönköping,Eksjö,24/01/1997,$4718.05,0
+United States,North Carolina,Charlotte,12/07/1993,$3031.23,0
+France,Rhône-Alpes,Annecy,18/12/1992,$3055.75,0
+Sweden,Södermanland,Eskilstuna,26/02/2009,$6721.69,1
+United Kingdom,Scotland,Kinloch,26/12/1980,$1385.97,0
+France,Rhône-Alpes,Bonneville,31/01/1999,$5736.48,1
+United Kingdom,England,Norton,05/03/1983,$1127.28,1
+United States,Florida,Miami,07/11/1996,$1031.51,0
+Portugal,Lisboa,Serra da Silveira,13/09/2009,$5213.70,0
+Portugal,Faro,Tavira,09/06/2009,$3483.46,0
+France,Île-de-France,Vincennes,31/05/1984,$1246.34,0
+France,Île-de-France,Paris La Défense,27/05/2003,$1768.62,1
+France,Auvergne,Aurillac,04/06/1995,$3227.73,0
+Sweden,Stockholm,Stockholm,27/02/1983,$5412.88,0
+Portugal,Lisboa,Cabra Figa,11/02/1985,$3122.25,1
+Mexico,Chihuahua,Fovissste,07/02/1996,$4970.32,0
+Portugal,Braga,Telhado,17/03/1986,$7659.54,0
+United States,California,San Francisco,21/05/2009,$4979.70,1
+Mexico,Michoacan De Ocampo,Los Pinos,09/10/1994,$2723.11,0
+Mexico,Jalisco,El Rosario,25/02/2006,$2587.42,1
+Sweden,Stockholm,Stockholm,24/06/1982,$6525.14,0
+France,Auvergne,Clermont-Ferrand,17/07/1991,$1073.36,0
+Mexico,Coahuila De Zaragoza,Primero de Mayo,17/07/1983,$2280.82,1
+France,Poitou-Charentes,Angoulême,18/07/1985,$5778.85,1
+Mexico,Nuevo Leon,San Antonio,25/04/1995,$1483.52,0
+Mexico,Tamaulipas,Cuauhtemoc,17/12/2008,$4210.02,0
+Portugal,Beja,Peroguarda,19/03/2009,$3303.24,0
+Canada,Québec,Sainte-Agathe-des-Monts,22/07/1982,$6296.75,1
+Canada,Alberta,Fort Macleod,02/07/2000,$4762.01,0
+Sweden,Stockholm,Stockholm,02/06/1982,$2282.24,0
+United States,Georgia,Marietta,05/06/2003,$6243.42,0
+Portugal,Beja,Selmes,19/02/1994,$2533.59,1
+Portugal,Santarém,Alcanena,17/04/2010,$6187.48,1
+United States,Tennessee,Memphis,13/11/1996,$6488.85,1
+United States,California,Newport Beach,03/09/1993,$953.73,1
+France,Île-de-France,Paris 08,07/08/1989,$6728.72,0
+France,Île-de-France,Gif-sur-Yvette,31/12/1989,$6691.81,1
+Sweden,Stockholm,Lidingö,26/05/2008,$939.87,0
+France,Île-de-France,Le Blanc-Mesnil,26/07/1983,$6946.23,1
+United Kingdom,England,Middleton,03/01/1983,$1569.15,0
+Canada,Québec,Saint-Augustin,02/02/1984,$6662.13,1
+Sweden,Jämtland,Sveg,16/02/1991,$1240.82,1
+Canada,British Columbia,Sparwood,28/07/1997,$5677.74,1
+Mexico,Tamaulipas,Las Palmas,07/03/1998,$4460.26,0
+France,Picardie,Soissons,30/07/2009,$2558.15,1
+Sweden,Skåne,Svedala,18/03/1986,$1909.73,1
+United States,Florida,Fort Lauderdale,07/02/1988,$4305.72,0
+Sweden,Västra Götaland,Göteborg,07/01/1993,$3689.16,1
+Sweden,Uppsala,Knivsta,30/12/1982,$3859.70,1
+Portugal,Porto,São Miguel,21/09/1982,$1708.14,0
+United States,Tennessee,Memphis,23/03/1997,$2306.02,0
+Canada,British Columbia,Anmore,24/02/1997,$1647.59,0
+Mexico,Tamaulipas,San Antonio,15/07/2002,$1390.00,1
+Mexico,Jalisco,Loma Bonita,14/02/2004,$7803.39,0
+France,Provence-Alpes-Côte d'Azur,Gardanne,31/08/1987,$1555.57,1
+France,Île-de-France,Cergy-Pontoise,11/11/1981,$3374.55,0
+Portugal,Porto,Levandeira,15/03/2004,$5798.07,0
+Portugal,Coimbra,Casais de Vera Cruz,12/12/2003,$4260.82,1
+Portugal,Viseu,Carvalhal,19/10/1999,$3618.49,1
+Sweden,Västra Götaland,Mölndal,17/05/2001,$5977.38,1
+France,Centre,Fleury-les-Aubrais,15/01/1988,$3812.30,1
+Portugal,Braga,Souto,14/03/1996,$3574.50,1
+Sweden,Stockholm,Nykvarn,14/09/1995,$6327.46,1
+Sweden,Stockholm,Lidingö,11/12/2007,$2385.96,0
+France,Centre,Orléans,13/02/1983,$2655.12,1
+France,Poitou-Charentes,Poitiers,27/02/1989,$5700.29,1
+Portugal,Braga,Couto,02/07/1982,$2880.77,0
+Portugal,Porto,Monte,30/01/1981,$7548.51,0
+France,Île-de-France,Saint-Quentin-en-Yvelines,21/04/2001,$4544.05,0
+Sweden,Västra Götaland,Askim,29/01/1991,$4930.16,1
+Portugal,Braga,Real,15/09/1992,$2261.44,1
+Portugal,Braga,São Bento,07/08/1994,$3868.21,1
+United States,Michigan,Detroit,20/11/2006,$2454.79,1
+France,Franche-Comté,Besançon,18/05/1989,$3772.66,1
+United States,Alabama,Birmingham,24/10/2003,$1839.10,0
+Sweden,Gävleborg,Söderhamn,28/08/1988,$3011.36,0
+France,Basse-Normandie,Cherbourg-Octeville,30/12/1983,$6749.04,0
+United States,Florida,Pompano Beach,05/10/1998,$2212.91,1
+United States,Texas,Midland,24/10/1990,$7638.46,1
+United States,Missouri,Saint Louis,24/02/1997,$5130.58,1
+Portugal,Coimbra,Seixas,29/11/1987,$5948.45,1
+Portugal,Porto,Constance,26/05/1985,$7276.96,0
+Portugal,Lisboa,Tapada das Mercês,05/06/1985,$2411.36,0
+France,Île-de-France,Orsay,22/12/2006,$2561.84,0
+Sweden,Örebro,Askersund,03/03/1996,$2172.78,0
+Sweden,Stockholm,Saltsjöbaden,13/11/1984,$3765.74,0
+Sweden,Västra Götaland,Uddevalla,18/08/1990,$5126.92,0
+Sweden,Västra Götaland,Bengtsfors,29/01/1987,$5039.13,1
+Sweden,Södermanland,Strängnäs,24/08/1982,$2385.94,0
+Portugal,Porto,Tapado,04/07/2010,$6508.41,0
+United States,Washington,Bellevue,04/11/1984,$5411.17,1
+France,Rhône-Alpes,Le Bourget-du-Lac,15/11/2005,$7881.42,0
+Portugal,Aveiro,Póvoa,16/06/1988,$3721.36,0
+United States,North Carolina,Charlotte,08/01/1986,$2697.06,1
+Portugal,Lisboa,Fonte Boa dos Nabos,30/06/1996,$6063.49,1
+France,Rhône-Alpes,Lyon,25/09/1982,$1160.10,0
+United States,Florida,Tampa,09/03/2002,$5805.91,0
+France,Lorraine,Metz,15/10/2004,$2463.52,0
+Mexico,Mexico,San Antonio,04/12/1980,$7517.14,1
+Portugal,Aveiro,Oliveirinha,18/04/1982,$962.88,1
+France,Basse-Normandie,Carpiquet,12/11/2000,$4510.14,1
+Sweden,Stockholm,Vallentuna,04/10/2005,$7937.78,1
+Portugal,Viana do Castelo,Vilarelho,13/05/2000,$4466.02,0
+Portugal,Braga,Sobreira,17/11/1991,$7482.17,0
+Canada,British Columbia,Osoyoos,06/01/2010,$2617.72,1
+Portugal,Viseu,Vales,23/06/1999,$6056.46,1
+Sweden,Gävleborg,Gävle,21/11/1980,$2789.50,1
+Portugal,Viana do Castelo,Chão,04/10/2007,$7313.37,1
+United States,Florida,Orlando,17/06/1991,$7516.22,1
+Portugal,Lisboa,Catujal Velho,11/04/2001,$7491.62,1
+United States,Michigan,Saginaw,29/07/2002,$1175.28,1
+France,Franche-Comté,Belfort,24/09/1989,$7125.73,1
+France,Île-de-France,Bonneuil-sur-Marne,23/12/1986,$7474.04,0
+United States,Kentucky,Louisville,18/05/1988,$4117.83,0
+France,Centre,Tours,11/08/2005,$2471.10,0
+Portugal,Porto,Póvoa,05/11/2006,$2263.59,1
+Canada,New Brunswick,Dieppe,31/10/1986,$1318.68,1
+Portugal,Bragança,Santulhão,07/02/1994,$6043.66,1
+France,Île-de-France,Rueil-Malmaison,31/03/1987,$3108.98,0
+United Kingdom,England,Bradford,15/02/1981,$1887.39,0
+Sweden,Skåne,Tyringe,03/03/2004,$7475.57,0
+Sweden,Stockholm,Vällingby,14/03/1985,$2692.72,1
+Canada,Québec,Oka,26/02/2002,$1994.12,1
+Mexico,Guerrero,El Paraiso,25/02/1990,$3814.74,0
+Sweden,Halland,Halmstad,26/07/2009,$6261.32,1
+Mexico,Tamaulipas,Azteca,18/05/2000,$3209.90,1
+Portugal,Setúbal,Vale Boeiro,08/03/2003,$7421.85,1
+United States,California,Sunnyvale,20/01/1988,$3621.99,1
+Portugal,Porto,Eiriz,13/06/1999,$3200.25,1
+Portugal,Santarém,Ferreira do Zêzere,19/08/2009,$4575.88,1
+Portugal,Vila Real,Santa Valha,24/03/1990,$5746.59,1
+Mexico,Mexico,San Martin,26/02/1989,$2837.82,0
+United States,New York,Jamaica,08/11/1985,$2816.85,1
+France,Bretagne,Roscoff,16/12/2002,$5843.31,0
+Sweden,Värmland,Arvika,08/12/2005,$5443.77,1
+France,Provence-Alpes-Côte d'Azur,Nice,18/03/2003,$5404.43,0
+United States,Minnesota,Young America,03/03/2008,$4329.22,0
+Sweden,Västra Götaland,Lidköping,22/07/2004,$4306.65,0
+Portugal,Leiria,Serra D'El Rei,28/10/2004,$4323.07,1
+Mexico,Veracruz Llave,Lindavista,25/08/2008,$6888.06,0
+France,Languedoc-Roussillon,Béziers,12/11/1980,$1366.21,0
+France,Bourgogne,Beaune,24/07/2001,$3381.06,1
+France,Bretagne,Quimperlé,05/10/1989,$5459.27,1
+Sweden,Stockholm,Solna,10/11/2003,$1188.09,0
+Canada,Québec,Magog,22/07/1997,$3646.85,0
+United States,Michigan,Detroit,02/09/1982,$3581.83,1
+Portugal,Viana do Castelo,Lameira,13/11/1998,$6030.61,0
+United States,Pennsylvania,Philadelphia,01/09/1991,$7248.09,1
+Canada,Québec,Donnacona,27/06/2005,$1032.14,0
+Sweden,Stockholm,Bromma,19/04/1986,$7701.36,0
+Sweden,Skåne,Trelleborg,23/07/1981,$3027.41,1
+Portugal,Braga,Barbudo,07/05/1994,$7794.99,1
+United States,Florida,Gainesville,04/07/2007,$3591.60,0
+France,Rhône-Alpes,Aubenas,23/08/1992,$5447.93,0
+Portugal,Braga,Lamas,17/02/1982,$7552.80,1
+Canada,Alberta,Athabasca,20/05/2010,$5387.93,1
+Sweden,Stockholm,Stockholm,29/12/1991,$7290.49,0
+Sweden,Örebro,Kopparberg,21/11/1981,$4767.88,0
+Portugal,Setúbal,Casal do Sapo,15/05/1998,$877.91,0
+Sweden,Västra Götaland,Ulricehamn,30/06/1990,$3840.66,1
+Sweden,Västra Götaland,Göteborg,23/07/2005,$4148.82,0
+Canada,New Brunswick,Nackawic,02/09/1992,$4139.57,0
+Portugal,Viana do Castelo,Mosteiro,20/06/1994,$5252.25,0
+United States,Georgia,Atlanta,21/01/1983,$7589.64,0
+Sweden,Kalmar,Hultsfred,16/10/1989,$5830.80,0
+United States,Connecticut,New Haven,03/06/1996,$4441.41,0
+Sweden,Halland,Varberg,14/01/1982,$3951.59,0
+United Kingdom,England,Sheffield,28/11/1984,$6517.73,1
+United States,Texas,Fort Worth,26/06/1991,$2891.78,1
+France,Provence-Alpes-Côte d'Azur,Villefranche-sur-Mer,19/10/1989,$7068.52,0
+Sweden,Stockholm,Stockholm,14/05/1998,$5338.30,0
+Portugal,Lisboa,Casal de Cambra,12/05/1983,$7373.73,0
+Sweden,Stockholm,Stockholm,18/11/1997,$1624.94,0
+Sweden,Jönköping,Nässjö,06/03/2010,$6819.26,0
+Sweden,Stockholm,Stockholm,14/11/2007,$7468.47,1
+Sweden,Västra Götaland,Sollebrunn,23/12/1984,$5701.55,0
+United States,Texas,Corpus Christi,05/12/1993,$3036.16,1
+Sweden,Kalmar,Västervik,10/03/1982,$7314.87,1
+United States,Florida,Boca Raton,12/05/2005,$5471.10,0
+France,Île-de-France,Paris 15,01/04/2000,$2452.61,0
+Portugal,Porto,Maganha,15/11/1985,$4320.80,0
+Mexico,Veracruz Llave,Buenos Aires,05/04/1995,$7844.90,1
+Canada,Alberta,Coaldale,14/05/2005,$5514.96,1
+Canada,Alberta,Nanton,05/07/1986,$1385.71,0
+France,Lorraine,Épinal,02/09/1998,$2306.32,0
+Portugal,Braga,Seara,20/06/1993,$4550.26,0
+Sweden,Stockholm,Bandhagen,07/01/1983,$3246.27,0
+France,Alsace,Strasbourg,24/06/2010,$1999.59,0
+Portugal,Leiria,Porto de Mós,14/11/1988,$7091.02,0
+France,Picardie,Amiens,30/08/2006,$7606.13,0
+Portugal,Porto,Além,20/06/2002,$3725.73,0
+France,Île-de-France,Paris 04,06/05/1985,$6939.54,1
+France,Île-de-France,Paris 18,26/08/2005,$4725.00,0
+United States,California,Lancaster,02/10/1982,$1641.08,0
+United Kingdom,England,Norton,24/09/2003,$1622.77,1
+Portugal,Coimbra,Ribeira,23/08/1985,$7105.57,0
+United States,Delaware,Wilmington,26/08/1999,$6285.14,0
+Portugal,Lisboa,Santiago dos Velhos,19/08/2003,$7660.68,1
+France,Bretagne,Rennes,02/11/1989,$4197.51,1
+France,Île-de-France,Boulogne-Billancourt,28/02/2010,$7109.56,1
+Portugal,Leiria,Quinta do Sobrado,06/05/1983,$3229.72,0
+France,Provence-Alpes-Côte d'Azur,Nice,14/07/1996,$6648.08,1
+Canada,Québec,Mercier,23/06/2010,$1876.11,1
+United Kingdom,England,Newtown,13/06/1997,$3561.11,0
+Portugal,Beja,Vila Nova de Milfontes,20/06/1988,$6298.92,1
+United States,California,Lancaster,20/02/1990,$2065.92,1
+Portugal,Porto,Navais,08/02/1997,$4472.72,1
+Canada,Québec,Saint-Lin-Laurentides,30/03/1982,$5074.78,0
+Mexico,Mexico,Lazaro Cardenas,13/03/2008,$1403.09,1
+Portugal,Braga,Atães,18/10/1988,$2566.78,1
+France,Île-de-France,Cergy-Pontoise,15/05/1986,$4680.61,0
+Sweden,Östergötland,Vadstena,08/07/1992,$3775.21,1
+Mexico,Campeche,Guadalupe,15/11/2003,$7646.16,1
+Sweden,Halland,Kungsbacka,04/08/1993,$2587.45,0
+United States,Kentucky,Frankfort,04/08/1987,$7402.15,1
+Portugal,Setúbal,Alcácer do Sal,08/01/2005,$6296.35,0
+Canada,Saskatchewan,Watrous,13/06/2004,$7039.05,0
+Portugal,Braga,Gonça,18/01/1990,$6376.96,0
+Sweden,Gotland,Visby,08/10/2006,$3420.93,0
+France,Île-de-France,Cergy-Pontoise,23/09/1993,$1022.20,1
+Portugal,Setúbal,Pinhal de Frades,31/01/1988,$1160.22,0
+Canada,Newfoundland and Labrador,Marystown,24/10/1981,$2100.45,0
+United States,Illinois,Chicago,14/08/1985,$3567.45,1
+United States,Florida,Tampa,24/09/1992,$3912.08,0
+France,Rhône-Alpes,Annecy,24/06/2005,$7382.35,0
+Portugal,Viana do Castelo,Vila Franca,22/03/1982,$3567.38,0
+Canada,Saskatchewan,Moose Jaw,06/05/1987,$1939.10,0
+United States,Arizona,Mesa,01/11/2009,$7311.26,0
+Sweden,Stockholm,Skärholmen,30/11/2004,$4107.46,1
+France,Aquitaine,Agen,19/03/2007,$7634.03,0
+Mexico,Guanajuato,San Isidro,10/06/2000,$5966.72,0
+United States,Texas,Houston,17/06/2002,$1006.79,1
+Canada,Ontario,Carleton Place,18/03/1992,$7565.57,1
+Mexico,Puebla,Buenavista,06/10/1986,$825.82,1
+France,Île-de-France,Paris 14,06/06/2002,$5198.50,0
+United States,Virginia,Roanoke,17/08/2008,$3720.58,0
+Sweden,Stockholm,Johanneshov,07/04/1991,$4176.07,1
+Portugal,Lisboa,Famões,09/07/1998,$2381.31,1
+United States,Florida,Daytona Beach,05/10/2000,$5196.14,0
+Sweden,Stockholm,Täby,10/06/1999,$3873.74,0
+France,Provence-Alpes-Côte d'Azur,Sophia Antipolis,10/09/1984,$5814.99,0
+Canada,Québec,Saint-Bruno-de-Guigues,03/02/1998,$2268.22,0
+Sweden,Södermanland,Eskilstuna,15/05/1997,$7858.32,0
+Sweden,Dalarna,Borlänge,16/10/2005,$7242.59,1
+Sweden,Skåne,Svalöv,08/07/1994,$1430.78,0
+Canada,Alberta,Crossfield,10/02/1996,$7370.54,0
+United States,Ohio,Toledo,20/06/1996,$3911.57,1
+Portugal,Ilha de São Miguel,Porto Formoso,27/06/2009,$7591.61,0
+Canada,Québec,Labelle,06/10/1986,$5150.96,1
+Canada,New Brunswick,Nackawic,10/03/2006,$5372.60,0
+United States,Florida,Saint Petersburg,20/10/2003,$1668.43,0
+Portugal,Vila Real,Igreja,07/08/2003,$7070.82,1
+Canada,Alberta,Grande Cache,11/07/2008,$991.46,1
+France,Provence-Alpes-Côte d'Azur,Marseille,11/05/1994,$2874.62,0
+France,Île-de-France,Paris 14,11/09/1995,$3945.26,1
+Portugal,Porto,Vinhas,16/11/2000,$6154.03,0
+Sweden,Västra Götaland,Billdal,22/10/1991,$7885.38,1
+Portugal,Porto,Sobrosa,27/04/1984,$6184.82,0
+Portugal,Coimbra,Vilarinho,25/06/1991,$7198.71,0
+Portugal,Castelo Branco,Souto da Casa,12/08/1998,$6545.90,0
+United States,Oregon,Portland,10/08/2006,$6185.72,0
+France,Aquitaine,Bordeaux,11/01/1988,$1598.58,0
+United States,Hawaii,Honolulu,04/12/1982,$4285.93,1
+Sweden,Västra Götaland,Alingsås,26/09/2000,$5087.05,0
+Portugal,Braga,Eirado,14/11/1998,$2270.42,0
+United States,Connecticut,Hartford,30/12/1990,$4901.14,1
+United States,South Carolina,Spartanburg,02/11/2005,$1966.51,1
+France,Franche-Comté,Besançon,01/11/1983,$7537.16,1
+France,Poitou-Charentes,Niort,04/11/1985,$6430.52,0
+United States,Connecticut,Hartford,16/04/1982,$4066.86,1
+France,Aquitaine,Cestas,26/03/1995,$3531.22,0
+United States,California,Van Nuys,03/05/1995,$1967.98,1
+Canada,Ontario,Greater Napanee,13/08/1992,$3468.54,1
+United States,Illinois,Chicago,27/11/2000,$7530.19,0
+France,Auvergne,Montluçon,18/04/2010,$2118.25,0
+United States,Kentucky,Lexington,18/07/2007,$7890.52,1
+France,Languedoc-Roussillon,Alès,22/06/1996,$3849.89,0
+France,Rhône-Alpes,Lyon,02/07/2004,$2671.01,0
+France,Île-de-France,Créteil,20/09/1987,$5511.34,0
+Portugal,Lisboa,Alverca do Ribatejo,27/11/2005,$5368.89,0
+Portugal,Bragança,Valtelheiro,21/01/1986,$4468.82,1
+United Kingdom,England,Kingston,06/12/1982,$3837.29,1
+Sweden,Halland,Kungsbacka,01/07/1999,$4615.15,1
+France,Île-de-France,Paris 02,26/05/1983,$5521.83,1
+Portugal,Braga,Alminhas,11/03/1984,$2558.30,1
+United States,Virginia,Richmond,29/01/2010,$7749.41,1
+France,Bourgogne,Mâcon,22/11/2002,$1032.68,0
+Mexico,Veracruz Llave,Emiliano Zapata,06/11/2009,$4856.16,1
+United States,Arizona,Scottsdale,26/11/2006,$7947.82,0
+Portugal,Lisboa,Várzea de Sintra,14/04/2000,$3114.52,0
+France,Île-de-France,Saint-Quentin-en-Yvelines,17/12/2006,$5352.76,0
+France,Île-de-France,Paris La Défense,15/10/1993,$6294.64,0
+Sweden,Norrbotten,Luleå,08/08/1983,$7155.79,0
+France,Île-de-France,Domont,03/12/1988,$4953.85,0
+United States,Virginia,Reston,17/10/1987,$7817.66,1
+France,Aquitaine,Blaye,01/10/2004,$880.79,1
+France,Corse,Ajaccio,23/11/1998,$7201.06,0
+United States,Texas,Beaumont,06/05/2006,$2735.48,1
+France,Île-de-France,Issy-les-Moulineaux,19/05/1985,$3752.70,1
+France,Alsace,Strasbourg,27/02/1981,$6987.28,1
+Mexico,Guerrero,Arroyo Seco,14/10/1996,$1780.40,0
+Portugal,Setúbal,Morgados,29/01/1998,$2335.56,0
+Sweden,Västerbotten,Umeå,08/08/1989,$7745.97,1
+Sweden,Skåne,Svalöv,06/01/2002,$1798.82,0
+France,Limousin,Limoges,13/02/1985,$4583.37,1
+France,Île-de-France,Neuilly-sur-Marne,27/08/2007,$5163.00,0
+Portugal,Aveiro,Sangalhos,21/01/2006,$2562.92,1
+United States,Alabama,Mobile,24/01/2007,$4942.31,0
+Portugal,Santarém,Meia Via,23/06/1992,$7816.46,0
+Portugal,Coimbra,Senhor da Serra,13/05/1981,$5847.43,0
+Portugal,Setúbal,Canha,08/06/1984,$4443.31,1
+France,Centre,Orléans,23/10/1996,$5620.85,1
+Portugal,Aveiro,Cruzeiro,30/07/2008,$1618.95,1
+Portugal,Santarém,Almeirim,22/04/1985,$7982.36,0
+Portugal,Viseu,Quintãs,20/04/1999,$2320.29,0
+France,Pays de la Loire,Le Mans,12/03/1994,$1265.76,1
+Mexico,Distrito Federal,El Mirador,06/06/2004,$7048.51,0
+Portugal,Braga,Souto,17/10/2008,$6105.52,0
+United States,Texas,Dallas,29/05/1999,$5896.63,0
+Sweden,Örebro,Hallsberg,16/10/1985,$6173.77,0
+Sweden,Jönköping,Habo,02/12/1994,$6525.63,1
+United States,California,San Francisco,23/03/1999,$2460.19,0
+United States,Alaska,Anchorage,31/03/1997,$4630.14,0
+France,Rhône-Alpes,Cran-Gevrier,26/08/1996,$4630.99,0
+France,Centre,Saint-Avertin,08/04/1981,$7680.45,1
+Sweden,Västra Götaland,Strömstad,22/01/1987,$1919.83,0
+France,Provence-Alpes-Côte d'Azur,Martigues,27/10/1989,$1655.67,1
+Canada,Ontario,Mississauga,14/09/1999,$7202.18,0
+Portugal,Vila Real,Vidago,27/02/1991,$7831.28,1
+Canada,Saskatchewan,Nipawin,29/11/1995,$7782.63,0
+Portugal,Portalegre,Santo Aleixo,09/02/1988,$4772.43,0
+France,Île-de-France,Boissy-Saint-Léger,17/10/1990,$5004.78,1
+France,Bretagne,Rennes,23/09/1996,$5362.26,1
+Mexico,Guanajuato,Lindavista,19/11/2006,$3737.37,0
