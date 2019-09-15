@@ -1,7 +1,5 @@
 import numpy as np
 import pandas as pd
-from sklearn_pandas import DataFrameMapper
-from sklearn.preprocessing import LabelEncoder
 
 # lendo dataset
 df = pd.read_csv("k_anonimato/salario.csv")
@@ -23,14 +21,15 @@ df = pd.concat([df, df_local], axis="columns", join="inner")
 df.drop(columns=["id", "pais", "cidade", "estado"], inplace=True)
 df.dropna(inplace=True)
 
-# codificando gênero pra {0 = Female, 1 = Male}
-gen_encoder = [(["genero"], LabelEncoder())]
-mapper = DataFrameMapper(gen_encoder, df_out=True)
-col_novas = mapper.fit_transform(df.copy())
 
-# removendo a coluna original e adicionando a codificada
-df = pd.concat([df.drop(columns=["genero"]), col_novas], axis="columns")
+# suprimindo o atributo de genero
+def suppression(data, field):
+    for el in range(len(data)):
+        data.iloc[el][field] = "*"
+    return data
 
+
+df = suppression(df, "genero")
 df.shape
 df.head()
 
