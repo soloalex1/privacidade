@@ -33,5 +33,16 @@ df = suppression(df, "genero")
 df.shape
 df.head()
 
+
+# função de verificação de precisão
+def precisao(dataset):
+    d = len(dataset)
+    cima, baixo = 0
+    for i in dataset:
+        for j in range(d):
+# @todo implementar cálculo de distância (?)
+                         
+
 # salvando o dataset modificado
 export_csv = df.to_csv(r'salario_2.csv', index=None, header=True)
+
