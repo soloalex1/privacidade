@@ -1,1001 +1,1001 @@
-genero,data,salario,localidade
-*,10/01/1987,$5407.86,"Mobile, Alabama, United States"
-*,29/11/2007,$7833.82,"Rego, Porto, Portugal"
-*,23/06/1984,$5530.85,"Emmaboda, Kalmar, Sweden"
-*,04/11/1983,$2803.76,"Sala, Västmanland, Sweden"
-*,18/11/1990,$2201.87,"Quimperlé, Bretagne, France"
-*,10/07/1981,$4047.44,"Cincinnati, Ohio, United States"
-*,23/03/1989,$2004.14,"Niort, Poitou-Charentes, France"
-*,02/05/1990,$883.43,"Del Valle, Tamaulipas, Mexico"
-*,27/11/1992,$5307.88,"Oklahoma City, Oklahoma, United States"
-*,19/01/2007,$7418.79,"Reims, Champagne-Ardenne, France"
-*,29/01/2007,$813.67,"Melbourne, Florida, United States"
-*,25/03/1995,$5435.41,"Årjäng, Värmland, Sweden"
-*,15/01/1996,$2541.75,"Uppsala, Uppsala, Sweden"
-*,31/10/2002,$4874.88,"Katrineholm, Södermanland, Sweden"
-*,14/11/1980,$4178.43,"Frankfort, Kentucky, United States"
-*,05/05/1985,$4391.85,"Älvsjö, Stockholm, Sweden"
-*,30/04/2009,$6289.41,"Thompson, Manitoba, Canada"
-*,06/05/1983,$2934.66,"Mobile, Alabama, United States"
-*,09/11/2004,$6995.08,"Morelos, Veracruz Llave, Mexico"
-*,04/05/2000,$6250.72,"Avesta, Dalarna, Sweden"
-*,28/02/1996,$2923.67,"Nybro, Kalmar, Sweden"
-*,06/01/1999,$4941.92,"Corpus Christi, Texas, United States"
-*,27/04/1992,$3585.70,"Church End, England, United Kingdom"
-*,20/09/2002,$7512.12,"Rouen, Haute-Normandie, France"
-*,21/11/1990,$4627.31,"Nantes, Pays de la Loire, France"
-*,19/10/1981,$5563.83,"Kvissleby, Västernorrland, Sweden"
-*,01/12/2000,$3472.88,"Göteborg, Västra Götaland, Sweden"
-*,25/10/1999,$2534.88,"Santo Aleixo, Portalegre, Portugal"
-*,19/04/1994,$5689.99,"Besançon, Franche-Comté, France"
-*,16/08/1999,$4848.93,"Gustavsberg, Stockholm, Sweden"
-*,09/03/2000,$7103.44,"Lindavista, Veracruz Llave, Mexico"
-*,03/02/1992,$3827.17,"Vannes, Bretagne, France"
-*,18/04/1996,$7202.43,"Guimarei, Porto, Portugal"
-*,17/09/1999,$6552.66,"Ystad, Skåne, Sweden"
-*,30/12/1997,$938.01,"Göteborg, Västra Götaland, Sweden"
-*,03/04/1981,$5772.69,"Aranhas, Castelo Branco, Portugal"
-*,01/06/2000,$3591.12,"Santana, Setúbal, Portugal"
-*,29/05/1981,$7847.46,"Fojo, Porto, Portugal"
-*,26/10/1993,$3472.73,"Louisville, Kentucky, United States"
-*,23/12/1999,$5979.17,"Canedo, Aveiro, Portugal"
-*,12/01/2005,$1213.00,"Viso, Viana do Castelo, Portugal"
-*,18/08/1981,$7539.41,"Mondim de Basto, Vila Real, Portugal"
-*,28/06/2004,$7758.57,"Ängelholm, Skåne, Sweden"
-*,17/03/2000,$4941.80,"Sundbyberg, Stockholm, Sweden"
-*,25/02/2008,$6907.90,"Amieiro, Vila Real, Portugal"
-*,29/04/1997,$3200.30,"Agra, Braga, Portugal"
-*,17/01/1981,$1133.30,"Barrosa, Santarém, Portugal"
-*,15/01/2004,$1191.96,"Paris 10, Île-de-France, France"
-*,18/07/2010,$6336.71,"Tours, Centre, France"
-*,29/09/1985,$6867.13,"Gävle, Gävleborg, Sweden"
-*,25/07/2001,$2894.36,"Burns Lake, British Columbia, Canada"
-*,27/10/2009,$4689.02,"Denver, Colorado, United States"
-*,08/02/1995,$2363.38,"Algueirão, Lisboa, Portugal"
-*,26/07/2000,$919.06,"Hägersten, Stockholm, Sweden"
-*,07/10/1988,$3223.62,"Costa de Rios Frios, Coimbra, Portugal"
-*,11/01/1993,$6528.84,"San Francisco, San Luis Potosi, Mexico"
-*,25/09/1988,$2944.40,"Chão de Couce, Leiria, Portugal"
-*,22/02/2010,$6968.33,"Saint Louis, Missouri, United States"
-*,26/07/1996,$2642.75,"Aldeia do Bispo, Castelo Branco, Portugal"
-*,26/08/2004,$6148.93,"Nantes, Pays de la Loire, France"
-*,07/10/1997,$7077.49,"Muxagata, Guarda, Portugal"
-*,01/07/2007,$3435.80,"Greeley, Colorado, United States"
-*,05/05/1995,$6842.64,"Veiros, Aveiro, Portugal"
-*,31/08/2001,$2690.43,"San Sebastian, Chiapas, Mexico"
-*,26/02/1989,$1186.54,"Nuits-Saint-Georges, Bourgogne, France"
-*,21/07/1988,$4022.26,"Ribeira Grande, Ilha de São Miguel, Portugal"
-*,10/06/1984,$2420.72,"Moinhos, Porto, Portugal"
-*,02/11/1988,$1348.47,"Pittsburgh, Pennsylvania, United States"
-*,14/10/1997,$5536.87,"Bobigny, Île-de-France, France"
-*,05/02/1990,$6445.22,"El Calvario, Puebla, Mexico"
-*,13/02/1998,$5323.97,"Saint-Grégoire, Bretagne, France"
-*,24/06/2008,$7170.52,"Las Palmas, Oaxaca, Mexico"
-*,05/05/2007,$6432.81,"Nantes, Pays de la Loire, France"
-*,23/12/2007,$7653.00,"Tulsa, Oklahoma, United States"
-*,16/06/1990,$4627.92,"Collingwood, Ontario, Canada"
-*,21/06/2010,$7983.68,"Huntington, West Virginia, United States"
-*,11/01/1987,$1586.61,"Granja, Viseu, Portugal"
-*,21/07/2000,$6964.99,"San Bernardino, California, United States"
-*,28/06/1998,$4094.94,"Kamsack, Saskatchewan, Canada"
-*,27/01/2007,$983.67,"Altona, Manitoba, Canada"
-*,07/09/2009,$2858.06,"Lazaro Cardenas, Oaxaca, Mexico"
-*,25/03/1994,$4504.29,"Igreja, Ilha da Madeira, Portugal"
-*,24/08/1999,$5383.93,"Göteborg, Västra Götaland, Sweden"
-*,31/12/1987,$4100.69,"Vanderhoof, British Columbia, Canada"
-*,02/05/1999,$6999.54,"Montalegre, Vila Real, Portugal"
-*,05/05/2008,$4254.84,"Paris 09, Île-de-France, France"
-*,04/09/1988,$6144.12,"Örebro, Örebro, Sweden"
-*,10/05/1997,$1247.98,"Nogueira da Regedoura, Aveiro, Portugal"
-*,20/07/2004,$7209.03,"Carman, Manitoba, Canada"
-*,30/10/1984,$2076.62,"Santa Cecilia, Jalisco, Mexico"
-*,23/09/1983,$4160.18,"Longwy, Lorraine, France"
-*,26/01/2004,$5054.87,"Nantes, Pays de la Loire, France"
-*,16/09/2000,$1676.91,"Evansville, Indiana, United States"
-*,25/10/1980,$7622.47,"Cepões, Viseu, Portugal"
-*,23/02/2010,$2260.68,"Nässjö, Jönköping, Sweden"
-*,18/03/1996,$4862.69,"Lysekil, Västra Götaland, Sweden"
-*,19/03/2010,$7595.55,"Vagney, Lorraine, France"
-*,03/12/1995,$4389.71,"Feteira Grande, Ilha de São Miguel, Portugal"
-*,20/03/2009,$2293.48,"Vällingby, Stockholm, Sweden"
-*,24/09/2000,$3573.26,"Almada, Setúbal, Portugal"
-*,20/01/1993,$6974.65,"Saint-Laurent-du-Var, Provence-Alpes-Côte d'Azur, France"
-*,06/05/2005,$5609.60,"Järfälla, Stockholm, Sweden"
-*,30/03/2004,$6963.88,"Sundsvall, Västernorrland, Sweden"
-*,14/06/1981,$2161.64,"Boden, Norrbotten, Sweden"
-*,03/06/1984,$7913.17,"Pasadena, Newfoundland and Labrador, Canada"
-*,10/09/1994,$6686.36,"Emiliano Zapata, Michoacan De Ocampo, Mexico"
-*,25/01/1983,$6691.57,"Cobre, Lisboa, Portugal"
-*,26/12/2003,$7386.55,"Sobreira, Braga, Portugal"
-*,28/11/1995,$7292.50,"Saint-Augustin, Québec, Canada"
-*,11/07/2000,$3615.07,"Skellefteå, Västerbotten, Sweden"
-*,20/04/1985,$1488.42,"Lamas, Porto, Portugal"
-*,25/01/1994,$2236.23,"Paris 05, Île-de-France, France"
-*,13/06/2001,$2184.75,"Fovissste, Guerrero, Mexico"
-*,02/12/1990,$6642.44,"Saint-Raymond, Québec, Canada"
-*,19/11/1997,$4077.84,"Francisco I Madero, Zacatecas, Mexico"
-*,24/07/1993,$7376.21,"Lac du Bonnet, Manitoba, Canada"
-*,12/02/1983,$7922.29,"Hässelby, Stockholm, Sweden"
-*,09/09/1981,$6340.24,"Vicente Guerrero, Veracruz Llave, Mexico"
-*,01/01/2003,$2137.01,"Passagem, Leiria, Portugal"
-*,17/04/1984,$1558.87,"Vermoim, Braga, Portugal"
-*,17/01/2002,$1973.45,"Corujeira, Porto, Portugal"
-*,29/03/2003,$5214.50,"Valada, Santarém, Portugal"
-*,10/06/1984,$5788.73,"Regueiro, Viana do Castelo, Portugal"
-*,11/10/1980,$6314.95,"Francos, Lisboa, Portugal"
-*,26/10/1998,$3562.87,"Cleveland, Ohio, United States"
-*,17/01/1981,$7973.93,"Boavista, Aveiro, Portugal"
-*,16/03/2001,$6553.93,"Denver, Colorado, United States"
-*,12/11/2004,$1129.83,"Morris, Manitoba, Canada"
-*,01/07/1988,$5485.14,"Saint-Avertin, Centre, France"
-*,28/05/2007,$4578.33,"Bom Sucesso, Lisboa, Portugal"
-*,14/01/2000,$5737.46,"Freixo de Numão, Guarda, Portugal"
-*,14/01/1994,$4879.99,"Bondy, Île-de-France, France"
-*,12/10/1994,$4966.48,"Söderköping, Östergötland, Sweden"
-*,31/03/1993,$5240.94,"Uddevalla, Västra Götaland, Sweden"
-*,11/01/2008,$4109.65,"Uppsala, Uppsala, Sweden"
-*,16/06/1999,$6492.17,"Stockholm, Stockholm, Sweden"
-*,14/02/2002,$6889.74,"Le Havre, Haute-Normandie, France"
-*,12/12/1994,$1916.17,"Alvesta, Kronoberg, Sweden"
-*,22/02/1996,$6026.38,"Campelos, Lisboa, Portugal"
-*,28/08/2008,$7268.00,"Trollhättan, Västra Götaland, Sweden"
-*,04/02/1985,$1238.66,"Marseille, Provence-Alpes-Côte d'Azur, France"
-*,06/02/1991,$3076.92,"Vicente Guerrero, Puebla, Mexico"
-*,23/04/2000,$5745.78,"Mörrum, Blekinge, Sweden"
-*,21/02/1997,$4240.55,"Lavaltrie, Québec, Canada"
-*,06/10/2009,$1665.32,"Laúndos, Porto, Portugal"
-*,03/08/1988,$1574.30,"Smedjebacken, Dalarna, Sweden"
-*,05/12/1984,$3526.69,"Carromeu, Coimbra, Portugal"
-*,07/08/1981,$5751.78,"Colares, Lisboa, Portugal"
-*,18/11/1984,$7345.49,"Cruz, Viseu, Portugal"
-*,03/09/1993,$4480.55,"Paris 12, Île-de-France, France"
-*,08/02/2004,$4907.54,"Chenôve, Bourgogne, France"
-*,24/11/1993,$5727.15,"Ormstown, Québec, Canada"
-*,16/06/1996,$1144.42,"Independencia, Coahuila De Zaragoza, Mexico"
-*,30/03/1999,$4430.56,"Francisco Villa, Veracruz Llave, Mexico"
-*,07/04/2006,$3003.76,"Boden, Norrbotten, Sweden"
-*,20/03/1990,$1245.80,"Agrela, Viana do Castelo, Portugal"
-*,23/09/1989,$7018.06,"Santa Elena, Chiapas, Mexico"
-*,25/03/2008,$3602.31,"Santa Fe, Nuevo Leon, Mexico"
-*,17/02/2001,$7665.32,"Bordeaux, Aquitaine, France"
-*,14/07/1985,$5677.54,"Torbay, Newfoundland and Labrador, Canada"
-*,31/03/1982,$4407.88,"Tomelilla, Skåne, Sweden"
-*,28/05/2005,$2729.76,"Tulsa, Oklahoma, United States"
-*,26/10/1984,$2809.72,"Njurunda, Västernorrland, Sweden"
-*,31/03/1995,$6383.39,"Pickering, Ontario, Canada"
-*,15/01/2001,$7327.12,"Loureiro, Braga, Portugal"
-*,13/01/1990,$3878.76,"Portela, Viana do Castelo, Portugal"
-*,24/05/1990,$6680.18,"Chouto, Santarém, Portugal"
-*,18/08/2003,$7582.88,"Köping, Västmanland, Sweden"
-*,12/05/2003,$4663.81,"Francisco Villa, Veracruz Llave, Mexico"
-*,25/08/1994,$3389.21,"Independencia, Nayarit, Mexico"
-*,28/05/1995,$6584.92,"São Mamede de Infesta, Porto, Portugal"
-*,07/10/1985,$5932.94,"Morgados, Setúbal, Portugal"
-*,01/12/1990,$1841.41,"Villeneuve-sur-Lot, Aquitaine, France"
-*,29/04/2009,$943.67,"Denver, Colorado, United States"
-*,20/08/2002,$7540.04,"Lombo Meão, Aveiro, Portugal"
-*,26/12/1984,$2350.70,"Lerum, Västra Götaland, Sweden"
-*,01/02/2002,$7917.34,"Santulhão, Bragança, Portugal"
-*,04/09/2005,$1319.03,"Napanee Downtown, Ontario, Canada"
-*,24/01/2006,$1492.88,"Colombes, Île-de-France, France"
-*,27/01/2003,$7718.13,"Täby, Stockholm, Sweden"
-*,20/05/1996,$3296.00,"Maganha, Porto, Portugal"
-*,17/05/2004,$5946.05,"Tulsa, Oklahoma, United States"
-*,25/05/1990,$7175.98,"Eskilstuna, Södermanland, Sweden"
-*,25/04/1983,$7046.63,"Couto, Braga, Portugal"
-*,26/08/2008,$3542.00,"Sarlat-la-Canéda, Aquitaine, France"
-*,13/02/2007,$2411.09,"Norrköping, Östergötland, Sweden"
-*,20/02/1995,$5825.49,"Arcueil, Île-de-France, France"
-*,10/12/2002,$4332.69,"Quintães, Viana do Castelo, Portugal"
-*,30/08/1989,$2495.07,"West Palm Beach, Florida, United States"
-*,31/01/2000,$5152.79,"Shreveport, Louisiana, United States"
-*,03/08/2007,$3525.88,"Levallois-Perret, Île-de-France, France"
-*,27/06/1993,$7096.91,"Owen Sound, Ontario, Canada"
-*,24/03/1988,$4302.66,"Engenho, Porto, Portugal"
-*,16/03/1987,$7760.46,"Igreja, Viseu, Portugal"
-*,30/05/1999,$3911.50,"Dayton, Ohio, United States"
-*,29/04/1997,$5974.55,"Timmins, Ontario, Canada"
-*,10/07/1990,$4682.04,"Västerås, Västmanland, Sweden"
-*,26/11/2008,$5236.49,"Kissimmee, Florida, United States"
-*,12/09/1994,$3408.00,"Petrolera, Veracruz Llave, Mexico"
-*,02/03/1989,$6874.81,"Åkersberga, Stockholm, Sweden"
-*,18/07/1981,$1353.19,"Marseille, Provence-Alpes-Côte d'Azur, France"
-*,22/06/2001,$3316.55,"Noyelles-sous-Lens, Nord-Pas-de-Calais, France"
-*,10/03/1994,$7586.61,"Göteborg, Västra Götaland, Sweden"
-*,19/02/1997,$6062.26,"Mölndal, Västra Götaland, Sweden"
-*,05/11/1982,$3027.02,"Sainte-Anne-des-Monts, Québec, Canada"
-*,29/01/1987,$2422.65,"Saint-Lô, Basse-Normandie, France"
-*,26/08/2003,$2866.63,"Santa Iria de Azóia, Lisboa, Portugal"
-*,23/07/1992,$1484.69,"Saint-Herblain, Pays de la Loire, France"
-*,12/06/2006,$6325.50,"Montpellier, Languedoc-Roussillon, France"
-*,05/06/2009,$6712.81,"Rennes, Bretagne, France"
-*,30/03/2006,$1786.57,"Iqaluit, Nunavut, Canada"
-*,17/04/1981,$2654.98,"Évry, Île-de-France, France"
-*,21/07/1984,$7319.09,"Quintães, Viana do Castelo, Portugal"
-*,24/03/1993,$7733.10,"Rungis, Île-de-France, France"
-*,22/12/1988,$7157.05,"Silver Spring, Maryland, United States"
-*,01/02/1981,$4000.92,"San Antonio, Texas, United States"
-*,17/10/1993,$2071.57,"Azteca, Veracruz Llave, Mexico"
-*,13/04/2005,$3717.17,"Lombo Meão, Aveiro, Portugal"
-*,14/10/1994,$4511.71,"Kindersley, Saskatchewan, Canada"
-*,16/03/1991,$1329.70,"Newark, New Jersey, United States"
-*,20/03/1995,$5475.66,"Trélissac, Aquitaine, France"
-*,12/09/1996,$6059.58,"Mölndal, Västra Götaland, Sweden"
-*,31/07/1993,$4241.71,"Roanoke, Virginia, United States"
-*,02/02/1991,$6417.75,"Carrascal, Lisboa, Portugal"
-*,20/05/1998,$979.70,"Niverville, Manitoba, Canada"
-*,14/06/1984,$3466.43,"Morangis, Île-de-France, France"
-*,28/05/1984,$4964.31,"Porto Formoso, Ilha de São Miguel, Portugal"
-*,27/11/1989,$4959.20,"Courbevoie, Île-de-France, France"
-*,19/02/2009,$7665.45,"Tibro, Västra Götaland, Sweden"
-*,01/09/1989,$1280.62,"Argentan, Basse-Normandie, France"
-*,25/06/1983,$5469.92,"Dalmeny, Saskatchewan, Canada"
-*,19/04/1981,$3435.34,"Colombes, Île-de-France, France"
-*,02/12/1996,$7753.83,"Vale Boeiro, Setúbal, Portugal"
-*,03/06/1985,$4501.34,"Mont-Laurier, Québec, Canada"
-*,25/07/2005,$4728.31,"Vessada, Aveiro, Portugal"
-*,29/03/1987,$2627.52,"Paris 13, Île-de-France, France"
-*,12/08/1996,$7166.43,"Stapleford, England, United Kingdom"
-*,24/10/2003,$4105.04,"Lunéville, Lorraine, France"
-*,01/06/1985,$3863.39,"Veiga, Porto, Portugal"
-*,29/06/2010,$2969.04,"Ystad, Skåne, Sweden"
-*,29/06/2007,$4910.20,"Olds, Alberta, Canada"
-*,20/01/1998,$1583.21,"Vimmerby, Kalmar, Sweden"
-*,09/08/2002,$4382.96,"Alingsås, Västra Götaland, Sweden"
-*,13/03/2005,$5283.42,"Castelo, Porto, Portugal"
-*,01/11/2005,$3112.29,"Jackson, Mississippi, United States"
-*,06/11/1986,$3989.06,"Lagunillas, Jalisco, Mexico"
-*,15/07/2000,$3800.57,"Norrköping, Östergötland, Sweden"
-*,26/03/2008,$2096.28,"Uppsala, Uppsala, Sweden"
-*,23/04/2005,$2454.18,"Waterloo, Ontario, Canada"
-*,05/02/2005,$6289.95,"Figueiras, Leiria, Portugal"
-*,02/10/1997,$2867.51,"Castelões, Braga, Portugal"
-*,03/05/1991,$1899.31,"New Haven, Connecticut, United States"
-*,30/07/1986,$6235.09,"Detroit, Michigan, United States"
-*,09/04/2001,$5892.17,"Santa Rosa, California, United States"
-*,08/04/1995,$2007.00,"Stockholm, Stockholm, Sweden"
-*,16/08/1984,$7827.47,"Washington, District of Columbia, United States"
-*,12/04/1999,$4542.92,"Klippan, Skåne, Sweden"
-*,14/10/1987,$5038.59,"Matos da Ranha, Leiria, Portugal"
-*,11/12/2000,$5530.59,"Ribeira Seca, Ilha de São Miguel, Portugal"
-*,26/07/1990,$7279.48,"Sainte-Geneviève-des-Bois, Île-de-France, France"
-*,18/05/1994,$6950.84,"Stockholm, Stockholm, Sweden"
-*,08/08/2008,$2329.05,"Wasquehal, Nord-Pas-de-Calais, France"
-*,03/06/1994,$7760.58,"Anmore, British Columbia, Canada"
-*,01/11/1986,$4664.24,"Hallstavik, Stockholm, Sweden"
-*,26/03/1993,$4300.13,"Birmingham, Alabama, United States"
-*,10/07/2006,$7825.33,"Puteaux, Île-de-France, France"
-*,05/10/1981,$1305.29,"Macieira de Rates, Braga, Portugal"
-*,26/03/2006,$2060.75,"Murça, Vila Real, Portugal"
-*,15/08/2002,$3613.73,"Vaudreuil-Dorion, Québec, Canada"
-*,03/02/1993,$4919.65,"Coutada, Viana do Castelo, Portugal"
-*,12/11/1981,$7035.04,"Kista, Stockholm, Sweden"
-*,29/01/1992,$5919.34,"Cabanas de Viriato, Viseu, Portugal"
-*,10/01/2008,$2367.97,"Edinburgh, Scotland, United Kingdom"
-*,26/09/2003,$6593.84,"Camrose, Alberta, Canada"
-*,23/06/1985,$2854.38,"Sebadelhe, Guarda, Portugal"
-*,04/08/1989,$2775.31,"Youngstown, Ohio, United States"
-*,31/12/1990,$1165.10,"Los Angeles, California, United States"
-*,28/04/1989,$7511.52,"Tucson, Arizona, United States"
-*,22/06/2004,$4531.43,"Emiliano Zapata, Sinaloa, Mexico"
-*,16/03/2004,$6630.49,"Nyköping, Södermanland, Sweden"
-*,09/10/1994,$5268.85,"Várzea, Viseu, Portugal"
-*,09/11/1999,$1575.72,"Grand Rapids, Michigan, United States"
-*,10/08/2001,$4663.87,"Infantas, Braga, Portugal"
-*,17/07/1981,$5953.02,"Albany, New York, United States"
-*,16/06/1996,$5399.22,"Saint-Étienne, Rhône-Alpes, France"
-*,05/12/1999,$1452.90,"Francisco Villa, Durango, Mexico"
-*,03/02/1988,$3401.73,"Swift Current, Saskatchewan, Canada"
-*,03/12/1996,$1657.74,"Boucinha, Braga, Portugal"
-*,19/08/2006,$3520.57,"Tibro, Västra Götaland, Sweden"
-*,22/06/1982,$5750.62,"Charleston, West Virginia, United States"
-*,26/08/1981,$4263.66,"Sélestat, Alsace, France"
-*,20/07/1992,$6639.31,"Quintãs, Viseu, Portugal"
-*,17/08/1996,$6549.93,"Loureiro, Viana do Castelo, Portugal"
-*,26/09/1981,$7082.80,"Lac-Mégantic, Québec, Canada"
-*,28/02/1996,$1934.60,"Tours, Centre, France"
-*,26/07/2004,$3875.41,"Degerfors, Örebro, Sweden"
-*,01/11/1980,$6095.84,"Brampton, Ontario, Canada"
-*,06/08/1988,$2465.50,"Innisfil, Ontario, Canada"
-*,07/11/1983,$4776.95,"Amieirinha, Leiria, Portugal"
-*,10/07/1994,$7467.66,"Carrazeda de Ansiães, Bragança, Portugal"
-*,16/06/1996,$1693.13,"Saint Andrews, New Brunswick, Canada"
-*,20/02/1987,$7063.28,"Noyon, Picardie, France"
-*,01/06/2007,$6827.27,"Belfort, Franche-Comté, France"
-*,04/07/2004,$1342.37,"Trenton, New Jersey, United States"
-*,30/11/1988,$962.08,"Landskrona, Skåne, Sweden"
-*,27/07/1985,$3201.59,"Épinal, Lorraine, France"
-*,02/11/1999,$5116.30,"Noyal-sur-Vilaine, Bretagne, France"
-*,02/09/1994,$7145.67,"Nantes, Pays de la Loire, France"
-*,08/03/2008,$7816.91,"Maskinongé, Québec, Canada"
-*,21/10/1986,$6068.22,"Erie, Pennsylvania, United States"
-*,18/09/1988,$2843.99,"Cincinnati, Ohio, United States"
-*,27/11/2000,$3375.21,"Praia do Ribatejo, Santarém, Portugal"
-*,20/05/2003,$5080.95,"Guéret, Limousin, France"
-*,24/06/1981,$5453.13,"Brant, Ontario, Canada"
-*,13/04/1987,$3191.09,"Evansville, Indiana, United States"
-*,05/08/1999,$4924.11,"Boise, Idaho, United States"
-*,21/11/2007,$1611.63,"Angus, Ontario, Canada"
-*,24/06/1984,$1350.28,"Laval, Pays de la Loire, France"
-*,11/05/1994,$6285.72,"Buenavista, Oaxaca, Mexico"
-*,28/07/1988,$6594.48,"Pedome, Braga, Portugal"
-*,11/05/1995,$7278.18,"Tumba, Stockholm, Sweden"
-*,12/03/2010,$5730.25,"Tortosendo, Castelo Branco, Portugal"
-*,23/10/1992,$5763.40,"Marseille, Provence-Alpes-Côte d'Azur, France"
-*,12/07/2003,$7199.46,"Le Pontet, Provence-Alpes-Côte d'Azur, France"
-*,07/09/1999,$1611.42,"Vilhelmina, Västerbotten, Sweden"
-*,26/01/2004,$4631.52,"Sundsvall, Västernorrland, Sweden"
-*,14/01/2008,$6841.99,"Santa Barbara, California, United States"
-*,06/03/2009,$5216.68,"Paris 08, Île-de-France, France"
-*,08/04/1991,$4912.45,"Stockholm, Stockholm, Sweden"
-*,19/05/1982,$3783.40,"Arão, Viana do Castelo, Portugal"
-*,18/06/1984,$5790.08,"Lévis, Québec, Canada"
-*,15/12/2001,$2622.47,"New York City, New York, United States"
-*,24/08/2000,$4095.50,"Independence, Missouri, United States"
-*,06/08/2005,$7795.42,"Veiga, Porto, Portugal"
-*,14/11/2000,$2321.79,"Linköping, Östergötland, Sweden"
-*,03/06/1993,$5532.48,"Ajuda, Ilha de São Miguel, Portugal"
-*,25/10/1994,$7857.47,"Biscoitos, Ilha Terceira, Portugal"
-*,16/11/1999,$1534.82,"Santa Elena, Chiapas, Mexico"
-*,04/10/1997,$5428.38,"Tallahassee, Florida, United States"
-*,27/04/2010,$2902.49,"Fleury-les-Aubrais, Centre, France"
-*,01/05/1995,$5563.62,"Guadalupe, Oaxaca, Mexico"
-*,16/05/1986,$7049.85,"Guadalupe, Chihuahua, Mexico"
-*,05/04/1983,$1020.66,"Antony, Île-de-France, France"
-*,02/02/1981,$4450.49,"Vila Pouca da Beira, Coimbra, Portugal"
-*,30/07/2000,$2851.56,"Évry, Île-de-France, France"
-*,24/03/1998,$3769.13,"Santa Maria, Coahuila De Zaragoza, Mexico"
-*,21/11/2009,$5410.56,"Paris La Défense, Île-de-France, France"
-*,04/04/1990,$4161.69,"Lidköping, Västra Götaland, Sweden"
-*,07/01/2000,$7274.50,"Angers, Pays de la Loire, France"
-*,26/02/2004,$3435.26,"Saint Petersburg, Florida, United States"
-*,10/05/1997,$5366.98,"Charlotte, North Carolina, United States"
-*,28/08/1987,$3006.83,"Houston, Texas, United States"
-*,17/01/1981,$3362.11,"Sacramento, California, United States"
-*,28/04/1984,$3349.35,"Järfälla, Stockholm, Sweden"
-*,13/12/1982,$1322.83,"Helsingborg, Skåne, Sweden"
-*,16/06/1985,$6881.36,"Göteborg, Västra Götaland, Sweden"
-*,04/09/1981,$5249.08,"Lexington, Kentucky, United States"
-*,03/11/1994,$3041.78,"Saint Paul, Minnesota, United States"
-*,17/07/1999,$3109.94,"Umeå, Västerbotten, Sweden"
-*,18/12/1996,$4354.51,"Rezé, Pays de la Loire, France"
-*,31/12/1992,$2849.06,"São Paio de Gramaços, Coimbra, Portugal"
-*,10/12/1984,$2661.36,"Torrão, Setúbal, Portugal"
-*,15/07/1985,$1145.67,"Stockholm, Stockholm, Sweden"
-*,07/09/2006,$3407.45,"Senneterre, Québec, Canada"
-*,02/08/1999,$6940.06,"Besançon, Franche-Comté, France"
-*,18/12/1996,$7588.24,"São Paio de Gramaços, Coimbra, Portugal"
-*,16/04/2001,$6118.17,"Porto Formoso, Ilha de São Miguel, Portugal"
-*,26/04/1989,$1858.90,"Carpalho, Leiria, Portugal"
-*,01/01/1995,$3480.31,"Tulsa, Oklahoma, United States"
-*,26/05/2005,$2106.68,"Ribeiro, Vila Real, Portugal"
-*,12/10/2000,$5964.41,"Zibreira, Santarém, Portugal"
-*,07/06/2001,$3747.55,"Chambéry, Rhône-Alpes, France"
-*,13/08/1982,$6067.37,"Cruzeiro, Porto, Portugal"
-*,17/04/1995,$2582.92,"Portela, Leiria, Portugal"
-*,02/03/1988,$2746.65,"Piteå, Norrbotten, Sweden"
-*,14/10/2000,$4938.67,"Atikokan, Ontario, Canada"
-*,03/01/1994,$2943.14,"Hägersten, Stockholm, Sweden"
-*,06/09/2003,$2946.37,"Göteborg, Västra Götaland, Sweden"
-*,16/05/1989,$4400.91,"Sotteville-lès-Rouen, Haute-Normandie, France"
-*,02/10/1980,$6267.86,"Lordelo, Braga, Portugal"
-*,22/05/2004,$3639.38,"Vale de Figueira, Lisboa, Portugal"
-*,17/06/1985,$3014.90,"Karlstad, Värmland, Sweden"
-*,10/07/1985,$4468.31,"Edson, Alberta, Canada"
-*,22/11/1998,$1191.22,"Cluses, Rhône-Alpes, France"
-*,07/02/1982,$6563.49,"Vilhelmina, Västerbotten, Sweden"
-*,20/02/2002,$6869.03,"Färgelanda, Västra Götaland, Sweden"
-*,10/09/1995,$3667.75,"Guadalupe, Chiapas, Mexico"
-*,13/09/1993,$1455.74,"Falun, Dalarna, Sweden"
-*,15/12/1997,$4461.88,"Casal de Cambra, Lisboa, Portugal"
-*,13/11/1990,$7503.54,"Puteaux, Île-de-France, France"
-*,09/05/1998,$4675.13,"Irricana, Alberta, Canada"
-*,19/01/1998,$6769.72,"Boulogne-Billancourt, Île-de-France, France"
-*,25/09/2007,$6191.96,"Estribeiro, Lisboa, Portugal"
-*,14/01/1985,$7700.50,"Irving, Texas, United States"
-*,13/03/1986,$3988.74,"Ussel, Limousin, France"
-*,20/10/1983,$6293.42,"Staffanstorp, Skåne, Sweden"
-*,06/10/1982,$3358.51,"Austin, Texas, United States"
-*,19/06/1995,$5116.24,"Indianapolis, Indiana, United States"
-*,15/11/2005,$1242.05,"Orléans, Centre, France"
-*,13/06/1990,$3556.11,"Lindavista, Oaxaca, Mexico"
-*,30/01/1991,$2772.86,"Marseille, Provence-Alpes-Côte d'Azur, France"
-*,28/11/1985,$6436.46,"Dalsjöfors, Västra Götaland, Sweden"
-*,25/03/1986,$976.45,"Nogent-le-Rotrou, Centre, France"
-*,28/10/2006,$7184.92,"Emiliano Zapata, Michoacan De Ocampo, Mexico"
-*,07/10/1998,$4576.59,"Laholm, Halland, Sweden"
-*,15/02/1984,$7303.77,"La Esperanza, Guerrero, Mexico"
-*,30/03/1986,$5891.65,"Göteborg, Västra Götaland, Sweden"
-*,14/10/2000,$1126.55,"Infonavit, San Luis Potosi, Mexico"
-*,09/10/1985,$3993.28,"Catalina, Newfoundland and Labrador, Canada"
-*,20/03/1990,$1610.27,"Armação de Pêra, Faro, Portugal"
-*,29/08/2003,$1095.44,"Los Angeles, Sinaloa, Mexico"
-*,05/08/2008,$1320.94,"Independence, Missouri, United States"
-*,09/10/2003,$6183.10,"Istres, Provence-Alpes-Côte d'Azur, France"
-*,03/11/1995,$2565.78,"Cluses, Rhône-Alpes, France"
-*,13/08/1999,$6856.56,"Lannion, Bretagne, France"
-*,11/02/2005,$1174.30,"Chilly-Mazarin, Île-de-France, France"
-*,29/06/1983,$3201.71,"Erie, Pennsylvania, United States"
-*,26/11/1989,$2344.10,"La Palma, Michoacan De Ocampo, Mexico"
-*,28/06/2007,$7478.53,"Torsås, Kalmar, Sweden"
-*,27/07/1994,$7060.60,"Midland, Ontario, Canada"
-*,29/05/1995,$948.41,"Vilela, Porto, Portugal"
-*,25/12/1998,$4491.03,"Limoges, Limousin, France"
-*,05/10/1989,$5108.35,"Paço de Arcos, Lisboa, Portugal"
-*,01/08/1981,$6674.63,"Niort, Poitou-Charentes, France"
-*,25/03/1995,$1697.67,"Philadelphia, Pennsylvania, United States"
-*,08/10/1989,$6742.63,"Sacramento, California, United States"
-*,29/07/1993,$2795.69,"San Diego, California, United States"
-*,20/03/1982,$2458.05,"Metz, Lorraine, France"
-*,23/01/2002,$7649.68,"Charneca da Cotovia, Setúbal, Portugal"
-*,20/02/1982,$7296.43,"Vila Nova de Milfontes, Beja, Portugal"
-*,07/03/2008,$2142.15,"Lama, Braga, Portugal"
-*,04/09/1992,$4234.16,"Napierville, Québec, Canada"
-*,11/05/2008,$7233.37,"São Mamede de Infesta, Porto, Portugal"
-*,18/03/1986,$1684.26,"Cabo de Vila, Porto, Portugal"
-*,02/09/1988,$1426.01,"Achadinha, Ilha de São Miguel, Portugal"
-*,11/10/1986,$1059.41,"Irving, Texas, United States"
-*,15/11/2009,$7519.69,"Orléans, Centre, France"
-*,27/10/1991,$5721.70,"Gainesville, Florida, United States"
-*,18/06/1991,$6410.80,"Lyon, Rhône-Alpes, France"
-*,07/06/1984,$5823.97,"Paris 09, Île-de-France, France"
-*,01/10/1986,$2881.34,"Falun, Dalarna, Sweden"
-*,10/12/1986,$2918.64,"Antony, Île-de-France, France"
-*,11/03/1995,$2208.72,"Nice, Provence-Alpes-Côte d'Azur, France"
-*,08/11/1987,$5057.22,"Täby, Stockholm, Sweden"
-*,26/02/1986,$2309.35,"Vermoim, Braga, Portugal"
-*,12/11/2005,$6172.13,"Almalaguês, Coimbra, Portugal"
-*,12/10/1993,$5796.92,"Langres, Champagne-Ardenne, France"
-*,24/02/1991,$1399.34,"Limoges, Limousin, France"
-*,22/06/1996,$2981.49,"Fornos, Aveiro, Portugal"
-*,04/03/2002,$5937.25,"Sydney Mines, Nova Scotia, Canada"
-*,18/04/2005,$4370.17,"Loivos, Vila Real, Portugal"
-*,19/11/2004,$7942.98,"San Diego, California, United States"
-*,12/08/1990,$7924.89,"Göteborg, Västra Götaland, Sweden"
-*,04/08/2001,$6578.25,"Bohus, Västra Götaland, Sweden"
-*,03/08/2005,$4518.41,"Wasquehal, Nord-Pas-de-Calais, France"
-*,28/09/1986,$7689.46,"Maple Creek, Saskatchewan, Canada"
-*,19/01/1988,$4590.54,"Linhares, Porto, Portugal"
-*,25/08/1984,$7741.81,"Dante Delgado, Veracruz Llave, Mexico"
-*,06/05/1988,$4126.56,"Sete Cidades, Ilha de São Miguel, Portugal"
-*,26/02/1997,$2932.96,"Penedo, Porto, Portugal"
-*,14/12/2001,$7814.46,"La Virgen, Mexico, Mexico"
-*,05/09/1994,$3688.22,"Pickering, Ontario, Canada"
-*,20/12/1995,$959.80,"Buenavista, Oaxaca, Mexico"
-*,21/05/2005,$7600.54,"Notre-Dame-de-l'Île-Perrot, Québec, Canada"
-*,01/01/1998,$2909.91,"Stockholm, Stockholm, Sweden"
-*,09/04/2002,$1041.43,"Springfield, Massachusetts, United States"
-*,19/04/2003,$4930.40,"Ladário, Porto, Portugal"
-*,22/06/1998,$4324.50,"Fort Lauderdale, Florida, United States"
-*,20/03/1998,$6223.79,"Lyon, Rhône-Alpes, France"
-*,27/08/1994,$1809.17,"Sarzedo, Coimbra, Portugal"
-*,01/10/1980,$3090.80,"Portel, Évora, Portugal"
-*,13/04/2004,$5447.94,"New Hyde Park, New York, United States"
-*,15/03/2004,$5477.25,"Bålsta, Uppsala, Sweden"
-*,14/08/1995,$2946.19,"Kansas City, Missouri, United States"
-*,28/08/1983,$7454.96,"Giesteira, Viana do Castelo, Portugal"
-*,21/07/2001,$7801.31,"Rocky Mountain House, Alberta, Canada"
-*,14/12/1995,$4764.60,"Pereiras, Porto, Portugal"
-*,13/12/1986,$5373.09,"Älvsjö, Stockholm, Sweden"
-*,03/08/1991,$1288.62,"Charleston, West Virginia, United States"
-*,20/03/2005,$6825.59,"San Isidro, Chiapas, Mexico"
-*,31/07/1983,$7130.79,"Eido, Porto, Portugal"
-*,17/04/1982,$1653.38,"Summerland, British Columbia, Canada"
-*,18/06/1985,$7525.73,"Fovissste, Guerrero, Mexico"
-*,17/04/1981,$5002.09,"Boston, Massachusetts, United States"
-*,03/02/2003,$886.98,"Eskilstuna, Södermanland, Sweden"
-*,14/05/1994,$2437.75,"Campelos, Lisboa, Portugal"
-*,01/07/1999,$3392.24,"Fonte, Porto, Portugal"
-*,24/10/1984,$5910.48,"Sioux Falls, South Dakota, United States"
-*,11/06/1986,$4783.94,"Mérignac, Aquitaine, France"
-*,04/07/1988,$4199.58,"Washington, District of Columbia, United States"
-*,19/05/1992,$5268.12,"Göteborg, Västra Götaland, Sweden"
-*,20/02/1999,$4632.50,"Kalix, Norrbotten, Sweden"
-*,20/06/1981,$6657.46,"Coaticook, Québec, Canada"
-*,10/06/1987,$5427.64,"Saguenay, Québec, Canada"
-*,21/09/2004,$3511.27,"Saint-Amand-les-Eaux, Nord-Pas-de-Calais, France"
-*,07/06/2008,$7048.06,"Pemex, Veracruz Llave, Mexico"
-*,29/11/1987,$1374.14,"Paradela, Bragança, Portugal"
-*,12/12/2000,$5999.29,"Sarzedo, Coimbra, Portugal"
-*,11/08/1994,$2781.81,"Newport News, Virginia, United States"
-*,13/09/1990,$5823.77,"Constance, Porto, Portugal"
-*,28/05/1999,$1622.32,"Avignon, Provence-Alpes-Côte d'Azur, France"
-*,14/01/1992,$6651.08,"Torslanda, Västra Götaland, Sweden"
-*,15/11/1986,$3502.45,"Killarney, Manitoba, Canada"
-*,30/07/1996,$7410.13,"Montreuil, Île-de-France, France"
-*,04/03/1989,$3218.09,"Svenljunga, Västra Götaland, Sweden"
-*,08/06/2005,$7134.93,"Uppsala, Uppsala, Sweden"
-*,08/05/1982,$7783.26,"Katrineholm, Södermanland, Sweden"
-*,31/12/2005,$3918.00,"Gjoa Haven, Nunavut, Canada"
-*,14/06/1992,$6363.88,"Lattes, Languedoc-Roussillon, France"
-*,20/05/1983,$7453.73,"Vidual, Coimbra, Portugal"
-*,16/10/1990,$1900.48,"Trelleborg, Skåne, Sweden"
-*,08/07/2008,$5866.61,"Barroco, Porto, Portugal"
-*,27/03/1998,$6954.30,"Olival, Santarém, Portugal"
-*,13/09/2003,$6760.76,"Pobral, Lisboa, Portugal"
-*,31/05/2001,$3909.93,"Vegreville, Alberta, Canada"
-*,28/10/2007,$3533.25,"Rungis, Île-de-France, France"
-*,05/02/1989,$1370.53,"Linköping, Östergötland, Sweden"
-*,01/11/1981,$1715.64,"Washington, District of Columbia, United States"
-*,21/06/2010,$3645.69,"Rueil-Malmaison, Île-de-France, France"
-*,20/03/1983,$6872.51,"Cergy-Pontoise, Île-de-France, France"
-*,11/04/1989,$1355.25,"Tassin-la-Demi-Lune, Rhône-Alpes, France"
-*,09/11/1997,$6428.54,"Metz, Lorraine, France"
-*,05/11/2000,$5368.06,"Guilherand-Granges, Rhône-Alpes, France"
-*,08/03/1998,$3976.35,"Drummondville, Québec, Canada"
-*,29/05/2002,$1403.76,"Oromocto, New Brunswick, Canada"
-*,10/05/1996,$6416.83,"Stockholm, Stockholm, Sweden"
-*,29/06/2002,$4713.83,"Igreja, Aveiro, Portugal"
-*,26/01/1995,$6983.95,"Milton, Ontario, Canada"
-*,30/06/2005,$2435.84,"Las Flores, Coahuila De Zaragoza, Mexico"
-*,22/08/1995,$3609.17,"Coaldale, Alberta, Canada"
-*,21/12/1984,$6860.11,"Cannes, Provence-Alpes-Côte d'Azur, France"
-*,06/11/1990,$6509.58,"Säffle, Värmland, Sweden"
-*,01/04/1981,$6749.17,"Fort Worth, Texas, United States"
-*,09/07/1987,$1367.51,"Vales, Viseu, Portugal"
-*,20/10/1980,$1653.56,"Parreira, Santarém, Portugal"
-*,28/07/2001,$3625.99,"Hallsberg, Örebro, Sweden"
-*,02/03/2003,$1466.87,"Nice, Provence-Alpes-Côte d'Azur, France"
-*,29/04/1994,$2666.96,"Quarteira, Faro, Portugal"
-*,12/08/1991,$5747.87,"Emiliano Zapata, Guanajuato, Mexico"
-*,24/04/1991,$5189.45,"Monte Francisco, Faro, Portugal"
-*,23/05/1986,$7694.59,"Cleveland, Ohio, United States"
-*,29/08/2000,$4477.79,"La Mesa, Mexico, Mexico"
-*,02/08/1982,$4052.82,"Monte do Outeiro, Évora, Portugal"
-*,25/05/2005,$1310.34,"Banff, Alberta, Canada"
-*,03/09/1982,$2029.76,"Celeirós, Vila Real, Portugal"
-*,26/07/2007,$6749.86,"Molsheim, Alsace, France"
-*,21/07/2002,$3635.14,"Blois, Centre, France"
-*,04/04/2000,$7718.68,"Miguel Hidalgo, Guanajuato, Mexico"
-*,23/10/1981,$5731.07,"Anchorage, Alaska, United States"
-*,07/08/1997,$3572.00,"Jardia, Setúbal, Portugal"
-*,20/06/2009,$3078.97,"Monte de Trigo, Évora, Portugal"
-*,27/08/2003,$3478.88,"Perpignan, Languedoc-Roussillon, France"
-*,01/10/1996,$2667.16,"San Jose, San Luis Potosi, Mexico"
-*,16/07/2006,$7201.47,"Älvdalen, Dalarna, Sweden"
-*,18/12/1986,$2926.75,"Fort Worth, Texas, United States"
-*,10/06/1998,$7697.11,"Kugluktuk, Nunavut, Canada"
-*,04/10/2001,$6431.42,"Hearst, Ontario, Canada"
-*,29/01/2005,$1509.69,"New York City, New York, United States"
-*,31/10/2007,$2476.57,"Huntington, West Virginia, United States"
-*,15/03/1994,$5726.93,"Bengtsfors, Västra Götaland, Sweden"
-*,22/04/1992,$5169.65,"Bromma, Stockholm, Sweden"
-*,08/06/1985,$7373.11,"Vilar, Viana do Castelo, Portugal"
-*,20/12/1987,$1755.24,"Älvdalen, Dalarna, Sweden"
-*,17/10/1987,$1188.11,"Magdaleno Aguilar, Tamaulipas, Mexico"
-*,13/11/2005,$6230.34,"San Rafael, Michoacan De Ocampo, Mexico"
-*,24/12/2001,$5229.44,"Morelos, Mexico, Mexico"
-*,06/03/2010,$1824.90,"Ajaccio, Corse, France"
-*,18/02/2010,$1348.85,"Orsay, Île-de-France, France"
-*,13/05/1987,$5264.43,"Sobrosa, Porto, Portugal"
-*,09/11/2003,$6190.47,"Göteborg, Västra Götaland, Sweden"
-*,26/10/1993,$6649.25,"Paris 11, Île-de-France, France"
-*,13/01/1987,$3445.67,"Strasbourg, Alsace, France"
-*,23/07/2007,$2407.39,"Independencia, Michoacan De Ocampo, Mexico"
-*,13/11/2005,$3334.96,"Erie, Pennsylvania, United States"
-*,28/04/1989,$996.76,"Lazaro Cardenas, Veracruz Llave, Mexico"
-*,30/01/2006,$1907.75,"Paris 11, Île-de-France, France"
-*,06/06/2002,$7213.98,"Nîmes, Languedoc-Roussillon, France"
-*,07/05/1990,$3082.24,"Olhão, Faro, Portugal"
-*,16/07/2004,$4826.17,"Saint-Quentin, Picardie, France"
-*,27/09/1992,$3358.30,"Stockholm, Stockholm, Sweden"
-*,18/01/1985,$4250.40,"Göteborg, Västra Götaland, Sweden"
-*,05/04/1996,$1958.82,"Nîmes, Languedoc-Roussillon, France"
-*,25/03/1994,$7753.78,"Magog, Québec, Canada"
-*,24/02/1984,$1742.83,"Avignon, Provence-Alpes-Côte d'Azur, France"
-*,16/09/2005,$4550.42,"Aviúges, Viseu, Portugal"
-*,19/10/1981,$6189.32,"Lynn, Massachusetts, United States"
-*,14/09/2005,$1112.80,"Las Cruces, New Mexico, United States"
-*,19/12/1995,$3372.24,"Täby, Stockholm, Sweden"
-*,01/11/2007,$7689.77,"Bordeaux, Aquitaine, France"
-*,27/10/1985,$5772.96,"Bayeux, Basse-Normandie, France"
-*,11/11/1987,$3028.28,"Västervik, Kalmar, Sweden"
-*,24/01/1983,$2282.26,"Norsborg, Stockholm, Sweden"
-*,06/12/1991,$4879.74,"Durham, North Carolina, United States"
-*,24/06/1985,$3427.50,"Dallas, Texas, United States"
-*,12/06/1985,$4733.60,"Vetlanda, Jönköping, Sweden"
-*,31/05/2007,$4348.19,"Brunflo, Jämtland, Sweden"
-*,25/05/1981,$4902.14,"Corgo, Porto, Portugal"
-*,06/01/1985,$5238.49,"Huskvarna, Jönköping, Sweden"
-*,01/06/1995,$5848.86,"Refojos, Braga, Portugal"
-*,26/05/2003,$1422.11,"Moret-sur-Loing, Île-de-France, France"
-*,09/02/1999,$1467.94,"Colombes, Île-de-France, France"
-*,22/04/1983,$942.32,"Lamoso, Porto, Portugal"
-*,06/10/1997,$6834.47,"Omaha, Nebraska, United States"
-*,23/07/2000,$3399.67,"Albergaria, Coimbra, Portugal"
-*,11/05/1998,$4067.61,"Middleton, Nova Scotia, Canada"
-*,21/11/1995,$3770.58,"Saint-Égrève, Rhône-Alpes, France"
-*,10/07/1997,$1823.14,"Norrtälje, Stockholm, Sweden"
-*,27/08/2009,$805.10,"North Little Rock, Arkansas, United States"
-*,10/12/1986,$4357.15,"Portela, Viseu, Portugal"
-*,14/12/1994,$7159.29,"Alto do Estanqueiro, Setúbal, Portugal"
-*,11/08/2006,$7800.59,"Montemor-o-Velho, Coimbra, Portugal"
-*,18/02/2007,$2942.07,"L'Aigle, Basse-Normandie, France"
-*,30/05/2007,$1735.93,"Newport, England, United Kingdom"
-*,13/08/1985,$3248.92,"Ribas, Porto, Portugal"
-*,30/08/1995,$5057.48,"San Rafael, California, United States"
-*,04/04/1997,$5891.93,"Lille, Nord-Pas-de-Calais, France"
-*,19/03/1992,$1395.82,"San Francisco, Guanajuato, Mexico"
-*,06/11/1992,$6598.41,"Gananoque, Ontario, Canada"
-*,24/05/1988,$1404.57,"Seixal, Setúbal, Portugal"
-*,14/04/1999,$6424.69,"Orléans, Centre, France"
-*,08/06/2006,$5871.22,"Château-Richer, Québec, Canada"
-*,13/02/1989,$5191.05,"Santa Iria de Azóia, Lisboa, Portugal"
-*,19/06/2003,$7779.56,"Seixo Alvo, Porto, Portugal"
-*,18/07/2007,$5396.24,"Oromocto, New Brunswick, Canada"
-*,18/07/2000,$1411.11,"Macieira de Rates, Braga, Portugal"
-*,28/11/2002,$6310.65,"Cavadas, Aveiro, Portugal"
-*,20/09/1989,$1900.04,"San Francisco, California, United States"
-*,26/06/1988,$4468.57,"Lyon, Rhône-Alpes, France"
-*,21/07/1987,$1846.26,"Norberg, Västmanland, Sweden"
-*,21/08/1988,$2250.17,"Landskrona, Skåne, Sweden"
-*,10/01/1981,$4796.47,"Saint-Quentin, Picardie, France"
-*,07/03/2002,$1609.66,"Farsta, Stockholm, Sweden"
-*,12/01/1998,$7553.46,"Svalöv, Skåne, Sweden"
-*,25/08/2003,$3585.21,"Cache Creek, British Columbia, Canada"
-*,09/05/2008,$6520.97,"Lagoa, Ilha de São Miguel, Portugal"
-*,08/04/1995,$2608.66,"Vale de Açores, Viseu, Portugal"
-*,14/05/2004,$1405.83,"Cache Creek, British Columbia, Canada"
-*,09/05/2004,$1812.50,"Baltimore, Maryland, United States"
-*,01/01/2007,$1681.00,"Rochester, New York, United States"
-*,16/08/2003,$1336.07,"Saint-Jean-de-Védas, Languedoc-Roussillon, France"
-*,11/08/1982,$6369.60,"Lavadorinhos, Porto, Portugal"
-*,02/03/1998,$7355.48,"Miami, Florida, United States"
-*,27/03/2002,$2468.51,"Fagersta, Västmanland, Sweden"
-*,16/03/1989,$4260.81,"Rochester, Minnesota, United States"
-*,12/01/1985,$809.15,"Newton, Scotland, United Kingdom"
-*,05/05/2007,$5663.67,"Louisville, Kentucky, United States"
-*,26/10/1991,$7147.42,"São Brás de Alportel, Faro, Portugal"
-*,25/08/2009,$2098.58,"Los Angeles, Nuevo Leon, Mexico"
-*,03/09/1997,$1575.77,"Campo Maior, Portalegre, Portugal"
-*,10/04/1995,$3488.65,"Notre-Dame-de-l'Île-Perrot, Québec, Canada"
-*,19/05/2006,$5503.12,"La Ravoire, Rhône-Alpes, France"
-*,18/11/1998,$6075.15,"Köping, Västmanland, Sweden"
-*,15/02/2000,$5316.35,"Nemours, Île-de-France, France"
-*,15/05/2006,$2533.07,"Barra Cheia, Setúbal, Portugal"
-*,03/10/1990,$6169.95,"Argivai, Porto, Portugal"
-*,12/10/1991,$4371.91,"Casais de Revelhos, Santarém, Portugal"
-*,03/09/2005,$3030.74,"Metz, Lorraine, France"
-*,27/09/2008,$5825.82,"Junqueiro, Lisboa, Portugal"
-*,03/04/1999,$5328.86,"Francisco Villa, Coahuila De Zaragoza, Mexico"
-*,09/10/1986,$2409.34,"White City, Saskatchewan, Canada"
-*,13/01/1994,$7189.04,"Quinta do Anjo, Setúbal, Portugal"
-*,15/09/1983,$4803.14,"Torrão, Setúbal, Portugal"
-*,15/09/1999,$7900.09,"Saintes, Poitou-Charentes, France"
-*,10/11/1985,$2174.45,"Santa Rosa, Jalisco, Mexico"
-*,09/07/1996,$6606.39,"Laxou, Lorraine, France"
-*,17/02/2008,$3306.51,"Dallas, Texas, United States"
-*,24/01/1997,$4718.05,"Eksjö, Jönköping, Sweden"
-*,12/07/1993,$3031.23,"Charlotte, North Carolina, United States"
-*,18/12/1992,$3055.75,"Annecy, Rhône-Alpes, France"
-*,26/02/2009,$6721.69,"Eskilstuna, Södermanland, Sweden"
-*,26/12/1980,$1385.97,"Kinloch, Scotland, United Kingdom"
-*,31/01/1999,$5736.48,"Bonneville, Rhône-Alpes, France"
-*,05/03/1983,$1127.28,"Norton, England, United Kingdom"
-*,07/11/1996,$1031.51,"Miami, Florida, United States"
-*,13/09/2009,$5213.70,"Serra da Silveira, Lisboa, Portugal"
-*,09/06/2009,$3483.46,"Tavira, Faro, Portugal"
-*,31/05/1984,$1246.34,"Vincennes, Île-de-France, France"
-*,27/05/2003,$1768.62,"Paris La Défense, Île-de-France, France"
-*,04/06/1995,$3227.73,"Aurillac, Auvergne, France"
-*,27/02/1983,$5412.88,"Stockholm, Stockholm, Sweden"
-*,11/02/1985,$3122.25,"Cabra Figa, Lisboa, Portugal"
-*,07/02/1996,$4970.32,"Fovissste, Chihuahua, Mexico"
-*,17/03/1986,$7659.54,"Telhado, Braga, Portugal"
-*,21/05/2009,$4979.70,"San Francisco, California, United States"
-*,09/10/1994,$2723.11,"Los Pinos, Michoacan De Ocampo, Mexico"
-*,25/02/2006,$2587.42,"El Rosario, Jalisco, Mexico"
-*,24/06/1982,$6525.14,"Stockholm, Stockholm, Sweden"
-*,17/07/1991,$1073.36,"Clermont-Ferrand, Auvergne, France"
-*,17/07/1983,$2280.82,"Primero de Mayo, Coahuila De Zaragoza, Mexico"
-*,18/07/1985,$5778.85,"Angoulême, Poitou-Charentes, France"
-*,25/04/1995,$1483.52,"San Antonio, Nuevo Leon, Mexico"
-*,17/12/2008,$4210.02,"Cuauhtemoc, Tamaulipas, Mexico"
-*,19/03/2009,$3303.24,"Peroguarda, Beja, Portugal"
-*,22/07/1982,$6296.75,"Sainte-Agathe-des-Monts, Québec, Canada"
-*,02/07/2000,$4762.01,"Fort Macleod, Alberta, Canada"
-*,02/06/1982,$2282.24,"Stockholm, Stockholm, Sweden"
-*,05/06/2003,$6243.42,"Marietta, Georgia, United States"
-*,19/02/1994,$2533.59,"Selmes, Beja, Portugal"
-*,17/04/2010,$6187.48,"Alcanena, Santarém, Portugal"
-*,13/11/1996,$6488.85,"Memphis, Tennessee, United States"
-*,03/09/1993,$953.73,"Newport Beach, California, United States"
-*,07/08/1989,$6728.72,"Paris 08, Île-de-France, France"
-*,31/12/1989,$6691.81,"Gif-sur-Yvette, Île-de-France, France"
-*,26/05/2008,$939.87,"Lidingö, Stockholm, Sweden"
-*,26/07/1983,$6946.23,"Le Blanc-Mesnil, Île-de-France, France"
-*,03/01/1983,$1569.15,"Middleton, England, United Kingdom"
-*,02/02/1984,$6662.13,"Saint-Augustin, Québec, Canada"
-*,16/02/1991,$1240.82,"Sveg, Jämtland, Sweden"
-*,28/07/1997,$5677.74,"Sparwood, British Columbia, Canada"
-*,07/03/1998,$4460.26,"Las Palmas, Tamaulipas, Mexico"
-*,30/07/2009,$2558.15,"Soissons, Picardie, France"
-*,18/03/1986,$1909.73,"Svedala, Skåne, Sweden"
-*,07/02/1988,$4305.72,"Fort Lauderdale, Florida, United States"
-*,07/01/1993,$3689.16,"Göteborg, Västra Götaland, Sweden"
-*,30/12/1982,$3859.70,"Knivsta, Uppsala, Sweden"
-*,21/09/1982,$1708.14,"São Miguel, Porto, Portugal"
-*,23/03/1997,$2306.02,"Memphis, Tennessee, United States"
-*,24/02/1997,$1647.59,"Anmore, British Columbia, Canada"
-*,15/07/2002,$1390.00,"San Antonio, Tamaulipas, Mexico"
-*,14/02/2004,$7803.39,"Loma Bonita, Jalisco, Mexico"
-*,31/08/1987,$1555.57,"Gardanne, Provence-Alpes-Côte d'Azur, France"
-*,11/11/1981,$3374.55,"Cergy-Pontoise, Île-de-France, France"
-*,15/03/2004,$5798.07,"Levandeira, Porto, Portugal"
-*,12/12/2003,$4260.82,"Casais de Vera Cruz, Coimbra, Portugal"
-*,19/10/1999,$3618.49,"Carvalhal, Viseu, Portugal"
-*,17/05/2001,$5977.38,"Mölndal, Västra Götaland, Sweden"
-*,15/01/1988,$3812.30,"Fleury-les-Aubrais, Centre, France"
-*,14/03/1996,$3574.50,"Souto, Braga, Portugal"
-*,14/09/1995,$6327.46,"Nykvarn, Stockholm, Sweden"
-*,11/12/2007,$2385.96,"Lidingö, Stockholm, Sweden"
-*,13/02/1983,$2655.12,"Orléans, Centre, France"
-*,27/02/1989,$5700.29,"Poitiers, Poitou-Charentes, France"
-*,02/07/1982,$2880.77,"Couto, Braga, Portugal"
-*,30/01/1981,$7548.51,"Monte, Porto, Portugal"
-*,21/04/2001,$4544.05,"Saint-Quentin-en-Yvelines, Île-de-France, France"
-*,29/01/1991,$4930.16,"Askim, Västra Götaland, Sweden"
-*,15/09/1992,$2261.44,"Real, Braga, Portugal"
-*,07/08/1994,$3868.21,"São Bento, Braga, Portugal"
-*,20/11/2006,$2454.79,"Detroit, Michigan, United States"
-*,18/05/1989,$3772.66,"Besançon, Franche-Comté, France"
-*,24/10/2003,$1839.10,"Birmingham, Alabama, United States"
-*,28/08/1988,$3011.36,"Söderhamn, Gävleborg, Sweden"
-*,30/12/1983,$6749.04,"Cherbourg-Octeville, Basse-Normandie, France"
-*,05/10/1998,$2212.91,"Pompano Beach, Florida, United States"
-*,24/10/1990,$7638.46,"Midland, Texas, United States"
-*,24/02/1997,$5130.58,"Saint Louis, Missouri, United States"
-*,29/11/1987,$5948.45,"Seixas, Coimbra, Portugal"
-*,26/05/1985,$7276.96,"Constance, Porto, Portugal"
-*,05/06/1985,$2411.36,"Tapada das Mercês, Lisboa, Portugal"
-*,22/12/2006,$2561.84,"Orsay, Île-de-France, France"
-*,03/03/1996,$2172.78,"Askersund, Örebro, Sweden"
-*,13/11/1984,$3765.74,"Saltsjöbaden, Stockholm, Sweden"
-*,18/08/1990,$5126.92,"Uddevalla, Västra Götaland, Sweden"
-*,29/01/1987,$5039.13,"Bengtsfors, Västra Götaland, Sweden"
-*,24/08/1982,$2385.94,"Strängnäs, Södermanland, Sweden"
-*,04/07/2010,$6508.41,"Tapado, Porto, Portugal"
-*,04/11/1984,$5411.17,"Bellevue, Washington, United States"
-*,15/11/2005,$7881.42,"Le Bourget-du-Lac, Rhône-Alpes, France"
-*,16/06/1988,$3721.36,"Póvoa, Aveiro, Portugal"
-*,08/01/1986,$2697.06,"Charlotte, North Carolina, United States"
-*,30/06/1996,$6063.49,"Fonte Boa dos Nabos, Lisboa, Portugal"
-*,25/09/1982,$1160.10,"Lyon, Rhône-Alpes, France"
-*,09/03/2002,$5805.91,"Tampa, Florida, United States"
-*,15/10/2004,$2463.52,"Metz, Lorraine, France"
-*,04/12/1980,$7517.14,"San Antonio, Mexico, Mexico"
-*,18/04/1982,$962.88,"Oliveirinha, Aveiro, Portugal"
-*,12/11/2000,$4510.14,"Carpiquet, Basse-Normandie, France"
-*,04/10/2005,$7937.78,"Vallentuna, Stockholm, Sweden"
-*,13/05/2000,$4466.02,"Vilarelho, Viana do Castelo, Portugal"
-*,17/11/1991,$7482.17,"Sobreira, Braga, Portugal"
-*,06/01/2010,$2617.72,"Osoyoos, British Columbia, Canada"
-*,23/06/1999,$6056.46,"Vales, Viseu, Portugal"
-*,21/11/1980,$2789.50,"Gävle, Gävleborg, Sweden"
-*,04/10/2007,$7313.37,"Chão, Viana do Castelo, Portugal"
-*,17/06/1991,$7516.22,"Orlando, Florida, United States"
-*,11/04/2001,$7491.62,"Catujal Velho, Lisboa, Portugal"
-*,29/07/2002,$1175.28,"Saginaw, Michigan, United States"
-*,24/09/1989,$7125.73,"Belfort, Franche-Comté, France"
-*,23/12/1986,$7474.04,"Bonneuil-sur-Marne, Île-de-France, France"
-*,18/05/1988,$4117.83,"Louisville, Kentucky, United States"
-*,11/08/2005,$2471.10,"Tours, Centre, France"
-*,05/11/2006,$2263.59,"Póvoa, Porto, Portugal"
-*,31/10/1986,$1318.68,"Dieppe, New Brunswick, Canada"
-*,07/02/1994,$6043.66,"Santulhão, Bragança, Portugal"
-*,31/03/1987,$3108.98,"Rueil-Malmaison, Île-de-France, France"
-*,15/02/1981,$1887.39,"Bradford, England, United Kingdom"
-*,03/03/2004,$7475.57,"Tyringe, Skåne, Sweden"
-*,14/03/1985,$2692.72,"Vällingby, Stockholm, Sweden"
-*,26/02/2002,$1994.12,"Oka, Québec, Canada"
-*,25/02/1990,$3814.74,"El Paraiso, Guerrero, Mexico"
-*,26/07/2009,$6261.32,"Halmstad, Halland, Sweden"
-*,18/05/2000,$3209.90,"Azteca, Tamaulipas, Mexico"
-*,08/03/2003,$7421.85,"Vale Boeiro, Setúbal, Portugal"
-*,20/01/1988,$3621.99,"Sunnyvale, California, United States"
-*,13/06/1999,$3200.25,"Eiriz, Porto, Portugal"
-*,19/08/2009,$4575.88,"Ferreira do Zêzere, Santarém, Portugal"
-*,24/03/1990,$5746.59,"Santa Valha, Vila Real, Portugal"
-*,26/02/1989,$2837.82,"San Martin, Mexico, Mexico"
-*,08/11/1985,$2816.85,"Jamaica, New York, United States"
-*,16/12/2002,$5843.31,"Roscoff, Bretagne, France"
-*,08/12/2005,$5443.77,"Arvika, Värmland, Sweden"
-*,18/03/2003,$5404.43,"Nice, Provence-Alpes-Côte d'Azur, France"
-*,03/03/2008,$4329.22,"Young America, Minnesota, United States"
-*,22/07/2004,$4306.65,"Lidköping, Västra Götaland, Sweden"
-*,28/10/2004,$4323.07,"Serra D'El Rei, Leiria, Portugal"
-*,25/08/2008,$6888.06,"Lindavista, Veracruz Llave, Mexico"
-*,12/11/1980,$1366.21,"Béziers, Languedoc-Roussillon, France"
-*,24/07/2001,$3381.06,"Beaune, Bourgogne, France"
-*,05/10/1989,$5459.27,"Quimperlé, Bretagne, France"
-*,10/11/2003,$1188.09,"Solna, Stockholm, Sweden"
-*,22/07/1997,$3646.85,"Magog, Québec, Canada"
-*,02/09/1982,$3581.83,"Detroit, Michigan, United States"
-*,13/11/1998,$6030.61,"Lameira, Viana do Castelo, Portugal"
-*,01/09/1991,$7248.09,"Philadelphia, Pennsylvania, United States"
-*,27/06/2005,$1032.14,"Donnacona, Québec, Canada"
-*,19/04/1986,$7701.36,"Bromma, Stockholm, Sweden"
-*,23/07/1981,$3027.41,"Trelleborg, Skåne, Sweden"
-*,07/05/1994,$7794.99,"Barbudo, Braga, Portugal"
-*,04/07/2007,$3591.60,"Gainesville, Florida, United States"
-*,23/08/1992,$5447.93,"Aubenas, Rhône-Alpes, France"
-*,17/02/1982,$7552.80,"Lamas, Braga, Portugal"
-*,20/05/2010,$5387.93,"Athabasca, Alberta, Canada"
-*,29/12/1991,$7290.49,"Stockholm, Stockholm, Sweden"
-*,21/11/1981,$4767.88,"Kopparberg, Örebro, Sweden"
-*,15/05/1998,$877.91,"Casal do Sapo, Setúbal, Portugal"
-*,30/06/1990,$3840.66,"Ulricehamn, Västra Götaland, Sweden"
-*,23/07/2005,$4148.82,"Göteborg, Västra Götaland, Sweden"
-*,02/09/1992,$4139.57,"Nackawic, New Brunswick, Canada"
-*,20/06/1994,$5252.25,"Mosteiro, Viana do Castelo, Portugal"
-*,21/01/1983,$7589.64,"Atlanta, Georgia, United States"
-*,16/10/1989,$5830.80,"Hultsfred, Kalmar, Sweden"
-*,03/06/1996,$4441.41,"New Haven, Connecticut, United States"
-*,14/01/1982,$3951.59,"Varberg, Halland, Sweden"
-*,28/11/1984,$6517.73,"Sheffield, England, United Kingdom"
-*,26/06/1991,$2891.78,"Fort Worth, Texas, United States"
-*,19/10/1989,$7068.52,"Villefranche-sur-Mer, Provence-Alpes-Côte d'Azur, France"
-*,14/05/1998,$5338.30,"Stockholm, Stockholm, Sweden"
-*,12/05/1983,$7373.73,"Casal de Cambra, Lisboa, Portugal"
-*,18/11/1997,$1624.94,"Stockholm, Stockholm, Sweden"
-*,06/03/2010,$6819.26,"Nässjö, Jönköping, Sweden"
-*,14/11/2007,$7468.47,"Stockholm, Stockholm, Sweden"
-*,23/12/1984,$5701.55,"Sollebrunn, Västra Götaland, Sweden"
-*,05/12/1993,$3036.16,"Corpus Christi, Texas, United States"
-*,10/03/1982,$7314.87,"Västervik, Kalmar, Sweden"
-*,12/05/2005,$5471.10,"Boca Raton, Florida, United States"
-*,01/04/2000,$2452.61,"Paris 15, Île-de-France, France"
-*,15/11/1985,$4320.80,"Maganha, Porto, Portugal"
-*,05/04/1995,$7844.90,"Buenos Aires, Veracruz Llave, Mexico"
-*,14/05/2005,$5514.96,"Coaldale, Alberta, Canada"
-*,05/07/1986,$1385.71,"Nanton, Alberta, Canada"
-*,02/09/1998,$2306.32,"Épinal, Lorraine, France"
-*,20/06/1993,$4550.26,"Seara, Braga, Portugal"
-*,07/01/1983,$3246.27,"Bandhagen, Stockholm, Sweden"
-*,24/06/2010,$1999.59,"Strasbourg, Alsace, France"
-*,14/11/1988,$7091.02,"Porto de Mós, Leiria, Portugal"
-*,30/08/2006,$7606.13,"Amiens, Picardie, France"
-*,20/06/2002,$3725.73,"Além, Porto, Portugal"
-*,06/05/1985,$6939.54,"Paris 04, Île-de-France, France"
-*,26/08/2005,$4725.00,"Paris 18, Île-de-France, France"
-*,02/10/1982,$1641.08,"Lancaster, California, United States"
-*,24/09/2003,$1622.77,"Norton, England, United Kingdom"
-*,23/08/1985,$7105.57,"Ribeira, Coimbra, Portugal"
-*,26/08/1999,$6285.14,"Wilmington, Delaware, United States"
-*,19/08/2003,$7660.68,"Santiago dos Velhos, Lisboa, Portugal"
-*,02/11/1989,$4197.51,"Rennes, Bretagne, France"
-*,28/02/2010,$7109.56,"Boulogne-Billancourt, Île-de-France, France"
-*,06/05/1983,$3229.72,"Quinta do Sobrado, Leiria, Portugal"
-*,14/07/1996,$6648.08,"Nice, Provence-Alpes-Côte d'Azur, France"
-*,23/06/2010,$1876.11,"Mercier, Québec, Canada"
-*,13/06/1997,$3561.11,"Newtown, England, United Kingdom"
-*,20/06/1988,$6298.92,"Vila Nova de Milfontes, Beja, Portugal"
-*,20/02/1990,$2065.92,"Lancaster, California, United States"
-*,08/02/1997,$4472.72,"Navais, Porto, Portugal"
-*,30/03/1982,$5074.78,"Saint-Lin-Laurentides, Québec, Canada"
-*,13/03/2008,$1403.09,"Lazaro Cardenas, Mexico, Mexico"
-*,18/10/1988,$2566.78,"Atães, Braga, Portugal"
-*,15/05/1986,$4680.61,"Cergy-Pontoise, Île-de-France, France"
-*,08/07/1992,$3775.21,"Vadstena, Östergötland, Sweden"
-*,15/11/2003,$7646.16,"Guadalupe, Campeche, Mexico"
-*,04/08/1993,$2587.45,"Kungsbacka, Halland, Sweden"
-*,04/08/1987,$7402.15,"Frankfort, Kentucky, United States"
-*,08/01/2005,$6296.35,"Alcácer do Sal, Setúbal, Portugal"
-*,13/06/2004,$7039.05,"Watrous, Saskatchewan, Canada"
-*,18/01/1990,$6376.96,"Gonça, Braga, Portugal"
-*,08/10/2006,$3420.93,"Visby, Gotland, Sweden"
-*,23/09/1993,$1022.20,"Cergy-Pontoise, Île-de-France, France"
-*,31/01/1988,$1160.22,"Pinhal de Frades, Setúbal, Portugal"
-*,24/10/1981,$2100.45,"Marystown, Newfoundland and Labrador, Canada"
-*,14/08/1985,$3567.45,"Chicago, Illinois, United States"
-*,24/09/1992,$3912.08,"Tampa, Florida, United States"
-*,24/06/2005,$7382.35,"Annecy, Rhône-Alpes, France"
-*,22/03/1982,$3567.38,"Vila Franca, Viana do Castelo, Portugal"
-*,06/05/1987,$1939.10,"Moose Jaw, Saskatchewan, Canada"
-*,01/11/2009,$7311.26,"Mesa, Arizona, United States"
-*,30/11/2004,$4107.46,"Skärholmen, Stockholm, Sweden"
-*,19/03/2007,$7634.03,"Agen, Aquitaine, France"
-*,10/06/2000,$5966.72,"San Isidro, Guanajuato, Mexico"
-*,17/06/2002,$1006.79,"Houston, Texas, United States"
-*,18/03/1992,$7565.57,"Carleton Place, Ontario, Canada"
-*,06/10/1986,$825.82,"Buenavista, Puebla, Mexico"
-*,06/06/2002,$5198.50,"Paris 14, Île-de-France, France"
-*,17/08/2008,$3720.58,"Roanoke, Virginia, United States"
-*,07/04/1991,$4176.07,"Johanneshov, Stockholm, Sweden"
-*,09/07/1998,$2381.31,"Famões, Lisboa, Portugal"
-*,05/10/2000,$5196.14,"Daytona Beach, Florida, United States"
-*,10/06/1999,$3873.74,"Täby, Stockholm, Sweden"
-*,10/09/1984,$5814.99,"Sophia Antipolis, Provence-Alpes-Côte d'Azur, France"
-*,03/02/1998,$2268.22,"Saint-Bruno-de-Guigues, Québec, Canada"
-*,15/05/1997,$7858.32,"Eskilstuna, Södermanland, Sweden"
-*,16/10/2005,$7242.59,"Borlänge, Dalarna, Sweden"
-*,08/07/1994,$1430.78,"Svalöv, Skåne, Sweden"
-*,10/02/1996,$7370.54,"Crossfield, Alberta, Canada"
-*,20/06/1996,$3911.57,"Toledo, Ohio, United States"
-*,27/06/2009,$7591.61,"Porto Formoso, Ilha de São Miguel, Portugal"
-*,06/10/1986,$5150.96,"Labelle, Québec, Canada"
-*,10/03/2006,$5372.60,"Nackawic, New Brunswick, Canada"
-*,20/10/2003,$1668.43,"Saint Petersburg, Florida, United States"
-*,07/08/2003,$7070.82,"Igreja, Vila Real, Portugal"
-*,11/07/2008,$991.46,"Grande Cache, Alberta, Canada"
-*,11/05/1994,$2874.62,"Marseille, Provence-Alpes-Côte d'Azur, France"
-*,11/09/1995,$3945.26,"Paris 14, Île-de-France, France"
-*,16/11/2000,$6154.03,"Vinhas, Porto, Portugal"
-*,22/10/1991,$7885.38,"Billdal, Västra Götaland, Sweden"
-*,27/04/1984,$6184.82,"Sobrosa, Porto, Portugal"
-*,25/06/1991,$7198.71,"Vilarinho, Coimbra, Portugal"
-*,12/08/1998,$6545.90,"Souto da Casa, Castelo Branco, Portugal"
-*,10/08/2006,$6185.72,"Portland, Oregon, United States"
-*,11/01/1988,$1598.58,"Bordeaux, Aquitaine, France"
-*,04/12/1982,$4285.93,"Honolulu, Hawaii, United States"
-*,26/09/2000,$5087.05,"Alingsås, Västra Götaland, Sweden"
-*,14/11/1998,$2270.42,"Eirado, Braga, Portugal"
-*,30/12/1990,$4901.14,"Hartford, Connecticut, United States"
-*,02/11/2005,$1966.51,"Spartanburg, South Carolina, United States"
-*,01/11/1983,$7537.16,"Besançon, Franche-Comté, France"
-*,04/11/1985,$6430.52,"Niort, Poitou-Charentes, France"
-*,16/04/1982,$4066.86,"Hartford, Connecticut, United States"
-*,26/03/1995,$3531.22,"Cestas, Aquitaine, France"
-*,03/05/1995,$1967.98,"Van Nuys, California, United States"
-*,13/08/1992,$3468.54,"Greater Napanee, Ontario, Canada"
-*,27/11/2000,$7530.19,"Chicago, Illinois, United States"
-*,18/04/2010,$2118.25,"Montluçon, Auvergne, France"
-*,18/07/2007,$7890.52,"Lexington, Kentucky, United States"
-*,22/06/1996,$3849.89,"Alès, Languedoc-Roussillon, France"
-*,02/07/2004,$2671.01,"Lyon, Rhône-Alpes, France"
-*,20/09/1987,$5511.34,"Créteil, Île-de-France, France"
-*,27/11/2005,$5368.89,"Alverca do Ribatejo, Lisboa, Portugal"
-*,21/01/1986,$4468.82,"Valtelheiro, Bragança, Portugal"
-*,06/12/1982,$3837.29,"Kingston, England, United Kingdom"
-*,01/07/1999,$4615.15,"Kungsbacka, Halland, Sweden"
-*,26/05/1983,$5521.83,"Paris 02, Île-de-France, France"
-*,11/03/1984,$2558.30,"Alminhas, Braga, Portugal"
-*,29/01/2010,$7749.41,"Richmond, Virginia, United States"
-*,22/11/2002,$1032.68,"Mâcon, Bourgogne, France"
-*,06/11/2009,$4856.16,"Emiliano Zapata, Veracruz Llave, Mexico"
-*,26/11/2006,$7947.82,"Scottsdale, Arizona, United States"
-*,14/04/2000,$3114.52,"Várzea de Sintra, Lisboa, Portugal"
-*,17/12/2006,$5352.76,"Saint-Quentin-en-Yvelines, Île-de-France, France"
-*,15/10/1993,$6294.64,"Paris La Défense, Île-de-France, France"
-*,08/08/1983,$7155.79,"Luleå, Norrbotten, Sweden"
-*,03/12/1988,$4953.85,"Domont, Île-de-France, France"
-*,17/10/1987,$7817.66,"Reston, Virginia, United States"
-*,01/10/2004,$880.79,"Blaye, Aquitaine, France"
-*,23/11/1998,$7201.06,"Ajaccio, Corse, France"
-*,06/05/2006,$2735.48,"Beaumont, Texas, United States"
-*,19/05/1985,$3752.70,"Issy-les-Moulineaux, Île-de-France, France"
-*,27/02/1981,$6987.28,"Strasbourg, Alsace, France"
-*,14/10/1996,$1780.40,"Arroyo Seco, Guerrero, Mexico"
-*,29/01/1998,$2335.56,"Morgados, Setúbal, Portugal"
-*,08/08/1989,$7745.97,"Umeå, Västerbotten, Sweden"
-*,06/01/2002,$1798.82,"Svalöv, Skåne, Sweden"
-*,13/02/1985,$4583.37,"Limoges, Limousin, France"
-*,27/08/2007,$5163.00,"Neuilly-sur-Marne, Île-de-France, France"
-*,21/01/2006,$2562.92,"Sangalhos, Aveiro, Portugal"
-*,24/01/2007,$4942.31,"Mobile, Alabama, United States"
-*,23/06/1992,$7816.46,"Meia Via, Santarém, Portugal"
-*,13/05/1981,$5847.43,"Senhor da Serra, Coimbra, Portugal"
-*,08/06/1984,$4443.31,"Canha, Setúbal, Portugal"
-*,23/10/1996,$5620.85,"Orléans, Centre, France"
-*,30/07/2008,$1618.95,"Cruzeiro, Aveiro, Portugal"
-*,22/04/1985,$7982.36,"Almeirim, Santarém, Portugal"
-*,20/04/1999,$2320.29,"Quintãs, Viseu, Portugal"
-*,12/03/1994,$1265.76,"Le Mans, Pays de la Loire, France"
-*,06/06/2004,$7048.51,"El Mirador, Distrito Federal, Mexico"
-*,17/10/2008,$6105.52,"Souto, Braga, Portugal"
-*,29/05/1999,$5896.63,"Dallas, Texas, United States"
-*,16/10/1985,$6173.77,"Hallsberg, Örebro, Sweden"
-*,02/12/1994,$6525.63,"Habo, Jönköping, Sweden"
-*,23/03/1999,$2460.19,"San Francisco, California, United States"
-*,31/03/1997,$4630.14,"Anchorage, Alaska, United States"
-*,26/08/1996,$4630.99,"Cran-Gevrier, Rhône-Alpes, France"
-*,08/04/1981,$7680.45,"Saint-Avertin, Centre, France"
-*,22/01/1987,$1919.83,"Strömstad, Västra Götaland, Sweden"
-*,27/10/1989,$1655.67,"Martigues, Provence-Alpes-Côte d'Azur, France"
-*,14/09/1999,$7202.18,"Mississauga, Ontario, Canada"
-*,27/02/1991,$7831.28,"Vidago, Vila Real, Portugal"
-*,29/11/1995,$7782.63,"Nipawin, Saskatchewan, Canada"
-*,09/02/1988,$4772.43,"Santo Aleixo, Portalegre, Portugal"
-*,17/10/1990,$5004.78,"Boissy-Saint-Léger, Île-de-France, France"
-*,23/09/1996,$5362.26,"Rennes, Bretagne, France"
-*,19/11/2006,$3737.37,"Lindavista, Guanajuato, Mexico"
+localizacao,genero,data
+"Mobile, Alabama, United States",Male,**/01/1987
+"Porto, Portugal",Male,**/11/2007
+"Kalmar, Sweden",Male,**/06/1984
+"Västmanland, Sweden",Female,**/11/1983
+"Quimperlé, Bretagne, France",Female,**/11/1990
+"Cincinnati, Ohio, United States",Female,**/07/1981
+"Niort, Poitou-Charentes, France",Female,**/03/1989
+"Tamaulipas, Mexico",Male,**/05/1990
+"Oklahoma, United States",Male,**/11/1992
+"Champagne-Ardenne, France",Female,**/01/2007
+"Florida, United States",Male,**/01/2007
+"Värmland, Sweden",Male,25/03/1995
+"Uppsala, Uppsala, Sweden",Female,**/**/****
+"Katrineholm, Södermanland, Sweden",Female,**/**/2002
+"Frankfort, Kentucky, United States",Female,**/11/1980
+"Älvsjö, Stockholm, Sweden",Female,**/05/1985
+"Manitoba, Canada",Male,**/04/2009
+"Mobile, Alabama, United States",Female,06/05/1983
+"Morelos, Veracruz Llave, Mexico",Male,**/11/2004
+"Dalarna, Sweden",Female,**/05/2000
+"Kalmar, Sweden",Female,28/02/1996
+"Corpus Christi, Texas, United States",Male,**/01/1999
+"England, United Kingdom",Male,**/04/1992
+"Haute-Normandie, France",Male,**/**/2002
+"Nantes, Pays de la Loire, France",Female,**/11/1990
+"Västernorrland, Sweden",Male,19/10/1981
+"Göteborg, Västra Götaland, Sweden",Male,**/12/2000
+"Santo Aleixo, Portalegre, Portugal",Male,**/10/1999
+"Besançon, Franche-Comté, France",Male,**/04/1994
+"Stockholm, Sweden",Female,**/08/1999
+"Lindavista, Veracruz Llave, Mexico",Female,**/03/2000
+"Bretagne, France",Male,**/**/1992
+"Porto, Portugal",Female,**/04/1996
+"Ystad, Skåne, Sweden",Female,**/09/1999
+"Göteborg, Västra Götaland, Sweden",Male,**/12/1997
+"Castelo Branco, Portugal",Female,**/04/1981
+"Setúbal, Portugal",Male,**/06/2000
+"Porto, Portugal",Female,**/05/1981
+"Louisville, Kentucky, United States",Female,26/10/1993
+"Aveiro, Portugal",Male,**/12/1999
+"Viana do Castelo, Portugal",Female,**/01/2005
+"Vila Real, Portugal",Female,**/08/1981
+"Skåne, Sweden",Female,**/06/2004
+"Stockholm, Sweden",Female,**/03/2000
+"Vila Real, Portugal",Female,**/02/2008
+"Braga, Portugal",Male,29/04/1997
+"Santarém, Portugal",Female,17/01/1981
+"Île-de-France, France",Female,**/**/2004
+"Tours, Centre, France",Male,**/07/2010
+"Gävle, Gävleborg, Sweden",Female,**/**/1985
+"British Columbia, Canada",Female,**/07/2001
+"Denver, Colorado, United States",Female,**/10/2009
+"Lisboa, Portugal",Female,**/02/1995
+"Hägersten, Stockholm, Sweden",Male,**/07/2000
+"Coimbra, Portugal",Female,**/10/1988
+"San Francisco, San Luis Potosi, Mexico",Female,**/01/1993
+"Leiria, Portugal",Male,**/09/1988
+"Saint Louis, Missouri, United States",Female,**/02/2010
+"Castelo Branco, Portugal",Female,**/07/1996
+"Nantes, Pays de la Loire, France",Female,**/**/2004
+"Guarda, Portugal",Female,**/10/1997
+"Colorado, United States",Male,**/07/2007
+"Aveiro, Portugal",Male,**/05/1995
+"Chiapas, Mexico",Female,**/08/2001
+"Bourgogne, France",Male,26/02/1989
+"Ilha de São Miguel, Portugal",Female,**/07/1988
+"Porto, Portugal",Male,10/06/1984
+"Pennsylvania, United States",Female,**/11/1988
+"Île-de-France, France",Female,**/10/1997
+"Puebla, Mexico",Male,**/02/1990
+"Bretagne, France",Male,**/02/1998
+"Las Palmas, Oaxaca, Mexico",Male,**/06/2008
+"Nantes, Pays de la Loire, France",Female,05/05/2007
+"Tulsa, Oklahoma, United States",Female,**/12/2007
+"Ontario, Canada",Female,**/06/1990
+"Huntington, West Virginia, United States",Female,21/06/2010
+"Viseu, Portugal",Male,**/01/1987
+"California, United States",Female,**/07/2000
+"Saskatchewan, Canada",Male,**/06/1998
+"Manitoba, Canada",Female,**/01/2007
+"Lazaro Cardenas, Oaxaca, Mexico",Female,**/09/2009
+"Igreja, Ilha da Madeira, Portugal",Male,25/03/1994
+"Göteborg, Västra Götaland, Sweden",Male,**/08/1999
+"British Columbia, Canada",Female,**/12/1987
+"Vila Real, Portugal",Male,**/05/1999
+"Paris 09, Île-de-France, France",Male,**/05/2008
+"Örebro, Sweden",Female,**/09/1988
+"Aveiro, Portugal",Male,10/05/1997
+"Manitoba, Canada",Female,**/07/2004
+"Jalisco, Mexico",Female,**/10/1984
+"Lorraine, France",Female,**/09/1983
+"Nantes, Pays de la Loire, France",Male,26/01/2004
+"Evansville, Indiana, United States",Female,**/09/2000
+"Viseu, Portugal",Female,**/10/1980
+"Nässjö, Jönköping, Sweden",Male,**/02/2010
+"Västra Götaland, Sweden",Male,**/03/1996
+"Lorraine, France",Female,**/03/2010
+"Ilha de São Miguel, Portugal",Male,**/12/1995
+"Vällingby, Stockholm, Sweden",Female,**/03/2009
+"Setúbal, Portugal",Male,**/09/2000
+"Provence-Alpes-Côte d'Azur, France",Female,**/01/1993
+"Järfälla, Stockholm, Sweden",Female,**/05/2005
+"Sundsvall, Västernorrland, Sweden",Male,**/03/2004
+"Boden, Norrbotten, Sweden",Male,**/06/1981
+"Newfoundland and Labrador, Canada",Female,**/06/1984
+"Emiliano Zapata, Michoacan De Ocampo, Mexico",Male,**/09/1994
+"Lisboa, Portugal",Male,**/01/1983
+"Sobreira, Braga, Portugal",Male,**/12/2003
+"Saint-Augustin, Québec, Canada",Female,**/11/1995
+"Västerbotten, Sweden",Female,**/07/2000
+"Lamas, Porto, Portugal",Female,**/04/1985
+"Île-de-France, France",Female,**/01/1994
+"Fovissste, Guerrero, Mexico",Female,**/06/2001
+"Québec, Canada",Male,**/12/1990
+Mexico,Male,**/11/1997
+"Manitoba, Canada",Male,**/07/1993
+"Stockholm, Sweden",Male,**/02/1983
+"Vicente Guerrero, Veracruz Llave, Mexico",Female,**/09/1981
+"Leiria, Portugal",Female,**/01/2003
+"Vermoim, Braga, Portugal",Male,**/04/1984
+"Porto, Portugal",Female,**/01/2002
+"Santarém, Portugal",Male,**/03/2003
+"Viana do Castelo, Portugal",Female,10/06/1984
+"Lisboa, Portugal",Male,**/10/1980
+"Cleveland, Ohio, United States",Female,**/10/1998
+"Aveiro, Portugal",Male,17/01/1981
+"Denver, Colorado, United States",Male,**/**/2001
+"Manitoba, Canada",Male,**/11/2004
+"Saint-Avertin, Centre, France",Male,**/07/1988
+"Lisboa, Portugal",Male,**/05/2007
+"Guarda, Portugal",Female,**/01/2000
+"Île-de-France, France",Male,**/01/1994
+"Östergötland, Sweden",Female,**/10/1994
+"Uddevalla, Västra Götaland, Sweden",Female,**/03/1993
+"Uppsala, Uppsala, Sweden",Female,**/01/2008
+"Stockholm, Stockholm, Sweden",Male,**/06/1999
+"Haute-Normandie, France",Female,**/02/2002
+Sweden,Female,**/12/1994
+"Campelos, Lisboa, Portugal",Male,**/02/1996
+"Västra Götaland, Sweden",Female,**/08/2008
+"Marseille, Provence-Alpes-Côte d'Azur, France",Female,**/02/1985
+"Vicente Guerrero, Puebla, Mexico",Male,**/02/1991
+Sweden,Male,**/04/2000
+"Québec, Canada",Female,**/02/1997
+"Porto, Portugal",Female,**/10/2009
+"Dalarna, Sweden",Male,**/08/1988
+"Coimbra, Portugal",Male,**/12/1984
+"Lisboa, Portugal",Female,**/08/1981
+"Viseu, Portugal",Male,**/11/1984
+"Île-de-France, France",Female,03/09/1993
+"Bourgogne, France",Male,**/02/2004
+"Québec, Canada",Female,**/**/1993
+"Independencia, Coahuila De Zaragoza, Mexico",Female,16/06/1996
+"Francisco Villa, Veracruz Llave, Mexico",Male,**/03/1999
+"Boden, Norrbotten, Sweden",Male,**/**/2006
+"Viana do Castelo, Portugal",Male,20/03/1990
+"Santa Elena, Chiapas, Mexico",Female,**/09/1989
+"Nuevo Leon, Mexico",Male,**/03/2008
+"Bordeaux, Aquitaine, France",Male,**/**/2001
+"Newfoundland and Labrador, Canada",Female,**/07/1985
+"Skåne, Sweden",Female,**/03/1982
+"Tulsa, Oklahoma, United States",Male,**/05/2005
+"Västernorrland, Sweden",Female,**/10/1984
+"Pickering, Ontario, Canada",Male,**/03/1995
+"Loureiro, Braga, Portugal",Female,**/**/2001
+"Portela, Viana do Castelo, Portugal",Female,**/01/1990
+"Santarém, Portugal",Male,**/05/1990
+"Köping, Västmanland, Sweden",Female,**/08/2003
+"Francisco Villa, Veracruz Llave, Mexico",Male,**/05/2003
+"Independencia, Nayarit, Mexico",Male,**/08/1994
+"São Mamede de Infesta, Porto, Portugal",Male,**/05/1995
+"Morgados, Setúbal, Portugal",Male,**/10/1985
+"Aquitaine, France",Male,**/12/1990
+"Denver, Colorado, United States",Female,**/04/2009
+"Lombo Meão, Aveiro, Portugal",Male,**/08/2002
+"Västra Götaland, Sweden",Female,**/12/1984
+"Santulhão, Bragança, Portugal",Male,**/02/2002
+"Ontario, Canada",Male,**/09/2005
+"Colombes, Île-de-France, France",Male,**/01/2006
+"Täby, Stockholm, Sweden",Female,**/01/2003
+"Maganha, Porto, Portugal",Female,**/05/1996
+"Tulsa, Oklahoma, United States",Male,**/05/2004
+"Eskilstuna, Södermanland, Sweden",Male,**/05/1990
+"Couto, Braga, Portugal",Female,**/04/1983
+"Aquitaine, France",Male,**/08/2008
+"Norrköping, Östergötland, Sweden",Male,**/02/2007
+"Île-de-France, France",Male,**/02/1995
+"Quintães, Viana do Castelo, Portugal",Female,**/12/2002
+"Florida, United States",Female,**/08/1989
+United States,Female,**/01/2000
+"Île-de-France, France",Female,**/08/2007
+"Ontario, Canada",Female,**/06/1993
+"Porto, Portugal",Female,**/03/1988
+"Igreja, Viseu, Portugal",Female,**/03/1987
+"Ohio, United States",Male,**/05/1999
+"Ontario, Canada",Female,29/04/1997
+"Västmanland, Sweden",Male,**/07/1990
+"Florida, United States",Male,**/**/2008
+"Veracruz Llave, Mexico",Male,**/09/1994
+"Stockholm, Sweden",Male,**/03/1989
+"Marseille, Provence-Alpes-Côte d'Azur, France",Female,**/07/1981
+"Nord-Pas-de-Calais, France",Male,**/06/2001
+"Göteborg, Västra Götaland, Sweden",Female,**/03/1994
+"Mölndal, Västra Götaland, Sweden",Female,**/02/1997
+"Québec, Canada",Female,**/**/1982
+"Basse-Normandie, France",Female,29/01/1987
+"Santa Iria de Azóia, Lisboa, Portugal",Male,**/08/2003
+"Pays de la Loire, France",Female,**/07/1992
+"Languedoc-Roussillon, France",Female,**/06/2006
+"Rennes, Bretagne, France",Male,**/06/2009
+"Nunavut, Canada",Female,**/03/2006
+"Évry, Île-de-France, France",Female,17/04/1981
+"Quintães, Viana do Castelo, Portugal",Female,**/**/1984
+"Rungis, Île-de-France, France",Male,**/03/1993
+"Maryland, United States",Female,**/12/1988
+"San Antonio, Texas, United States",Male,**/02/1981
+"Azteca, Veracruz Llave, Mexico",Female,**/10/1993
+"Lombo Meão, Aveiro, Portugal",Male,**/04/2005
+"Saskatchewan, Canada",Male,**/10/1994
+"New Jersey, United States",Female,**/**/1991
+"Aquitaine, France",Female,**/03/1995
+"Mölndal, Västra Götaland, Sweden",Female,**/09/1996
+"Roanoke, Virginia, United States",Female,**/07/1993
+"Lisboa, Portugal",Male,**/02/1991
+"Manitoba, Canada",Female,**/05/1998
+"Île-de-France, France",Male,**/06/1984
+"Porto Formoso, Ilha de São Miguel, Portugal",Male,**/05/1984
+"Île-de-France, France",Male,**/11/1989
+"Tibro, Västra Götaland, Sweden",Male,**/02/2009
+"Basse-Normandie, France",Female,**/09/1989
+"Saskatchewan, Canada",Female,**/06/1983
+"Colombes, Île-de-France, France",Female,**/04/1981
+"Vale Boeiro, Setúbal, Portugal",Female,**/12/1996
+"Québec, Canada",Male,**/06/1985
+"Aveiro, Portugal",Female,**/07/2005
+"Île-de-France, France",Male,**/03/1987
+"England, United Kingdom",Female,**/08/1996
+"Lorraine, France",Male,24/10/2003
+"Veiga, Porto, Portugal",Male,**/06/1985
+"Ystad, Skåne, Sweden",Male,**/06/2010
+"Alberta, Canada",Male,**/06/2007
+"Kalmar, Sweden",Male,**/01/1998
+"Alingsås, Västra Götaland, Sweden",Female,**/08/2002
+"Porto, Portugal",Female,**/03/2005
+United States,Female,**/11/2005
+"Jalisco, Mexico",Male,**/11/1986
+"Norrköping, Östergötland, Sweden",Female,**/07/2000
+"Uppsala, Uppsala, Sweden",Male,**/03/2008
+"Ontario, Canada",Male,**/04/2005
+"Leiria, Portugal",Female,**/02/2005
+"Braga, Portugal",Male,**/10/1997
+"New Haven, Connecticut, United States",Female,**/**/1991
+"Detroit, Michigan, United States",Male,**/07/1986
+"Santa Rosa, California, United States",Female,**/04/2001
+"Stockholm, Stockholm, Sweden",Female,08/04/1995
+"Washington, District of Columbia, United States",Male,**/08/1984
+"Skåne, Sweden",Male,**/04/1999
+"Leiria, Portugal",Male,**/**/1987
+"Ilha de São Miguel, Portugal",Male,**/12/2000
+"Île-de-France, France",Female,**/07/1990
+"Stockholm, Stockholm, Sweden",Female,**/05/1994
+"Wasquehal, Nord-Pas-de-Calais, France",Male,**/08/2008
+"Anmore, British Columbia, Canada",Female,**/06/1994
+"Stockholm, Sweden",Female,**/11/1986
+"Birmingham, Alabama, United States",Male,**/03/1993
+"Puteaux, Île-de-France, France",Male,**/07/2006
+"Macieira de Rates, Braga, Portugal",Male,**/10/1981
+"Vila Real, Portugal",Female,**/03/2006
+"Québec, Canada",Male,**/08/2002
+"Viana do Castelo, Portugal",Male,**/**/1993
+"Stockholm, Sweden",Female,**/11/1981
+"Viseu, Portugal",Female,**/01/1992
+"Scotland, United Kingdom",Female,**/01/2008
+"Alberta, Canada",Male,**/09/2003
+"Guarda, Portugal",Female,**/06/1985
+"Ohio, United States",Female,**/08/1989
+"Los Angeles, California, United States",Female,**/12/1990
+"Arizona, United States",Female,28/04/1989
+"Emiliano Zapata, Sinaloa, Mexico",Male,**/06/2004
+"Södermanland, Sweden",Male,**/03/2004
+"Viseu, Portugal",Female,09/10/1994
+"Michigan, United States",Male,**/11/1999
+"Braga, Portugal",Male,**/08/2001
+"New York, United States",Female,**/07/1981
+"Rhône-Alpes, France",Female,16/06/1996
+"Francisco Villa, Durango, Mexico",Male,**/12/1999
+"Saskatchewan, Canada",Male,**/02/1988
+"Braga, Portugal",Male,**/12/1996
+"Tibro, Västra Götaland, Sweden",Male,**/08/2006
+"Charleston, West Virginia, United States",Female,**/06/1982
+"Alsace, France",Male,**/08/1981
+"Quintãs, Viseu, Portugal",Female,**/07/1992
+"Loureiro, Viana do Castelo, Portugal",Male,**/08/1996
+"Québec, Canada",Male,**/09/1981
+"Tours, Centre, France",Female,28/02/1996
+"Örebro, Sweden",Male,**/07/2004
+"Ontario, Canada",Male,**/11/1980
+"Ontario, Canada",Female,**/08/1988
+"Leiria, Portugal",Female,**/11/1983
+"Bragança, Portugal",Female,**/07/1994
+"New Brunswick, Canada",Female,16/06/1996
+"Picardie, France",Male,**/**/1987
+"Belfort, Franche-Comté, France",Female,**/06/2007
+"New Jersey, United States",Male,**/07/2004
+"Landskrona, Skåne, Sweden",Male,**/11/1988
+"Épinal, Lorraine, France",Female,**/07/1985
+"Bretagne, France",Male,**/11/1999
+"Nantes, Pays de la Loire, France",Male,**/09/1994
+"Québec, Canada",Male,**/03/2008
+"Erie, Pennsylvania, United States",Male,**/10/1986
+"Cincinnati, Ohio, United States",Male,**/09/1988
+"Santarém, Portugal",Female,27/11/2000
+"Limousin, France",Female,**/05/2003
+"Ontario, Canada",Male,**/06/1981
+"Evansville, Indiana, United States",Male,**/**/1987
+United States,Female,**/08/1999
+"Ontario, Canada",Female,**/11/2007
+"Pays de la Loire, France",Female,**/06/1984
+"Buenavista, Oaxaca, Mexico",Female,11/05/1994
+"Braga, Portugal",Female,**/07/1988
+"Stockholm, Sweden",Female,**/05/1995
+"Castelo Branco, Portugal",Female,**/03/2010
+"Marseille, Provence-Alpes-Côte d'Azur, France",Female,**/**/1992
+"Provence-Alpes-Côte d'Azur, France",Male,**/**/2003
+"Vilhelmina, Västerbotten, Sweden",Male,**/09/1999
+"Sundsvall, Västernorrland, Sweden",Male,26/01/2004
+"California, United States",Male,**/01/2008
+"Paris 08, Île-de-France, France",Male,**/03/2009
+"Stockholm, Stockholm, Sweden",Male,**/04/1991
+"Viana do Castelo, Portugal",Male,**/05/1982
+"Québec, Canada",Male,**/06/1984
+"New York City, New York, United States",Female,**/12/2001
+"Independence, Missouri, United States",Male,**/08/2000
+"Veiga, Porto, Portugal",Female,**/08/2005
+"Linköping, Östergötland, Sweden",Male,**/11/2000
+"Ilha de São Miguel, Portugal",Female,**/06/1993
+Portugal,Male,**/10/1994
+"Santa Elena, Chiapas, Mexico",Male,**/11/1999
+"Florida, United States",Female,**/10/1997
+"Fleury-les-Aubrais, Centre, France",Female,**/04/2010
+"Guadalupe, Oaxaca, Mexico",Female,**/05/1995
+"Guadalupe, Chihuahua, Mexico",Female,**/05/1986
+"Antony, Île-de-France, France",Male,**/04/1983
+"Coimbra, Portugal",Female,**/02/1981
+"Évry, Île-de-France, France",Male,**/07/2000
+"Coahuila De Zaragoza, Mexico",Female,**/03/1998
+"Paris La Défense, Île-de-France, France",Female,**/11/2009
+"Lidköping, Västra Götaland, Sweden",Female,**/**/1990
+"Pays de la Loire, France",Female,**/01/2000
+"Saint Petersburg, Florida, United States",Female,**/02/2004
+"Charlotte, North Carolina, United States",Male,10/05/1997
+"Houston, Texas, United States",Female,**/08/1987
+"Sacramento, California, United States",Male,17/01/1981
+"Järfälla, Stockholm, Sweden",Male,**/04/1984
+"Skåne, Sweden",Female,**/12/1982
+"Göteborg, Västra Götaland, Sweden",Male,**/06/1985
+"Lexington, Kentucky, United States",Female,**/09/1981
+"Minnesota, United States",Female,**/**/****
+"Umeå, Västerbotten, Sweden",Male,**/**/****
+"Pays de la Loire, France",Male,18/12/1996
+"São Paio de Gramaços, Coimbra, Portugal",Female,**/12/1992
+"Torrão, Setúbal, Portugal",Male,**/12/1984
+"Stockholm, Stockholm, Sweden",Female,**/07/1985
+"Québec, Canada",Male,**/**/2006
+"Besançon, Franche-Comté, France",Female,**/08/1999
+"São Paio de Gramaços, Coimbra, Portugal",Female,18/12/1996
+"Porto Formoso, Ilha de São Miguel, Portugal",Male,**/04/2001
+"Leiria, Portugal",Male,**/04/1989
+"Tulsa, Oklahoma, United States",Female,**/01/1995
+"Vila Real, Portugal",Male,**/05/2005
+"Santarém, Portugal",Female,**/10/2000
+"Rhône-Alpes, France",Female,**/06/2001
+"Cruzeiro, Porto, Portugal",Male,**/08/1982
+"Portela, Leiria, Portugal",Male,**/04/1995
+"Norrbotten, Sweden",Male,**/03/1988
+"Ontario, Canada",Female,14/10/2000
+"Hägersten, Stockholm, Sweden",Female,**/01/1994
+"Göteborg, Västra Götaland, Sweden",Male,**/09/2003
+"Haute-Normandie, France",Female,**/05/1989
+"Braga, Portugal",Male,**/10/1980
+"Lisboa, Portugal",Female,**/05/2004
+"Värmland, Sweden",Female,**/06/1985
+"Alberta, Canada",Female,**/07/1985
+"Cluses, Rhône-Alpes, France",Male,**/11/1998
+"Vilhelmina, Västerbotten, Sweden",Female,**/02/1982
+"Västra Götaland, Sweden",Female,**/02/2002
+"Guadalupe, Chiapas, Mexico",Female,**/09/1995
+"Falun, Dalarna, Sweden",Male,**/09/1993
+"Casal de Cambra, Lisboa, Portugal",Male,**/12/1997
+"Puteaux, Île-de-France, France",Male,**/11/1990
+"Alberta, Canada",Male,**/05/1998
+"Boulogne-Billancourt, Île-de-France, France",Male,**/01/1998
+"Lisboa, Portugal",Female,**/**/2007
+"Irving, Texas, United States",Female,**/01/1985
+"Limousin, France",Male,**/03/1986
+"Skåne, Sweden",Male,**/**/1983
+"Texas, United States",Female,**/10/1982
+"Indiana, United States",Female,**/06/1995
+"Orléans, Centre, France",Female,15/11/2005
+"Lindavista, Oaxaca, Mexico",Female,**/06/1990
+"Marseille, Provence-Alpes-Côte d'Azur, France",Female,**/01/1991
+"Västra Götaland, Sweden",Male,**/11/1985
+"Centre, France",Female,**/03/1986
+"Emiliano Zapata, Michoacan De Ocampo, Mexico",Female,**/10/2006
+"Halland, Sweden",Female,**/10/1998
+"Guerrero, Mexico",Male,**/02/1984
+"Göteborg, Västra Götaland, Sweden",Female,**/03/1986
+"San Luis Potosi, Mexico",Female,14/10/2000
+"Newfoundland and Labrador, Canada",Female,**/10/1985
+"Faro, Portugal",Female,20/03/1990
+"Los Angeles, Sinaloa, Mexico",Female,**/08/2003
+"Independence, Missouri, United States",Female,**/08/2008
+"Provence-Alpes-Côte d'Azur, France",Female,**/10/2003
+"Cluses, Rhône-Alpes, France",Female,**/11/1995
+"Bretagne, France",Male,**/08/1999
+"Île-de-France, France",Male,**/02/2005
+"Erie, Pennsylvania, United States",Female,**/06/1983
+"Michoacan De Ocampo, Mexico",Male,**/11/1989
+"Kalmar, Sweden",Female,**/06/2007
+"Midland, Ontario, Canada",Female,**/07/1994
+"Porto, Portugal",Female,**/05/1995
+"Limoges, Limousin, France",Male,**/**/1998
+"Lisboa, Portugal",Male,05/10/1989
+"Niort, Poitou-Charentes, France",Female,**/08/1981
+"Philadelphia, Pennsylvania, United States",Male,25/03/1995
+"Sacramento, California, United States",Female,**/10/1989
+"San Diego, California, United States",Male,**/07/1993
+"Metz, Lorraine, France",Male,**/03/1982
+"Setúbal, Portugal",Female,**/01/2002
+"Vila Nova de Milfontes, Beja, Portugal",Male,**/02/1982
+"Braga, Portugal",Male,**/03/2008
+"Québec, Canada",Female,**/09/1992
+"São Mamede de Infesta, Porto, Portugal",Female,**/05/2008
+"Porto, Portugal",Female,18/03/1986
+"Ilha de São Miguel, Portugal",Female,**/09/1988
+"Irving, Texas, United States",Male,**/10/1986
+"Orléans, Centre, France",Male,**/11/2009
+"Gainesville, Florida, United States",Male,**/10/1991
+"Lyon, Rhône-Alpes, France",Female,**/06/1991
+"Paris 09, Île-de-France, France",Female,**/06/1984
+"Falun, Dalarna, Sweden",Male,**/10/1986
+"Antony, Île-de-France, France",Female,10/12/1986
+"Nice, Provence-Alpes-Côte d'Azur, France",Male,**/03/1995
+"Täby, Stockholm, Sweden",Female,**/11/1987
+"Vermoim, Braga, Portugal",Female,**/**/1986
+"Coimbra, Portugal",Female,**/11/2005
+"Champagne-Ardenne, France",Female,**/10/1993
+"Limoges, Limousin, France",Male,**/02/1991
+"Aveiro, Portugal",Female,22/06/1996
+"Nova Scotia, Canada",Male,**/03/2002
+"Vila Real, Portugal",Male,**/04/2005
+"San Diego, California, United States",Female,**/11/2004
+"Göteborg, Västra Götaland, Sweden",Male,**/08/1990
+"Västra Götaland, Sweden",Male,**/08/2001
+"Wasquehal, Nord-Pas-de-Calais, France",Female,**/08/2005
+"Saskatchewan, Canada",Male,**/**/1986
+"Porto, Portugal",Male,**/01/1988
+"Veracruz Llave, Mexico",Female,**/08/1984
+"Ilha de São Miguel, Portugal",Female,**/05/1988
+"Porto, Portugal",Male,**/02/1997
+"Mexico, Mexico",Male,**/12/2001
+"Pickering, Ontario, Canada",Female,**/09/1994
+"Buenavista, Oaxaca, Mexico",Male,**/12/1995
+"Notre-Dame-de-l'Île-Perrot, Québec, Canada",Male,**/05/2005
+"Stockholm, Stockholm, Sweden",Female,**/01/1998
+"Massachusetts, United States",Female,**/**/2002
+"Porto, Portugal",Female,**/**/2003
+"Fort Lauderdale, Florida, United States",Female,**/06/1998
+"Lyon, Rhône-Alpes, France",Male,**/03/1998
+"Sarzedo, Coimbra, Portugal",Male,**/08/1994
+"Évora, Portugal",Female,**/10/1980
+"New York, United States",Female,**/**/2004
+"Uppsala, Sweden",Female,15/03/2004
+"Missouri, United States",Male,**/08/1995
+"Viana do Castelo, Portugal",Male,**/08/1983
+"Alberta, Canada",Female,**/07/2001
+"Porto, Portugal",Female,**/12/1995
+"Älvsjö, Stockholm, Sweden",Female,**/12/1986
+"Charleston, West Virginia, United States",Female,**/08/1991
+"San Isidro, Chiapas, Mexico",Female,**/03/2005
+"Porto, Portugal",Female,**/07/1983
+"British Columbia, Canada",Male,**/04/1982
+"Fovissste, Guerrero, Mexico",Female,**/06/1985
+"Massachusetts, United States",Male,17/04/1981
+"Eskilstuna, Södermanland, Sweden",Female,**/**/2003
+"Campelos, Lisboa, Portugal",Male,**/05/1994
+"Porto, Portugal",Male,01/07/1999
+United States,Male,**/10/1984
+"Aquitaine, France",Female,**/**/1986
+"Washington, District of Columbia, United States",Female,**/07/1988
+"Göteborg, Västra Götaland, Sweden",Female,**/**/1992
+"Norrbotten, Sweden",Male,**/02/1999
+"Québec, Canada",Female,**/06/1981
+"Québec, Canada",Female,**/**/1987
+"Nord-Pas-de-Calais, France",Male,**/**/2004
+"Veracruz Llave, Mexico",Female,**/06/2008
+"Bragança, Portugal",Male,29/11/1987
+"Sarzedo, Coimbra, Portugal",Female,**/12/2000
+"Virginia, United States",Female,**/08/1994
+"Constance, Porto, Portugal",Female,**/**/1990
+"Avignon, Provence-Alpes-Côte d'Azur, France",Female,**/05/1999
+"Västra Götaland, Sweden",Female,**/01/1992
+"Manitoba, Canada",Male,**/11/1986
+"Île-de-France, France",Female,**/07/1996
+"Västra Götaland, Sweden",Male,**/03/1989
+"Uppsala, Uppsala, Sweden",Female,**/06/2005
+"Katrineholm, Södermanland, Sweden",Male,**/05/1982
+"Nunavut, Canada",Male,**/12/2005
+"Languedoc-Roussillon, France",Male,**/06/1992
+"Coimbra, Portugal",Female,**/05/1983
+"Trelleborg, Skåne, Sweden",Female,**/10/1990
+"Porto, Portugal",Female,**/07/2008
+"Santarém, Portugal",Male,**/03/1998
+"Lisboa, Portugal",Male,**/09/2003
+"Alberta, Canada",Female,**/05/2001
+"Rungis, Île-de-France, France",Male,**/10/2007
+"Linköping, Östergötland, Sweden",Female,**/02/1989
+"Washington, District of Columbia, United States",Female,**/11/1981
+"Rueil-Malmaison, Île-de-France, France",Male,21/06/2010
+"Cergy-Pontoise, Île-de-France, France",Female,**/03/1983
+"Rhône-Alpes, France",Female,**/04/1989
+"Metz, Lorraine, France",Female,**/11/1997
+"Rhône-Alpes, France",Female,**/11/2000
+"Québec, Canada",Female,**/03/1998
+"Oromocto, New Brunswick, Canada",Female,**/**/2002
+"Stockholm, Stockholm, Sweden",Female,**/05/1996
+"Igreja, Aveiro, Portugal",Female,**/06/2002
+"Ontario, Canada",Male,**/01/1995
+"Coahuila De Zaragoza, Mexico",Male,**/06/2005
+"Coaldale, Alberta, Canada",Male,**/08/1995
+"Provence-Alpes-Côte d'Azur, France",Female,**/12/1984
+"Värmland, Sweden",Female,**/11/1990
+"Fort Worth, Texas, United States",Male,**/04/1981
+"Vales, Viseu, Portugal",Female,**/07/1987
+"Santarém, Portugal",Female,**/10/1980
+"Hallsberg, Örebro, Sweden",Female,**/07/2001
+"Nice, Provence-Alpes-Côte d'Azur, France",Male,**/03/2003
+"Faro, Portugal",Male,**/04/1994
+"Emiliano Zapata, Guanajuato, Mexico",Male,**/08/1991
+"Faro, Portugal",Female,**/04/1991
+"Cleveland, Ohio, United States",Female,**/05/1986
+"Mexico, Mexico",Male,**/08/2000
+"Évora, Portugal",Female,**/08/1982
+"Alberta, Canada",Female,**/05/2005
+"Vila Real, Portugal",Female,**/09/1982
+"Alsace, France",Male,**/07/2007
+"Centre, France",Male,**/07/2002
+"Guanajuato, Mexico",Male,**/04/2000
+"Anchorage, Alaska, United States",Male,**/10/1981
+"Setúbal, Portugal",Female,**/**/1997
+"Évora, Portugal",Male,**/06/2009
+"Languedoc-Roussillon, France",Female,**/08/2003
+"San Luis Potosi, Mexico",Female,**/10/1996
+"Älvdalen, Dalarna, Sweden",Female,**/07/2006
+"Fort Worth, Texas, United States",Female,**/12/1986
+"Nunavut, Canada",Female,**/06/1998
+"Ontario, Canada",Female,**/**/2001
+"New York City, New York, United States",Female,**/01/2005
+"Huntington, West Virginia, United States",Male,**/10/2007
+"Bengtsfors, Västra Götaland, Sweden",Male,**/03/1994
+"Bromma, Stockholm, Sweden",Male,**/04/1992
+"Viana do Castelo, Portugal",Male,**/06/1985
+"Älvdalen, Dalarna, Sweden",Male,**/12/1987
+"Tamaulipas, Mexico",Male,17/10/1987
+"San Rafael, Michoacan De Ocampo, Mexico",Female,13/11/2005
+"Morelos, Mexico, Mexico",Female,**/12/2001
+"Ajaccio, Corse, France",Male,06/03/2010
+"Orsay, Île-de-France, France",Male,**/02/2010
+"Sobrosa, Porto, Portugal",Male,**/05/1987
+"Göteborg, Västra Götaland, Sweden",Female,**/11/2003
+"Paris 11, Île-de-France, France",Female,26/10/1993
+"Strasbourg, Alsace, France",Female,**/01/1987
+"Independencia, Michoacan De Ocampo, Mexico",Female,**/07/2007
+"Erie, Pennsylvania, United States",Female,13/11/2005
+"Lazaro Cardenas, Veracruz Llave, Mexico",Male,28/04/1989
+"Paris 11, Île-de-France, France",Female,**/01/2006
+"Nîmes, Languedoc-Roussillon, France",Female,06/06/2002
+"Faro, Portugal",Female,**/05/1990
+"Saint-Quentin, Picardie, France",Male,**/07/2004
+"Stockholm, Stockholm, Sweden",Female,**/09/1992
+"Göteborg, Västra Götaland, Sweden",Female,**/01/1985
+"Nîmes, Languedoc-Roussillon, France",Female,**/04/1996
+"Magog, Québec, Canada",Male,25/03/1994
+"Avignon, Provence-Alpes-Côte d'Azur, France",Male,**/02/1984
+"Viseu, Portugal",Female,**/09/2005
+"Massachusetts, United States",Male,19/10/1981
+United States,Female,**/09/2005
+"Täby, Stockholm, Sweden",Male,**/12/1995
+"Bordeaux, Aquitaine, France",Male,**/11/2007
+"Basse-Normandie, France",Female,**/10/1985
+"Västervik, Kalmar, Sweden",Female,**/11/1987
+"Stockholm, Sweden",Male,**/01/1983
+"North Carolina, United States",Male,**/12/1991
+"Dallas, Texas, United States",Male,**/06/1985
+"Jönköping, Sweden",Female,**/06/1985
+"Jämtland, Sweden",Female,**/05/2007
+"Porto, Portugal",Male,**/05/1981
+"Jönköping, Sweden",Female,**/01/1985
+"Braga, Portugal",Female,**/06/1995
+"Île-de-France, France",Female,**/05/2003
+"Colombes, Île-de-France, France",Female,**/02/1999
+"Porto, Portugal",Male,**/04/1983
+United States,Female,**/10/1997
+"Coimbra, Portugal",Female,**/07/2000
+"Middleton, Nova Scotia, Canada",Male,**/05/1998
+"Rhône-Alpes, France",Male,**/11/1995
+"Stockholm, Sweden",Male,**/07/1997
+United States,Female,**/08/2009
+"Portela, Viseu, Portugal",Male,10/12/1986
+"Setúbal, Portugal",Male,**/12/1994
+"Coimbra, Portugal",Male,**/08/2006
+"Basse-Normandie, France",Male,**/02/2007
+"England, United Kingdom",Male,**/05/2007
+"Porto, Portugal",Female,**/08/1985
+"San Rafael, California, United States",Female,**/08/1995
+"Nord-Pas-de-Calais, France",Female,**/**/1997
+"San Francisco, Guanajuato, Mexico",Male,**/03/1992
+"Ontario, Canada",Male,**/11/1992
+"Setúbal, Portugal",Female,**/05/1988
+"Orléans, Centre, France",Female,**/04/1999
+"Québec, Canada",Male,**/06/2006
+"Santa Iria de Azóia, Lisboa, Portugal",Female,**/02/1989
+"Porto, Portugal",Male,**/06/2003
+"Oromocto, New Brunswick, Canada",Female,18/07/2007
+"Macieira de Rates, Braga, Portugal",Female,**/07/2000
+"Aveiro, Portugal",Female,**/11/2002
+"San Francisco, California, United States",Male,**/09/1989
+"Lyon, Rhône-Alpes, France",Male,**/06/1988
+"Västmanland, Sweden",Male,**/07/1987
+"Landskrona, Skåne, Sweden",Female,**/08/1988
+"Saint-Quentin, Picardie, France",Female,**/01/1981
+"Stockholm, Sweden",Female,**/03/2002
+"Svalöv, Skåne, Sweden",Female,**/01/1998
+"Cache Creek, British Columbia, Canada",Male,**/08/2003
+"Ilha de São Miguel, Portugal",Female,**/05/2008
+"Viseu, Portugal",Male,08/04/1995
+"Cache Creek, British Columbia, Canada",Male,**/05/2004
+"Maryland, United States",Female,**/05/2004
+"Rochester, New York, United States",Male,**/01/2007
+"Languedoc-Roussillon, France",Female,**/08/2003
+"Porto, Portugal",Female,**/08/1982
+"Miami, Florida, United States",Male,**/03/1998
+"Västmanland, Sweden",Male,**/03/2002
+"Rochester, Minnesota, United States",Male,**/03/1989
+"Scotland, United Kingdom",Female,**/01/1985
+"Louisville, Kentucky, United States",Female,05/05/2007
+"Faro, Portugal",Male,**/10/1991
+"Los Angeles, Nuevo Leon, Mexico",Female,**/08/2009
+"Portalegre, Portugal",Female,**/**/1997
+"Notre-Dame-de-l'Île-Perrot, Québec, Canada",Female,**/04/1995
+"Rhône-Alpes, France",Female,**/05/2006
+"Köping, Västmanland, Sweden",Female,**/11/1998
+"Île-de-France, France",Female,**/**/****
+"Setúbal, Portugal",Female,**/05/2006
+"Porto, Portugal",Female,**/10/1990
+"Santarém, Portugal",Female,**/10/1991
+"Metz, Lorraine, France",Male,**/09/2005
+"Lisboa, Portugal",Male,**/**/2008
+"Francisco Villa, Coahuila De Zaragoza, Mexico",Male,**/04/1999
+"Saskatchewan, Canada",Female,**/10/1986
+"Setúbal, Portugal",Male,**/01/1994
+"Torrão, Setúbal, Portugal",Male,**/09/1983
+"Poitou-Charentes, France",Male,**/09/1999
+"Santa Rosa, Jalisco, Mexico",Female,**/11/1985
+"Lorraine, France",Male,**/07/1996
+"Dallas, Texas, United States",Male,**/02/2008
+"Jönköping, Sweden",Female,**/**/1997
+"Charlotte, North Carolina, United States",Female,**/07/1993
+"Annecy, Rhône-Alpes, France",Female,**/12/1992
+"Eskilstuna, Södermanland, Sweden",Male,**/02/2009
+"Scotland, United Kingdom",Female,**/12/1980
+"Rhône-Alpes, France",Male,**/01/1999
+"Norton, England, United Kingdom",Male,**/03/1983
+"Miami, Florida, United States",Female,**/11/1996
+"Lisboa, Portugal",Female,**/09/2009
+"Faro, Portugal",Female,**/06/2009
+"Île-de-France, France",Female,**/05/1984
+"Paris La Défense, Île-de-France, France",Male,**/05/2003
+"Auvergne, France",Female,**/06/1995
+"Stockholm, Stockholm, Sweden",Female,**/02/1983
+"Lisboa, Portugal",Male,**/02/1985
+"Fovissste, Chihuahua, Mexico",Female,**/02/1996
+"Braga, Portugal",Female,**/03/1986
+"San Francisco, California, United States",Male,**/**/****
+"Michoacan De Ocampo, Mexico",Female,09/10/1994
+"Jalisco, Mexico",Male,**/**/2006
+"Stockholm, Stockholm, Sweden",Female,**/06/1982
+"Auvergne, France",Female,**/**/1991
+"Coahuila De Zaragoza, Mexico",Male,**/07/1983
+"Poitou-Charentes, France",Male,**/07/1985
+"San Antonio, Nuevo Leon, Mexico",Female,**/04/1995
+"Tamaulipas, Mexico",Female,**/**/2008
+"Beja, Portugal",Female,**/03/2009
+"Québec, Canada",Male,**/07/1982
+"Alberta, Canada",Female,**/07/2000
+"Stockholm, Stockholm, Sweden",Female,**/06/1982
+"Georgia, United States",Female,**/06/2003
+"Beja, Portugal",Male,**/02/1994
+"Santarém, Portugal",Male,**/04/2010
+"Memphis, Tennessee, United States",Male,**/11/1996
+"California, United States",Male,03/09/1993
+"Paris 08, Île-de-France, France",Female,**/08/1989
+"Île-de-France, France",Male,**/**/****
+"Lidingö, Stockholm, Sweden",Female,**/05/2008
+"Île-de-France, France",Male,**/07/1983
+"Middleton, England, United Kingdom",Female,**/01/1983
+"Saint-Augustin, Québec, Canada",Male,**/02/1984
+"Jämtland, Sweden",Male,**/02/1991
+"British Columbia, Canada",Male,**/07/1997
+"Las Palmas, Tamaulipas, Mexico",Female,**/03/1998
+"Picardie, France",Male,**/07/2009
+"Skåne, Sweden",Male,18/03/1986
+"Fort Lauderdale, Florida, United States",Female,**/02/1988
+"Göteborg, Västra Götaland, Sweden",Male,**/01/1993
+"Uppsala, Sweden",Male,**/12/1982
+"Porto, Portugal",Female,**/09/1982
+"Memphis, Tennessee, United States",Female,**/03/1997
+"Anmore, British Columbia, Canada",Female,24/02/1997
+"San Antonio, Tamaulipas, Mexico",Male,**/07/2002
+"Jalisco, Mexico",Female,**/02/2004
+"Provence-Alpes-Côte d'Azur, France",Male,**/08/1987
+"Cergy-Pontoise, Île-de-France, France",Female,**/11/1981
+"Porto, Portugal",Female,15/03/2004
+"Coimbra, Portugal",Male,**/12/2003
+"Viseu, Portugal",Male,**/10/1999
+"Mölndal, Västra Götaland, Sweden",Male,**/05/2001
+"Fleury-les-Aubrais, Centre, France",Male,**/01/1988
+"Souto, Braga, Portugal",Male,**/03/1996
+"Stockholm, Sweden",Male,**/09/1995
+"Lidingö, Stockholm, Sweden",Female,**/12/2007
+"Orléans, Centre, France",Male,**/02/1983
+"Poitou-Charentes, France",Male,**/02/1989
+"Couto, Braga, Portugal",Female,**/07/1982
+"Porto, Portugal",Female,**/01/1981
+"Saint-Quentin-en-Yvelines, Île-de-France, France",Female,**/04/2001
+"Västra Götaland, Sweden",Male,**/01/1991
+"Braga, Portugal",Male,**/09/1992
+"Braga, Portugal",Male,**/08/1994
+"Detroit, Michigan, United States",Male,**/11/2006
+"Besançon, Franche-Comté, France",Male,**/05/1989
+"Birmingham, Alabama, United States",Female,24/10/2003
+"Gävleborg, Sweden",Female,**/08/1988
+"Basse-Normandie, France",Female,**/**/1983
+"Florida, United States",Male,**/10/1998
+"Midland, Texas, United States",Male,**/10/1990
+"Saint Louis, Missouri, United States",Male,24/02/1997
+"Coimbra, Portugal",Male,29/11/1987
+"Constance, Porto, Portugal",Female,**/05/1985
+"Lisboa, Portugal",Female,**/06/1985
+"Orsay, Île-de-France, France",Female,**/12/2006
+"Örebro, Sweden",Female,**/03/1996
+"Stockholm, Sweden",Female,**/11/1984
+"Uddevalla, Västra Götaland, Sweden",Female,**/08/1990
+"Bengtsfors, Västra Götaland, Sweden",Male,29/01/1987
+"Södermanland, Sweden",Female,**/08/1982
+"Porto, Portugal",Female,**/07/2010
+United States,Male,**/11/1984
+"Rhône-Alpes, France",Female,15/11/2005
+"Póvoa, Aveiro, Portugal",Female,**/06/1988
+"Charlotte, North Carolina, United States",Male,**/01/1986
+"Lisboa, Portugal",Male,**/06/1996
+"Lyon, Rhône-Alpes, France",Female,**/09/1982
+"Tampa, Florida, United States",Female,**/03/2002
+"Metz, Lorraine, France",Female,**/10/2004
+"San Antonio, Mexico, Mexico",Male,**/12/1980
+"Aveiro, Portugal",Male,**/04/1982
+"Basse-Normandie, France",Male,**/11/2000
+"Stockholm, Sweden",Male,**/10/2005
+"Viana do Castelo, Portugal",Female,**/05/2000
+"Sobreira, Braga, Portugal",Female,**/**/1991
+"British Columbia, Canada",Male,**/01/2010
+"Vales, Viseu, Portugal",Male,**/06/1999
+"Gävle, Gävleborg, Sweden",Male,**/11/1980
+"Viana do Castelo, Portugal",Male,**/10/2007
+"Florida, United States",Male,**/06/1991
+"Lisboa, Portugal",Male,**/04/2001
+"Michigan, United States",Male,**/07/2002
+"Belfort, Franche-Comté, France",Male,**/09/1989
+"Île-de-France, France",Female,**/12/1986
+"Louisville, Kentucky, United States",Female,**/05/1988
+"Tours, Centre, France",Female,**/08/2005
+"Póvoa, Porto, Portugal",Male,**/11/2006
+"New Brunswick, Canada",Male,**/10/1986
+"Santulhão, Bragança, Portugal",Male,**/02/1994
+"Rueil-Malmaison, Île-de-France, France",Female,**/03/1987
+"England, United Kingdom",Female,**/02/1981
+"Skåne, Sweden",Female,**/03/2004
+"Vällingby, Stockholm, Sweden",Male,**/**/1985
+"Québec, Canada",Male,**/02/2002
+"Guerrero, Mexico",Female,**/02/1990
+"Halland, Sweden",Male,**/07/2009
+"Azteca, Tamaulipas, Mexico",Male,**/05/2000
+"Vale Boeiro, Setúbal, Portugal",Male,**/03/2003
+"California, United States",Male,**/01/1988
+"Porto, Portugal",Male,**/06/1999
+"Santarém, Portugal",Male,**/08/2009
+"Vila Real, Portugal",Male,**/**/1990
+"Mexico, Mexico",Female,26/02/1989
+"New York, United States",Male,**/11/1985
+"Bretagne, France",Female,**/12/2002
+"Värmland, Sweden",Male,**/12/2005
+"Nice, Provence-Alpes-Côte d'Azur, France",Female,**/03/2003
+"Minnesota, United States",Female,**/03/2008
+"Lidköping, Västra Götaland, Sweden",Female,**/07/2004
+"Leiria, Portugal",Male,**/10/2004
+"Lindavista, Veracruz Llave, Mexico",Female,**/08/2008
+"Languedoc-Roussillon, France",Female,**/11/1980
+"Bourgogne, France",Male,**/07/2001
+"Quimperlé, Bretagne, France",Male,05/10/1989
+"Stockholm, Sweden",Female,**/11/2003
+"Magog, Québec, Canada",Female,**/07/1997
+"Detroit, Michigan, United States",Male,**/09/1982
+"Viana do Castelo, Portugal",Female,**/11/1998
+"Philadelphia, Pennsylvania, United States",Male,**/**/1991
+"Québec, Canada",Female,**/06/2005
+"Bromma, Stockholm, Sweden",Female,**/**/1986
+"Trelleborg, Skåne, Sweden",Male,**/07/1981
+"Braga, Portugal",Male,**/05/1994
+"Gainesville, Florida, United States",Female,**/07/2007
+"Rhône-Alpes, France",Female,**/08/1992
+"Lamas, Braga, Portugal",Male,**/02/1982
+"Alberta, Canada",Male,**/**/****
+"Stockholm, Stockholm, Sweden",Female,**/12/1991
+"Örebro, Sweden",Female,**/11/1981
+"Setúbal, Portugal",Female,**/05/1998
+"Västra Götaland, Sweden",Male,**/06/1990
+"Göteborg, Västra Götaland, Sweden",Female,**/07/2005
+"Nackawic, New Brunswick, Canada",Female,**/09/1992
+"Viana do Castelo, Portugal",Female,**/06/1994
+"Georgia, United States",Female,**/01/1983
+"Kalmar, Sweden",Female,**/10/1989
+"New Haven, Connecticut, United States",Female,**/06/1996
+"Halland, Sweden",Female,**/**/1982
+"England, United Kingdom",Male,**/11/1984
+"Fort Worth, Texas, United States",Male,**/06/1991
+"Provence-Alpes-Côte d'Azur, France",Female,**/10/1989
+"Stockholm, Stockholm, Sweden",Female,**/05/1998
+"Casal de Cambra, Lisboa, Portugal",Female,**/05/1983
+"Stockholm, Stockholm, Sweden",Female,**/11/1997
+"Nässjö, Jönköping, Sweden",Female,06/03/2010
+"Stockholm, Stockholm, Sweden",Male,**/11/2007
+"Västra Götaland, Sweden",Female,**/12/1984
+"Corpus Christi, Texas, United States",Male,**/**/1993
+"Västervik, Kalmar, Sweden",Male,**/03/1982
+"Florida, United States",Female,**/05/2005
+"Île-de-France, France",Female,**/04/2000
+"Maganha, Porto, Portugal",Female,**/11/1985
+"Veracruz Llave, Mexico",Male,**/04/1995
+"Coaldale, Alberta, Canada",Male,**/05/2005
+"Alberta, Canada",Female,**/07/1986
+"Épinal, Lorraine, France",Female,**/**/1998
+"Braga, Portugal",Female,**/06/1993
+"Stockholm, Sweden",Female,**/01/1983
+"Strasbourg, Alsace, France",Female,**/06/2010
+"Leiria, Portugal",Female,**/11/1988
+"Picardie, France",Female,**/08/2006
+"Porto, Portugal",Female,**/06/2002
+"Île-de-France, France",Male,**/05/1985
+"Île-de-France, France",Female,**/08/2005
+"Lancaster, California, United States",Female,**/10/1982
+"Norton, England, United Kingdom",Male,**/09/2003
+"Coimbra, Portugal",Female,**/08/1985
+United States,Female,**/08/1999
+"Lisboa, Portugal",Male,**/08/2003
+"Rennes, Bretagne, France",Male,**/11/1989
+"Boulogne-Billancourt, Île-de-France, France",Male,**/02/2010
+"Leiria, Portugal",Female,06/05/1983
+"Nice, Provence-Alpes-Côte d'Azur, France",Male,**/07/1996
+"Québec, Canada",Male,**/06/2010
+"England, United Kingdom",Female,**/**/1997
+"Vila Nova de Milfontes, Beja, Portugal",Male,**/06/1988
+"Lancaster, California, United States",Male,**/02/1990
+"Porto, Portugal",Male,**/02/1997
+"Québec, Canada",Female,**/03/1982
+"Lazaro Cardenas, Mexico, Mexico",Male,**/03/2008
+"Braga, Portugal",Male,**/10/1988
+"Cergy-Pontoise, Île-de-France, France",Female,**/05/1986
+"Östergötland, Sweden",Male,**/07/1992
+"Guadalupe, Campeche, Mexico",Male,**/11/2003
+"Kungsbacka, Halland, Sweden",Female,**/**/1993
+"Frankfort, Kentucky, United States",Male,**/08/1987
+"Setúbal, Portugal",Female,**/01/2005
+"Saskatchewan, Canada",Female,**/06/2004
+"Braga, Portugal",Female,**/01/1990
+Sweden,Female,**/10/2006
+"Cergy-Pontoise, Île-de-France, France",Male,**/09/1993
+"Setúbal, Portugal",Female,**/01/1988
+"Newfoundland and Labrador, Canada",Female,**/10/1981
+"Chicago, Illinois, United States",Male,**/08/1985
+"Tampa, Florida, United States",Female,**/09/1992
+"Annecy, Rhône-Alpes, France",Female,**/06/2005
+"Viana do Castelo, Portugal",Female,**/03/1982
+"Saskatchewan, Canada",Female,**/05/1987
+"Arizona, United States",Female,**/11/2009
+"Stockholm, Sweden",Male,**/11/2004
+"Aquitaine, France",Female,**/**/2007
+"San Isidro, Guanajuato, Mexico",Female,**/06/2000
+"Houston, Texas, United States",Male,**/06/2002
+"Ontario, Canada",Male,**/03/1992
+"Buenavista, Puebla, Mexico",Male,06/10/1986
+"Paris 14, Île-de-France, France",Female,06/06/2002
+"Roanoke, Virginia, United States",Female,**/08/2008
+"Stockholm, Sweden",Male,**/04/1991
+"Lisboa, Portugal",Male,**/**/1998
+"Florida, United States",Female,**/10/2000
+"Täby, Stockholm, Sweden",Female,**/06/1999
+"Provence-Alpes-Côte d'Azur, France",Female,**/**/1984
+"Québec, Canada",Female,**/02/1998
+"Eskilstuna, Södermanland, Sweden",Female,**/**/1997
+"Dalarna, Sweden",Male,**/10/2005
+"Svalöv, Skåne, Sweden",Female,**/07/1994
+"Alberta, Canada",Female,**/02/1996
+"Ohio, United States",Male,**/06/1996
+"Porto Formoso, Ilha de São Miguel, Portugal",Female,**/06/2009
+"Québec, Canada",Male,06/10/1986
+"Nackawic, New Brunswick, Canada",Female,**/03/2006
+"Saint Petersburg, Florida, United States",Female,**/10/2003
+"Igreja, Vila Real, Portugal",Male,**/08/2003
+"Alberta, Canada",Male,**/07/2008
+"Marseille, Provence-Alpes-Côte d'Azur, France",Female,11/05/1994
+"Paris 14, Île-de-France, France",Male,**/09/1995
+"Porto, Portugal",Female,**/11/2000
+"Västra Götaland, Sweden",Male,**/10/1991
+"Sobrosa, Porto, Portugal",Female,**/04/1984
+"Coimbra, Portugal",Female,**/06/1991
+"Castelo Branco, Portugal",Female,**/**/1998
+United States,Female,**/08/2006
+"Bordeaux, Aquitaine, France",Female,**/01/1988
+United States,Male,**/12/1982
+"Alingsås, Västra Götaland, Sweden",Female,**/09/2000
+"Braga, Portugal",Female,**/11/1998
+"Hartford, Connecticut, United States",Male,**/12/1990
+United States,Male,**/11/2005
+"Besançon, Franche-Comté, France",Male,**/11/1983
+"Niort, Poitou-Charentes, France",Female,**/11/1985
+"Hartford, Connecticut, United States",Male,**/04/1982
+"Aquitaine, France",Female,**/03/1995
+"California, United States",Male,**/05/1995
+"Ontario, Canada",Male,**/08/1992
+"Chicago, Illinois, United States",Female,27/11/2000
+"Auvergne, France",Female,**/04/2010
+"Lexington, Kentucky, United States",Male,18/07/2007
+"Languedoc-Roussillon, France",Female,22/06/1996
+"Lyon, Rhône-Alpes, France",Female,**/07/2004
+"Île-de-France, France",Female,**/**/1987
+"Lisboa, Portugal",Female,**/11/2005
+"Bragança, Portugal",Male,**/01/1986
+"England, United Kingdom",Male,**/12/1982
+"Kungsbacka, Halland, Sweden",Male,01/07/1999
+"Île-de-France, France",Male,**/05/1983
+"Braga, Portugal",Male,**/**/1984
+"Virginia, United States",Male,**/01/2010
+"Bourgogne, France",Female,**/11/2002
+"Emiliano Zapata, Veracruz Llave, Mexico",Male,**/11/2009
+"Arizona, United States",Female,**/11/2006
+"Lisboa, Portugal",Female,**/04/2000
+"Saint-Quentin-en-Yvelines, Île-de-France, France",Female,**/12/2006
+"Paris La Défense, Île-de-France, France",Female,**/10/1993
+"Norrbotten, Sweden",Female,**/08/1983
+"Île-de-France, France",Female,**/12/1988
+"Virginia, United States",Male,17/10/1987
+"Aquitaine, France",Male,**/10/2004
+"Ajaccio, Corse, France",Female,**/11/1998
+"Texas, United States",Male,**/05/2006
+"Île-de-France, France",Male,**/05/1985
+"Strasbourg, Alsace, France",Male,**/02/1981
+"Guerrero, Mexico",Female,**/10/1996
+"Morgados, Setúbal, Portugal",Female,**/01/1998
+"Umeå, Västerbotten, Sweden",Male,**/08/1989
+"Svalöv, Skåne, Sweden",Female,**/01/2002
+"Limoges, Limousin, France",Male,**/02/1985
+"Île-de-France, France",Female,**/08/2007
+"Aveiro, Portugal",Male,**/01/2006
+"Mobile, Alabama, United States",Female,**/01/2007
+"Santarém, Portugal",Female,**/06/1992
+"Coimbra, Portugal",Female,**/05/1981
+"Setúbal, Portugal",Male,**/06/1984
+"Orléans, Centre, France",Male,**/10/1996
+"Cruzeiro, Aveiro, Portugal",Male,**/07/2008
+"Santarém, Portugal",Female,**/04/1985
+"Quintãs, Viseu, Portugal",Female,**/04/1999
+"Pays de la Loire, France",Male,**/03/1994
+Mexico,Female,**/06/2004
+"Souto, Braga, Portugal",Female,**/**/2008
+"Dallas, Texas, United States",Female,**/05/1999
+"Hallsberg, Örebro, Sweden",Female,**/10/1985
+"Jönköping, Sweden",Male,**/12/1994
+"San Francisco, California, United States",Female,**/03/1999
+"Anchorage, Alaska, United States",Female,**/03/1997
+"Rhône-Alpes, France",Female,**/08/1996
+"Saint-Avertin, Centre, France",Male,**/04/1981
+"Västra Götaland, Sweden",Female,**/01/1987
+"Provence-Alpes-Côte d'Azur, France",Male,**/10/1989
+"Ontario, Canada",Female,**/09/1999
+"Vila Real, Portugal",Male,**/02/1991
+"Saskatchewan, Canada",Female,**/11/1995
+"Santo Aleixo, Portalegre, Portugal",Female,**/02/1988
+"Île-de-France, France",Male,**/10/1990
+"Rennes, Bretagne, France",Male,**/09/1996
+"Lindavista, Guanajuato, Mexico",Female,**/11/2006
