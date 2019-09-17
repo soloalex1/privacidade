@@ -8,6 +8,15 @@ df = pd.read_csv('k_anonimato/salario.csv')
 df.drop(columns=["id", "salario"], axis="columns", inplace=True)
 
 
+def precisao(dataset, semi, h, alt):
+    soma = 0
+    for i in range(semi):
+        for j in range(dataset):
+            soma += (h[j] / alt[i])
+
+    return 1 - (soma / (dataset * semi))
+
+
 def gen_localizacao(dataset):
     # adicionando coluna localização
     dataset.insert(0, 'localizacao', '*')
@@ -106,5 +115,8 @@ def arvore_data(dataset):
 
 df = gen_localizacao(df)
 df = gen_data(df)
+
+# WIP: fazer as árvores de cada atributo, pelo visto
+# print(precisao(df, 3, ))
 
 export_csv = df.to_csv(r'salario_2.csv', index=None, header=True)
