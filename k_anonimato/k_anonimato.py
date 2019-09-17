@@ -83,40 +83,16 @@ def gen_data(dataset):
     return dataset
 
 
-def arvore_data(dataset):
-    nivel0 = dataset.data.unique().tolist()
+def gen_genero(dataset):
+    for i in range(len(dataset):
+        dataset.iloc[i]['genero'] = "*" 
+    return dataset
 
-    lista_data = []
-    nivel1 = dataset["data"].str.split("/", n=2, expand=True)
-
-    mes = nivel1.iloc[:, 1]
-    ano = nivel1.iloc[:, 2]
-
-    for i in range(nivel1.shape[0]):
-        lista_data.append(["**/" + mes[i] + "/" + ano[i]])
-
-    nivel1 = pd.DataFrame(lista_data)
-    nivel1 = nivel1[0].unique().tolist()
-
-    nivel2 = []
-
-    for i in range(0, ano.shape[0]):
-        nivel2.append("**/**/" + ano[i])
-
-    nivel2 = pd.DataFrame(nivel2)
-    nivel2 = nivel2[0].unique().tolist()
-
-    nivel3 = "**/**/****"
-
-    arv = [nivel0, nivel1, nivel2, nivel3]
-
-    return arv
 
 
 df = gen_localizacao(df)
 df = gen_data(df)
-
-# WIP: fazer as árvores de cada atributo, pelo visto
-# print(precisao(df, 3, ))
+df = gen_genero(df)       
+                                                                     
 
 export_csv = df.to_csv(r'salario_2.csv', index=None, header=True)
