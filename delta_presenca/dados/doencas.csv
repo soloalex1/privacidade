@@ -1,0 +1,401 @@
+id,genero,data,cidade,estado,doenca
+1,Female,31/01/2000,Brooklyn,New York,Virose
+2,Female,16/10/1999,Topeka,Kansas,Zika
+3,Female,10/10/1999,Schenectady,New York,Virose
+4,Female,09/01/2000,New York City,New York,Conjuntivite
+5,Male,03/11/1999,Syracuse,New York,Conjuntivite
+6,Female,10/01/2000,New York City,New York,Gripe
+7,Male,01/11/1999,New York City,New York,Zika
+8,Female,20/11/1999,New York City,New York,Gripe
+9,Male,16/01/2000,Topeka,Kansas,Gripe
+10,Male,22/01/2000,New York City,New York,Conjuntivite
+11,Female,07/03/2000,Buffalo,New York,Zika
+12,Female,25/11/1999,Rochester,New York,Zika
+13,Female,08/03/2000,Buffalo,New York,Zika
+14,Female,18/01/2000,New York City,New York,Dengue
+15,Female,09/01/2000,Jamaica,New York,Dengue
+16,Male,28/10/1999,Jamaica,New York,Zika
+17,Female,19/01/2000,New York City,New York,Zika
+18,Female,31/01/2000,Kansas City,Kansas,Virose
+19,Male,11/02/2000,Albany,New York,Virose
+20,Female,16/03/2000,New York City,New York,Gripe
+21,Male,08/11/1999,Rochester,New York,Gripe
+22,Male,22/12/1999,Jamaica,New York,Zika
+23,Male,28/10/1999,Syracuse,New York,Zika
+24,Female,13/10/1999,New York City,New York,Gripe
+25,Male,18/02/2000,Brooklyn,New York,Virose
+26,Female,08/12/1999,Syracuse,New York,Conjuntivite
+27,Female,10/03/2000,Jamaica,New York,Gripe
+28,Male,07/10/1999,Topeka,Kansas,Conjuntivite
+29,Female,12/11/1999,Topeka,Kansas,Dengue
+30,Male,19/10/1999,Albany,New York,Gripe
+31,Female,22/10/1999,New York City,New York,Dengue
+32,Male,29/12/1999,New York City,New York,Conjuntivite
+33,Female,21/10/1999,Topeka,Kansas,Gripe
+34,Male,30/12/1999,New York City,New York,Gripe
+35,Male,28/12/1999,Rochester,New York,Virose
+36,Female,20/10/1999,Wichita,Kansas,Zika
+37,Female,08/12/1999,Syracuse,New York,Gripe
+38,Male,02/02/2000,New York City,New York,Zika
+39,Male,12/11/1999,Staten Island,New York,Dengue
+40,Female,28/11/1999,New York City,New York,Conjuntivite
+41,Male,03/01/2000,New York City,New York,Conjuntivite
+42,Male,21/03/2000,New York City,New York,Dengue
+43,Male,31/01/2000,Albany,New York,Dengue
+44,Male,09/12/1999,Wichita,Kansas,Virose
+45,Male,21/03/2000,Buffalo,New York,Dengue
+46,Male,21/03/2000,New York City,New York,Zika
+47,Female,10/10/1999,Buffalo,New York,Zika
+48,Male,06/03/2000,New York City,New York,Dengue
+49,Male,28/11/1999,Albany,New York,Gripe
+50,Male,28/03/2000,Topeka,Kansas,Gripe
+51,Female,19/03/2000,Brooklyn,New York,Zika
+52,Female,16/11/1999,Bronx,New York,Virose
+53,Female,18/11/1999,New York City,New York,Dengue
+54,Male,01/10/1999,Brooklyn,New York,Gripe
+55,Male,16/03/2000,New York City,New York,Gripe
+56,Male,20/01/2000,Bronx,New York,Zika
+57,Male,09/12/1999,New Hyde Park,New York,Conjuntivite
+58,Male,03/11/1999,Kansas City,Kansas,Virose
+59,Female,22/02/2000,New York City,New York,Dengue
+60,Male,22/12/1999,Buffalo,New York,Conjuntivite
+61,Female,17/10/1999,Bronx,New York,Conjuntivite
+62,Female,05/01/2000,New York City,New York,Gripe
+63,Female,21/12/1999,Rochester,New York,Virose
+64,Male,17/03/2000,Jamaica,New York,Zika
+65,Male,08/02/2000,Wichita,Kansas,Gripe
+66,Female,28/01/2000,Bronx,New York,Conjuntivite
+67,Female,07/11/1999,Rochester,New York,Virose
+68,Female,14/03/2000,Rochester,New York,Virose
+69,Male,16/01/2000,Schenectady,New York,Conjuntivite
+70,Female,27/11/1999,New York City,New York,Dengue
+71,Female,03/10/1999,Brooklyn,New York,Zika
+72,Male,02/11/1999,Jamaica,New York,Dengue
+73,Female,23/03/2000,Wichita,Kansas,Dengue
+74,Male,04/02/2000,Buffalo,New York,Conjuntivite
+75,Female,15/10/1999,Buffalo,New York,Zika
+76,Male,13/03/2000,New York City,New York,Conjuntivite
+77,Male,10/02/2000,Brooklyn,New York,Virose
+78,Male,03/03/2000,Wichita,Kansas,Zika
+79,Male,08/12/1999,Albany,New York,Gripe
+80,Male,07/10/1999,New York City,New York,Dengue
+81,Male,18/12/1999,Brooklyn,New York,Dengue
+82,Male,30/01/2000,New York City,New York,Gripe
+83,Female,31/12/1999,Schenectady,New York,Virose
+84,Female,07/03/2000,New York City,New York,Dengue
+85,Male,07/11/1999,New York City,New York,Conjuntivite
+86,Female,28/10/1999,Brooklyn,New York,Dengue
+87,Male,22/10/1999,Buffalo,New York,Conjuntivite
+88,Female,10/03/2000,Topeka,Kansas,Gripe
+89,Male,10/11/1999,Jamaica,New York,Dengue
+90,Male,28/11/1999,Jamaica,New York,Gripe
+91,Female,13/11/1999,Buffalo,New York,Gripe
+92,Male,13/11/1999,Rochester,New York,Gripe
+93,Female,01/02/2000,Rochester,New York,Virose
+94,Male,16/12/1999,Topeka,Kansas,Dengue
+95,Female,24/02/2000,Buffalo,New York,Gripe
+96,Male,27/02/2000,New York City,New York,Dengue
+97,Female,27/12/1999,New York City,New York,Virose
+98,Female,15/02/2000,Syracuse,New York,Virose
+99,Female,10/10/1999,Shawnee Mission,Kansas,Zika
+100,Male,02/10/1999,New York City,New York,Virose
+101,Female,18/10/1999,New York City,New York,Dengue
+102,Male,22/02/2000,New York City,New York,Dengue
+103,Male,27/02/2000,New York City,New York,Zika
+104,Male,27/11/1999,Brooklyn,New York,Virose
+105,Female,25/12/1999,White Plains,New York,Gripe
+106,Male,12/11/1999,Albany,New York,Dengue
+107,Male,29/10/1999,Rochester,New York,Virose
+108,Female,01/10/1999,Schenectady,New York,Zika
+109,Female,26/01/2000,Brooklyn,New York,Virose
+110,Male,07/11/1999,Jamaica,New York,Virose
+111,Male,22/03/2000,Brooklyn,New York,Gripe
+112,Male,20/03/2000,New York City,New York,Conjuntivite
+113,Female,30/03/2000,New York City,New York,Zika
+114,Male,04/10/1999,New York City,New York,Conjuntivite
+115,Female,30/10/1999,New York City,New York,Dengue
+116,Male,12/02/2000,Syracuse,New York,Conjuntivite
+117,Male,14/01/2000,Utica,New York,Conjuntivite
+118,Male,10/03/2000,Shawnee Mission,Kansas,Dengue
+119,Female,04/01/2000,Syracuse,New York,Dengue
+120,Female,05/02/2000,Bronx,New York,Gripe
+121,Female,01/02/2000,Buffalo,New York,Dengue
+122,Male,28/12/1999,New York City,New York,Gripe
+123,Male,26/03/2000,New York City,New York,Gripe
+124,Male,14/12/1999,Buffalo,New York,Dengue
+125,Female,23/02/2000,New York City,New York,Virose
+126,Male,30/12/1999,Rochester,New York,Virose
+127,Male,27/11/1999,Bronx,New York,Zika
+128,Female,27/11/1999,Rochester,New York,Conjuntivite
+129,Female,11/01/2000,Rochester,New York,Gripe
+130,Female,27/12/1999,Great Neck,New York,Gripe
+131,Male,05/03/2000,Port Washington,New York,Gripe
+132,Male,24/10/1999,Rochester,New York,Virose
+133,Female,17/11/1999,Jamaica,New York,Zika
+134,Male,22/10/1999,New York City,New York,Virose
+135,Male,29/11/1999,Buffalo,New York,Dengue
+136,Male,29/02/2000,Topeka,Kansas,Virose
+137,Female,24/10/1999,Jamaica,New York,Dengue
+138,Female,29/11/1999,Rochester,New York,Zika
+139,Female,09/10/1999,Rochester,New York,Dengue
+140,Female,01/02/2000,Flushing,New York,Gripe
+141,Male,27/03/2000,Rochester,New York,Zika
+142,Male,09/12/1999,Kansas City,Kansas,Zika
+143,Male,21/12/1999,Wichita,Kansas,Gripe
+144,Female,21/11/1999,New York City,New York,Dengue
+145,Female,30/11/1999,Syracuse,New York,Zika
+146,Male,02/12/1999,New York City,New York,Virose
+147,Female,26/10/1999,Albany,New York,Conjuntivite
+148,Female,03/01/2000,New York City,New York,Conjuntivite
+149,Female,31/01/2000,Bronx,New York,Dengue
+150,Female,30/10/1999,Albany,New York,Dengue
+151,Female,23/02/2000,New York City,New York,Zika
+152,Male,12/03/2000,Bronx,New York,Conjuntivite
+153,Female,09/11/1999,Shawnee Mission,Kansas,Virose
+154,Male,08/12/1999,Bronx,New York,Dengue
+155,Female,19/10/1999,New York City,New York,Virose
+156,Male,06/12/1999,New York City,New York,Conjuntivite
+157,Male,29/12/1999,Kansas City,Kansas,Virose
+158,Male,19/10/1999,Albany,New York,Dengue
+159,Male,06/03/2000,Yonkers,New York,Gripe
+160,Female,10/03/2000,New York City,New York,Zika
+161,Male,05/12/1999,New York City,New York,Zika
+162,Male,27/10/1999,Shawnee Mission,Kansas,Virose
+163,Male,18/03/2000,Albany,New York,Virose
+164,Female,26/03/2000,Staten Island,New York,Virose
+165,Female,09/03/2000,Brooklyn,New York,Zika
+166,Male,14/01/2000,Topeka,Kansas,Gripe
+167,Female,07/10/1999,New York City,New York,Gripe
+168,Female,14/02/2000,Flushing,New York,Zika
+169,Male,19/10/1999,Bronx,New York,Dengue
+170,Female,29/01/2000,Topeka,Kansas,Dengue
+171,Female,30/03/2000,Albany,New York,Zika
+172,Male,26/03/2000,Brooklyn,New York,Conjuntivite
+173,Male,16/12/1999,Buffalo,New York,Virose
+174,Male,28/03/2000,Staten Island,New York,Conjuntivite
+175,Female,14/11/1999,Shawnee Mission,Kansas,Dengue
+176,Female,25/10/1999,Rochester,New York,Dengue
+177,Male,05/03/2000,New York City,New York,Dengue
+178,Male,19/11/1999,Albany,New York,Gripe
+179,Female,24/02/2000,Rochester,New York,Gripe
+180,Male,12/10/1999,Bronx,New York,Zika
+181,Male,26/12/1999,New York City,New York,Zika
+182,Male,19/03/2000,Brooklyn,New York,Zika
+183,Male,12/11/1999,Bronx,New York,Dengue
+184,Female,13/02/2000,Topeka,Kansas,Gripe
+185,Female,26/02/2000,New York City,New York,Conjuntivite
+186,Male,31/12/1999,Albany,New York,Dengue
+187,Female,12/12/1999,New York City,New York,Virose
+188,Male,21/03/2000,Albany,New York,Conjuntivite
+189,Male,03/12/1999,Albany,New York,Gripe
+190,Female,10/01/2000,Brooklyn,New York,Gripe
+191,Female,09/10/1999,Bronx,New York,Conjuntivite
+192,Female,26/02/2000,Jamaica,New York,Virose
+193,Male,08/10/1999,Buffalo,New York,Conjuntivite
+194,Female,02/02/2000,Rochester,New York,Virose
+195,Male,14/10/1999,Albany,New York,Dengue
+196,Male,23/03/2000,Albany,New York,Dengue
+197,Female,18/11/1999,Buffalo,New York,Gripe
+198,Female,07/02/2000,White Plains,New York,Zika
+199,Male,27/01/2000,Jamaica,New York,Dengue
+200,Male,12/12/1999,Staten Island,New York,Zika
+201,Male,20/11/1999,Brooklyn,New York,Conjuntivite
+202,Male,04/11/1999,Buffalo,New York,Conjuntivite
+203,Female,10/01/2000,Jamaica,New York,Dengue
+204,Female,22/01/2000,New York City,New York,Zika
+205,Female,14/11/1999,Albany,New York,Zika
+206,Male,10/10/1999,Schenectady,New York,Gripe
+207,Female,23/12/1999,Rochester,New York,Dengue
+208,Female,19/03/2000,New York City,New York,Conjuntivite
+209,Female,17/11/1999,Brooklyn,New York,Zika
+210,Male,05/10/1999,Jamaica,New York,Zika
+211,Female,30/03/2000,Bronx,New York,Zika
+212,Male,09/01/2000,Elmira,New York,Dengue
+213,Female,08/10/1999,Albany,New York,Gripe
+214,Female,13/03/2000,Bronx,New York,Dengue
+215,Female,25/12/1999,Wichita,Kansas,Virose
+216,Female,28/12/1999,Shawnee Mission,Kansas,Virose
+217,Male,30/03/2000,Albany,New York,Gripe
+218,Male,23/10/1999,New York City,New York,Conjuntivite
+219,Male,01/11/1999,Bronx,New York,Gripe
+220,Male,07/01/2000,Albany,New York,Gripe
+221,Male,12/12/1999,Rochester,New York,Dengue
+222,Male,08/02/2000,Brooklyn,New York,Conjuntivite
+223,Male,09/10/1999,Brooklyn,New York,Dengue
+224,Female,21/11/1999,Bronx,New York,Dengue
+225,Female,18/02/2000,Buffalo,New York,Virose
+226,Female,22/02/2000,New York City,New York,Zika
+227,Male,16/03/2000,Flushing,New York,Dengue
+228,Female,18/02/2000,Rochester,New York,Virose
+229,Male,09/12/1999,Brooklyn,New York,Conjuntivite
+230,Male,25/02/2000,New York City,New York,Conjuntivite
+231,Male,03/12/1999,Albany,New York,Virose
+232,Female,11/12/1999,New York City,New York,Virose
+233,Male,08/01/2000,Bronx,New York,Zika
+234,Female,12/12/1999,Wichita,Kansas,Zika
+235,Female,18/11/1999,New York City,New York,Conjuntivite
+236,Female,29/10/1999,New York City,New York,Dengue
+237,Male,09/01/2000,New York City,New York,Dengue
+238,Male,26/01/2000,Jamaica,New York,Zika
+239,Female,29/01/2000,Buffalo,New York,Dengue
+240,Male,26/01/2000,Brooklyn,New York,Gripe
+241,Male,17/12/1999,New York City,New York,Virose
+242,Male,29/01/2000,Schenectady,New York,Zika
+243,Male,11/11/1999,New York City,New York,Dengue
+244,Male,14/12/1999,Syracuse,New York,Conjuntivite
+245,Male,08/10/1999,Great Neck,New York,Zika
+246,Male,08/01/2000,Kansas City,Kansas,Conjuntivite
+247,Female,03/01/2000,New York City,New York,Gripe
+248,Male,23/12/1999,Buffalo,New York,Dengue
+249,Male,30/10/1999,Syracuse,New York,Dengue
+250,Male,27/02/2000,Shawnee Mission,Kansas,Virose
+251,Female,01/10/1999,Shawnee Mission,Kansas,Conjuntivite
+252,Male,17/01/2000,Staten Island,New York,Gripe
+253,Female,17/11/1999,Wichita,Kansas,Virose
+254,Male,06/01/2000,Jamaica,New York,Gripe
+255,Female,08/10/1999,Topeka,Kansas,Gripe
+256,Female,21/12/1999,Bronx,New York,Gripe
+257,Female,08/10/1999,Rochester,New York,Gripe
+258,Male,09/03/2000,Brooklyn,New York,Zika
+259,Female,30/03/2000,White Plains,New York,Dengue
+260,Female,05/10/1999,Brooklyn,New York,Zika
+261,Female,29/10/1999,Topeka,Kansas,Zika
+262,Male,24/03/2000,Brooklyn,New York,Zika
+263,Male,27/03/2000,Rochester,New York,Conjuntivite
+264,Male,18/01/2000,Topeka,Kansas,Virose
+265,Female,24/11/1999,Buffalo,New York,Conjuntivite
+266,Male,19/02/2000,Buffalo,New York,Zika
+267,Female,06/10/1999,Shawnee Mission,Kansas,Virose
+268,Female,25/12/1999,Topeka,Kansas,Dengue
+269,Female,05/12/1999,Shawnee Mission,Kansas,Gripe
+270,Female,30/03/2000,Wichita,Kansas,Virose
+271,Female,27/01/2000,Wichita,Kansas,Conjuntivite
+272,Male,18/01/2000,Rochester,New York,Zika
+273,Female,16/11/1999,Rochester,New York,Virose
+274,Male,03/10/1999,New York City,New York,Virose
+275,Female,24/12/1999,New York City,New York,Gripe
+276,Female,10/03/2000,New York City,New York,Dengue
+277,Male,06/12/1999,Jamaica,New York,Gripe
+278,Male,28/01/2000,Buffalo,New York,Conjuntivite
+279,Female,06/03/2000,Schenectady,New York,Dengue
+280,Female,30/10/1999,Rochester,New York,Gripe
+281,Male,18/12/1999,Buffalo,New York,Zika
+282,Male,24/12/1999,Buffalo,New York,Gripe
+283,Female,25/11/1999,New York City,New York,Gripe
+284,Male,20/02/2000,Topeka,Kansas,Virose
+285,Male,25/01/2000,Port Washington,New York,Virose
+286,Female,02/01/2000,Rochester,New York,Virose
+287,Male,17/12/1999,Mount Vernon,New York,Conjuntivite
+288,Female,10/01/2000,New York City,New York,Gripe
+289,Female,05/11/1999,New York City,New York,Dengue
+290,Female,03/10/1999,White Plains,New York,Virose
+291,Female,07/01/2000,Wichita,Kansas,Conjuntivite
+292,Male,22/12/1999,Jamaica,New York,Zika
+293,Male,06/02/2000,Jamaica,New York,Conjuntivite
+294,Male,15/01/2000,Jamaica,New York,Zika
+295,Female,16/12/1999,Jamaica,New York,Virose
+296,Female,19/03/2000,New York City,New York,Conjuntivite
+297,Female,17/12/1999,Buffalo,New York,Zika
+298,Male,15/01/2000,Schenectady,New York,Dengue
+299,Female,29/03/2000,Hicksville,New York,Zika
+300,Male,10/02/2000,Wichita,Kansas,Dengue
+301,Male,27/10/1999,Albany,New York,Dengue
+302,Male,09/01/2000,Shawnee Mission,Kansas,Gripe
+303,Female,15/02/2000,Flushing,New York,Virose
+304,Male,14/03/2000,Rochester,New York,Zika
+305,Female,07/12/1999,Shawnee Mission,Kansas,Conjuntivite
+306,Female,04/01/2000,Albany,New York,Dengue
+307,Female,03/02/2000,New York City,New York,Virose
+308,Male,21/10/1999,Brooklyn,New York,Dengue
+309,Female,16/03/2000,New York City,New York,Conjuntivite
+310,Male,05/10/1999,New York City,New York,Conjuntivite
+311,Male,04/01/2000,Wichita,Kansas,Zika
+312,Female,23/02/2000,New York City,New York,Conjuntivite
+313,Male,07/12/1999,Brooklyn,New York,Zika
+314,Female,14/01/2000,Albany,New York,Gripe
+315,Male,12/12/1999,New York City,New York,Conjuntivite
+316,Female,25/02/2000,Staten Island,New York,Gripe
+317,Female,24/01/2000,Mount Vernon,New York,Conjuntivite
+318,Male,31/10/1999,Bronx,New York,Conjuntivite
+319,Female,22/10/1999,New York City,New York,Virose
+320,Female,03/12/1999,New York City,New York,Conjuntivite
+321,Male,24/01/2000,Port Washington,New York,Zika
+322,Female,30/12/1999,Wichita,Kansas,Dengue
+323,Female,14/12/1999,New York City,New York,Gripe
+324,Female,14/10/1999,New York City,New York,Virose
+325,Female,19/01/2000,New York City,New York,Gripe
+326,Male,28/12/1999,Rochester,New York,Virose
+327,Female,25/02/2000,Bronx,New York,Virose
+328,Female,25/01/2000,Buffalo,New York,Dengue
+329,Male,29/11/1999,Great Neck,New York,Virose
+330,Male,07/03/2000,New York City,New York,Dengue
+331,Female,15/10/1999,Buffalo,New York,Zika
+332,Male,27/01/2000,New York City,New York,Zika
+333,Female,21/02/2000,Albany,New York,Conjuntivite
+334,Female,23/10/1999,Topeka,Kansas,Conjuntivite
+335,Female,08/01/2000,Flushing,New York,Zika
+336,Female,28/11/1999,Rochester,New York,Conjuntivite
+337,Female,01/03/2000,Bronx,New York,Gripe
+338,Male,07/10/1999,New York City,New York,Gripe
+339,Male,22/01/2000,Topeka,Kansas,Conjuntivite
+340,Male,27/01/2000,New York City,New York,Conjuntivite
+341,Female,26/12/1999,Bronx,New York,Dengue
+342,Female,31/10/1999,Elmira,New York,Dengue
+343,Female,13/03/2000,New York City,New York,Dengue
+344,Male,07/12/1999,Flushing,New York,Zika
+345,Female,26/11/1999,Shawnee Mission,Kansas,Zika
+346,Male,20/11/1999,Albany,New York,Virose
+347,Female,31/12/1999,Syracuse,New York,Conjuntivite
+348,Male,13/03/2000,New York City,New York,Virose
+349,Male,21/03/2000,Albany,New York,Zika
+350,Male,12/10/1999,Kansas City,Kansas,Dengue
+351,Female,19/11/1999,New York City,New York,Zika
+352,Female,21/10/1999,Albany,New York,Zika
+353,Male,20/01/2000,New York City,New York,Dengue
+354,Male,29/02/2000,New York City,New York,Virose
+355,Female,24/02/2000,Shawnee Mission,Kansas,Virose
+356,Female,24/10/1999,Shawnee Mission,Kansas,Gripe
+357,Male,24/03/2000,White Plains,New York,Virose
+358,Female,12/03/2000,New York City,New York,Virose
+359,Male,31/10/1999,Shawnee Mission,Kansas,Gripe
+360,Male,10/11/1999,New York City,New York,Conjuntivite
+361,Male,29/01/2000,Brooklyn,New York,Dengue
+362,Female,25/02/2000,New York City,New York,Conjuntivite
+363,Female,08/03/2000,Syracuse,New York,Conjuntivite
+364,Female,05/03/2000,Mount Vernon,New York,Dengue
+365,Female,02/11/1999,Albany,New York,Conjuntivite
+366,Female,03/10/1999,Brooklyn,New York,Dengue
+367,Female,29/12/1999,Rochester,New York,Virose
+368,Female,22/01/2000,White Plains,New York,Conjuntivite
+369,Male,21/12/1999,Buffalo,New York,Virose
+370,Female,01/02/2000,Rochester,New York,Conjuntivite
+371,Male,27/03/2000,New York City,New York,Zika
+372,Male,14/03/2000,Shawnee Mission,Kansas,Conjuntivite
+373,Female,22/10/1999,Mount Vernon,New York,Dengue
+374,Male,11/12/1999,Albany,New York,Conjuntivite
+375,Female,14/11/1999,Rochester,New York,Dengue
+376,Male,03/03/2000,New York City,New York,Conjuntivite
+377,Male,15/03/2000,Rochester,New York,Virose
+378,Male,24/11/1999,Buffalo,New York,Virose
+379,Male,22/11/1999,Albany,New York,Dengue
+380,Male,04/01/2000,Schenectady,New York,Conjuntivite
+381,Male,29/02/2000,Kansas City,Kansas,Zika
+382,Female,06/12/1999,Syracuse,New York,Virose
+383,Male,09/11/1999,Buffalo,New York,Zika
+384,Male,22/10/1999,Syracuse,New York,Zika
+385,Female,18/02/2000,Staten Island,New York,Dengue
+386,Male,03/11/1999,Albany,New York,Conjuntivite
+387,Male,14/03/2000,New York City,New York,Zika
+388,Male,11/02/2000,New York City,New York,Virose
+389,Female,20/02/2000,White Plains,New York,Virose
+390,Female,16/01/2000,Wichita,Kansas,Gripe
+391,Female,08/12/1999,Wichita,Kansas,Gripe
+392,Female,11/12/1999,Syracuse,New York,Zika
+393,Female,11/03/2000,Brooklyn,New York,Conjuntivite
+394,Female,12/11/1999,New York City,New York,Virose
+395,Male,02/02/2000,Topeka,Kansas,Virose
+396,Female,09/03/2000,New York City,New York,Virose
+397,Male,07/03/2000,Bronx,New York,Dengue
+398,Male,19/03/2000,Jamaica,New York,Gripe
+399,Male,04/03/2000,New York City,New York,Virose
+400,Male,19/03/2000,Shawnee Mission,Kansas,Gripe
