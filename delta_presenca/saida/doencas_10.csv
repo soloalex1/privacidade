@@ -1,0 +1,401 @@
+localizacao,genero,data,cidade,estado
+*,Female,31/01/2000,Brooklyn,New York
+*,Female,16/10/1999,Topeka,Kansas
+*,Female,10/10/1999,Schenectady,New York
+*,Female,09/01/2000,New York City,New York
+*,Male,03/11/1999,Syracuse,New York
+*,Female,10/01/2000,New York City,New York
+*,Male,01/11/1999,New York City,New York
+*,Female,20/11/1999,New York City,New York
+*,Male,16/01/2000,Topeka,Kansas
+*,Male,22/01/2000,New York City,New York
+*,Female,07/03/2000,Buffalo,New York
+*,Female,25/11/1999,Rochester,New York
+*,Female,08/03/2000,Buffalo,New York
+*,Female,18/01/2000,New York City,New York
+*,Female,09/01/2000,Jamaica,New York
+*,Male,28/10/1999,Jamaica,New York
+*,Female,19/01/2000,New York City,New York
+*,Female,31/01/2000,Kansas City,Kansas
+*,Male,11/02/2000,Albany,New York
+*,Female,16/03/2000,New York City,New York
+*,Male,08/11/1999,Rochester,New York
+*,Male,22/12/1999,Jamaica,New York
+*,Male,28/10/1999,Syracuse,New York
+*,Female,13/10/1999,New York City,New York
+*,Male,18/02/2000,Brooklyn,New York
+*,Female,08/12/1999,Syracuse,New York
+*,Female,10/03/2000,Jamaica,New York
+*,Male,07/10/1999,Topeka,Kansas
+*,Female,12/11/1999,Topeka,Kansas
+*,Male,19/10/1999,Albany,New York
+*,Female,22/10/1999,New York City,New York
+*,Male,29/12/1999,New York City,New York
+*,Female,21/10/1999,Topeka,Kansas
+*,Male,30/12/1999,New York City,New York
+*,Male,28/12/1999,Rochester,New York
+*,Female,20/10/1999,Wichita,Kansas
+*,Female,08/12/1999,Syracuse,New York
+*,Male,02/02/2000,New York City,New York
+*,Male,12/11/1999,Staten Island,New York
+*,Female,28/11/1999,New York City,New York
+*,Male,03/01/2000,New York City,New York
+*,Male,21/03/2000,New York City,New York
+*,Male,31/01/2000,Albany,New York
+*,Male,09/12/1999,Wichita,Kansas
+*,Male,21/03/2000,Buffalo,New York
+*,Male,21/03/2000,New York City,New York
+*,Female,10/10/1999,Buffalo,New York
+*,Male,06/03/2000,New York City,New York
+*,Male,28/11/1999,Albany,New York
+*,Male,28/03/2000,Topeka,Kansas
+*,Female,19/03/2000,Brooklyn,New York
+*,Female,16/11/1999,Bronx,New York
+*,Female,18/11/1999,New York City,New York
+*,Male,01/10/1999,Brooklyn,New York
+*,Male,16/03/2000,New York City,New York
+*,Male,20/01/2000,Bronx,New York
+*,Male,09/12/1999,New Hyde Park,New York
+*,Male,03/11/1999,Kansas City,Kansas
+*,Female,22/02/2000,New York City,New York
+*,Male,22/12/1999,Buffalo,New York
+*,Female,17/10/1999,Bronx,New York
+*,Female,05/01/2000,New York City,New York
+*,Female,21/12/1999,Rochester,New York
+*,Male,17/03/2000,Jamaica,New York
+*,Male,08/02/2000,Wichita,Kansas
+*,Female,28/01/2000,Bronx,New York
+*,Female,07/11/1999,Rochester,New York
+*,Female,14/03/2000,Rochester,New York
+*,Male,16/01/2000,Schenectady,New York
+*,Female,27/11/1999,New York City,New York
+*,Female,03/10/1999,Brooklyn,New York
+*,Male,02/11/1999,Jamaica,New York
+*,Female,23/03/2000,Wichita,Kansas
+*,Male,04/02/2000,Buffalo,New York
+*,Female,15/10/1999,Buffalo,New York
+*,Male,13/03/2000,New York City,New York
+*,Male,10/02/2000,Brooklyn,New York
+*,Male,03/03/2000,Wichita,Kansas
+*,Male,08/12/1999,Albany,New York
+*,Male,07/10/1999,New York City,New York
+*,Male,18/12/1999,Brooklyn,New York
+*,Male,30/01/2000,New York City,New York
+*,Female,31/12/1999,Schenectady,New York
+*,Female,07/03/2000,New York City,New York
+*,Male,07/11/1999,New York City,New York
+*,Female,28/10/1999,Brooklyn,New York
+*,Male,22/10/1999,Buffalo,New York
+*,Female,10/03/2000,Topeka,Kansas
+*,Male,10/11/1999,Jamaica,New York
+*,Male,28/11/1999,Jamaica,New York
+*,Female,13/11/1999,Buffalo,New York
+*,Male,13/11/1999,Rochester,New York
+*,Female,01/02/2000,Rochester,New York
+*,Male,16/12/1999,Topeka,Kansas
+*,Female,24/02/2000,Buffalo,New York
+*,Male,27/02/2000,New York City,New York
+*,Female,27/12/1999,New York City,New York
+*,Female,15/02/2000,Syracuse,New York
+*,Female,10/10/1999,Shawnee Mission,Kansas
+*,Male,02/10/1999,New York City,New York
+*,Female,18/10/1999,New York City,New York
+*,Male,22/02/2000,New York City,New York
+*,Male,27/02/2000,New York City,New York
+*,Male,27/11/1999,Brooklyn,New York
+*,Female,25/12/1999,White Plains,New York
+*,Male,12/11/1999,Albany,New York
+*,Male,29/10/1999,Rochester,New York
+*,Female,01/10/1999,Schenectady,New York
+*,Female,26/01/2000,Brooklyn,New York
+*,Male,07/11/1999,Jamaica,New York
+*,Male,22/03/2000,Brooklyn,New York
+*,Male,20/03/2000,New York City,New York
+*,Female,30/03/2000,New York City,New York
+*,Male,04/10/1999,New York City,New York
+*,Female,30/10/1999,New York City,New York
+*,Male,12/02/2000,Syracuse,New York
+*,Male,14/01/2000,Utica,New York
+*,Male,10/03/2000,Shawnee Mission,Kansas
+*,Female,04/01/2000,Syracuse,New York
+*,Female,05/02/2000,Bronx,New York
+*,Female,01/02/2000,Buffalo,New York
+*,Male,28/12/1999,New York City,New York
+*,Male,26/03/2000,New York City,New York
+*,Male,14/12/1999,Buffalo,New York
+*,Female,23/02/2000,New York City,New York
+*,Male,30/12/1999,Rochester,New York
+*,Male,27/11/1999,Bronx,New York
+*,Female,27/11/1999,Rochester,New York
+*,Female,11/01/2000,Rochester,New York
+*,Female,27/12/1999,Great Neck,New York
+*,Male,05/03/2000,Port Washington,New York
+*,Male,24/10/1999,Rochester,New York
+*,Female,17/11/1999,Jamaica,New York
+*,Male,22/10/1999,New York City,New York
+*,Male,29/11/1999,Buffalo,New York
+*,Male,29/02/2000,Topeka,Kansas
+*,Female,24/10/1999,Jamaica,New York
+*,Female,29/11/1999,Rochester,New York
+*,Female,09/10/1999,Rochester,New York
+*,Female,01/02/2000,Flushing,New York
+*,Male,27/03/2000,Rochester,New York
+*,Male,09/12/1999,Kansas City,Kansas
+*,Male,21/12/1999,Wichita,Kansas
+*,Female,21/11/1999,New York City,New York
+*,Female,30/11/1999,Syracuse,New York
+*,Male,02/12/1999,New York City,New York
+*,Female,26/10/1999,Albany,New York
+*,Female,03/01/2000,New York City,New York
+*,Female,31/01/2000,Bronx,New York
+*,Female,30/10/1999,Albany,New York
+*,Female,23/02/2000,New York City,New York
+*,Male,12/03/2000,Bronx,New York
+*,Female,09/11/1999,Shawnee Mission,Kansas
+*,Male,08/12/1999,Bronx,New York
+*,Female,19/10/1999,New York City,New York
+*,Male,06/12/1999,New York City,New York
+*,Male,29/12/1999,Kansas City,Kansas
+*,Male,19/10/1999,Albany,New York
+*,Male,06/03/2000,Yonkers,New York
+*,Female,10/03/2000,New York City,New York
+*,Male,05/12/1999,New York City,New York
+*,Male,27/10/1999,Shawnee Mission,Kansas
+*,Male,18/03/2000,Albany,New York
+*,Female,26/03/2000,Staten Island,New York
+*,Female,09/03/2000,Brooklyn,New York
+*,Male,14/01/2000,Topeka,Kansas
+*,Female,07/10/1999,New York City,New York
+*,Female,14/02/2000,Flushing,New York
+*,Male,19/10/1999,Bronx,New York
+*,Female,29/01/2000,Topeka,Kansas
+*,Female,30/03/2000,Albany,New York
+*,Male,26/03/2000,Brooklyn,New York
+*,Male,16/12/1999,Buffalo,New York
+*,Male,28/03/2000,Staten Island,New York
+*,Female,14/11/1999,Shawnee Mission,Kansas
+*,Female,25/10/1999,Rochester,New York
+*,Male,05/03/2000,New York City,New York
+*,Male,19/11/1999,Albany,New York
+*,Female,24/02/2000,Rochester,New York
+*,Male,12/10/1999,Bronx,New York
+*,Male,26/12/1999,New York City,New York
+*,Male,19/03/2000,Brooklyn,New York
+*,Male,12/11/1999,Bronx,New York
+*,Female,13/02/2000,Topeka,Kansas
+*,Female,26/02/2000,New York City,New York
+*,Male,31/12/1999,Albany,New York
+*,Female,12/12/1999,New York City,New York
+*,Male,21/03/2000,Albany,New York
+*,Male,03/12/1999,Albany,New York
+*,Female,10/01/2000,Brooklyn,New York
+*,Female,09/10/1999,Bronx,New York
+*,Female,26/02/2000,Jamaica,New York
+*,Male,08/10/1999,Buffalo,New York
+*,Female,02/02/2000,Rochester,New York
+*,Male,14/10/1999,Albany,New York
+*,Male,23/03/2000,Albany,New York
+*,Female,18/11/1999,Buffalo,New York
+*,Female,07/02/2000,White Plains,New York
+*,Male,27/01/2000,Jamaica,New York
+*,Male,12/12/1999,Staten Island,New York
+*,Male,20/11/1999,Brooklyn,New York
+*,Male,04/11/1999,Buffalo,New York
+*,Female,10/01/2000,Jamaica,New York
+*,Female,22/01/2000,New York City,New York
+*,Female,14/11/1999,Albany,New York
+*,Male,10/10/1999,Schenectady,New York
+*,Female,23/12/1999,Rochester,New York
+*,Female,19/03/2000,New York City,New York
+*,Female,17/11/1999,Brooklyn,New York
+*,Male,05/10/1999,Jamaica,New York
+*,Female,30/03/2000,Bronx,New York
+*,Male,09/01/2000,Elmira,New York
+*,Female,08/10/1999,Albany,New York
+*,Female,13/03/2000,Bronx,New York
+*,Female,25/12/1999,Wichita,Kansas
+*,Female,28/12/1999,Shawnee Mission,Kansas
+*,Male,30/03/2000,Albany,New York
+*,Male,23/10/1999,New York City,New York
+*,Male,01/11/1999,Bronx,New York
+*,Male,07/01/2000,Albany,New York
+*,Male,12/12/1999,Rochester,New York
+*,Male,08/02/2000,Brooklyn,New York
+*,Male,09/10/1999,Brooklyn,New York
+*,Female,21/11/1999,Bronx,New York
+*,Female,18/02/2000,Buffalo,New York
+*,Female,22/02/2000,New York City,New York
+*,Male,16/03/2000,Flushing,New York
+*,Female,18/02/2000,Rochester,New York
+*,Male,09/12/1999,Brooklyn,New York
+*,Male,25/02/2000,New York City,New York
+*,Male,03/12/1999,Albany,New York
+*,Female,11/12/1999,New York City,New York
+*,Male,08/01/2000,Bronx,New York
+*,Female,12/12/1999,Wichita,Kansas
+*,Female,18/11/1999,New York City,New York
+*,Female,29/10/1999,New York City,New York
+*,Male,09/01/2000,New York City,New York
+*,Male,26/01/2000,Jamaica,New York
+*,Female,29/01/2000,Buffalo,New York
+*,Male,26/01/2000,Brooklyn,New York
+*,Male,17/12/1999,New York City,New York
+*,Male,29/01/2000,Schenectady,New York
+*,Male,11/11/1999,New York City,New York
+*,Male,14/12/1999,Syracuse,New York
+*,Male,08/10/1999,Great Neck,New York
+*,Male,08/01/2000,Kansas City,Kansas
+*,Female,03/01/2000,New York City,New York
+*,Male,23/12/1999,Buffalo,New York
+*,Male,30/10/1999,Syracuse,New York
+*,Male,27/02/2000,Shawnee Mission,Kansas
+*,Female,01/10/1999,Shawnee Mission,Kansas
+*,Male,17/01/2000,Staten Island,New York
+*,Female,17/11/1999,Wichita,Kansas
+*,Male,06/01/2000,Jamaica,New York
+*,Female,08/10/1999,Topeka,Kansas
+*,Female,21/12/1999,Bronx,New York
+*,Female,08/10/1999,Rochester,New York
+*,Male,09/03/2000,Brooklyn,New York
+*,Female,30/03/2000,White Plains,New York
+*,Female,05/10/1999,Brooklyn,New York
+*,Female,29/10/1999,Topeka,Kansas
+*,Male,24/03/2000,Brooklyn,New York
+*,Male,27/03/2000,Rochester,New York
+*,Male,18/01/2000,Topeka,Kansas
+*,Female,24/11/1999,Buffalo,New York
+*,Male,19/02/2000,Buffalo,New York
+*,Female,06/10/1999,Shawnee Mission,Kansas
+*,Female,25/12/1999,Topeka,Kansas
+*,Female,05/12/1999,Shawnee Mission,Kansas
+*,Female,30/03/2000,Wichita,Kansas
+*,Female,27/01/2000,Wichita,Kansas
+*,Male,18/01/2000,Rochester,New York
+*,Female,16/11/1999,Rochester,New York
+*,Male,03/10/1999,New York City,New York
+*,Female,24/12/1999,New York City,New York
+*,Female,10/03/2000,New York City,New York
+*,Male,06/12/1999,Jamaica,New York
+*,Male,28/01/2000,Buffalo,New York
+*,Female,06/03/2000,Schenectady,New York
+*,Female,30/10/1999,Rochester,New York
+*,Male,18/12/1999,Buffalo,New York
+*,Male,24/12/1999,Buffalo,New York
+*,Female,25/11/1999,New York City,New York
+*,Male,20/02/2000,Topeka,Kansas
+*,Male,25/01/2000,Port Washington,New York
+*,Female,02/01/2000,Rochester,New York
+*,Male,17/12/1999,Mount Vernon,New York
+*,Female,10/01/2000,New York City,New York
+*,Female,05/11/1999,New York City,New York
+*,Female,03/10/1999,White Plains,New York
+*,Female,07/01/2000,Wichita,Kansas
+*,Male,22/12/1999,Jamaica,New York
+*,Male,06/02/2000,Jamaica,New York
+*,Male,15/01/2000,Jamaica,New York
+*,Female,16/12/1999,Jamaica,New York
+*,Female,19/03/2000,New York City,New York
+*,Female,17/12/1999,Buffalo,New York
+*,Male,15/01/2000,Schenectady,New York
+*,Female,29/03/2000,Hicksville,New York
+*,Male,10/02/2000,Wichita,Kansas
+*,Male,27/10/1999,Albany,New York
+*,Male,09/01/2000,Shawnee Mission,Kansas
+*,Female,15/02/2000,Flushing,New York
+*,Male,14/03/2000,Rochester,New York
+*,Female,07/12/1999,Shawnee Mission,Kansas
+*,Female,04/01/2000,Albany,New York
+*,Female,03/02/2000,New York City,New York
+*,Male,21/10/1999,Brooklyn,New York
+*,Female,16/03/2000,New York City,New York
+*,Male,05/10/1999,New York City,New York
+*,Male,04/01/2000,Wichita,Kansas
+*,Female,23/02/2000,New York City,New York
+*,Male,07/12/1999,Brooklyn,New York
+*,Female,14/01/2000,Albany,New York
+*,Male,12/12/1999,New York City,New York
+*,Female,25/02/2000,Staten Island,New York
+*,Female,24/01/2000,Mount Vernon,New York
+*,Male,31/10/1999,Bronx,New York
+*,Female,22/10/1999,New York City,New York
+*,Female,03/12/1999,New York City,New York
+*,Male,24/01/2000,Port Washington,New York
+*,Female,30/12/1999,Wichita,Kansas
+*,Female,14/12/1999,New York City,New York
+*,Female,14/10/1999,New York City,New York
+*,Female,19/01/2000,New York City,New York
+*,Male,28/12/1999,Rochester,New York
+*,Female,25/02/2000,Bronx,New York
+*,Female,25/01/2000,Buffalo,New York
+*,Male,29/11/1999,Great Neck,New York
+*,Male,07/03/2000,New York City,New York
+*,Female,15/10/1999,Buffalo,New York
+*,Male,27/01/2000,New York City,New York
+*,Female,21/02/2000,Albany,New York
+*,Female,23/10/1999,Topeka,Kansas
+*,Female,08/01/2000,Flushing,New York
+*,Female,28/11/1999,Rochester,New York
+*,Female,01/03/2000,Bronx,New York
+*,Male,07/10/1999,New York City,New York
+*,Male,22/01/2000,Topeka,Kansas
+*,Male,27/01/2000,New York City,New York
+*,Female,26/12/1999,Bronx,New York
+*,Female,31/10/1999,Elmira,New York
+*,Female,13/03/2000,New York City,New York
+*,Male,07/12/1999,Flushing,New York
+*,Female,26/11/1999,Shawnee Mission,Kansas
+*,Male,20/11/1999,Albany,New York
+*,Female,31/12/1999,Syracuse,New York
+*,Male,13/03/2000,New York City,New York
+*,Male,21/03/2000,Albany,New York
+*,Male,12/10/1999,Kansas City,Kansas
+*,Female,19/11/1999,New York City,New York
+*,Female,21/10/1999,Albany,New York
+*,Male,20/01/2000,New York City,New York
+*,Male,29/02/2000,New York City,New York
+*,Female,24/02/2000,Shawnee Mission,Kansas
+*,Female,24/10/1999,Shawnee Mission,Kansas
+*,Male,24/03/2000,White Plains,New York
+*,Female,12/03/2000,New York City,New York
+*,Male,31/10/1999,Shawnee Mission,Kansas
+*,Male,10/11/1999,New York City,New York
+*,Male,29/01/2000,Brooklyn,New York
+*,Female,25/02/2000,New York City,New York
+*,Female,08/03/2000,Syracuse,New York
+*,Female,05/03/2000,Mount Vernon,New York
+*,Female,02/11/1999,Albany,New York
+*,Female,03/10/1999,Brooklyn,New York
+*,Female,29/12/1999,Rochester,New York
+*,Female,22/01/2000,White Plains,New York
+*,Male,21/12/1999,Buffalo,New York
+*,Female,01/02/2000,Rochester,New York
+*,Male,27/03/2000,New York City,New York
+*,Male,14/03/2000,Shawnee Mission,Kansas
+*,Female,22/10/1999,Mount Vernon,New York
+*,Male,11/12/1999,Albany,New York
+*,Female,14/11/1999,Rochester,New York
+*,Male,03/03/2000,New York City,New York
+*,Male,15/03/2000,Rochester,New York
+*,Male,24/11/1999,Buffalo,New York
+*,Male,22/11/1999,Albany,New York
+*,Male,04/01/2000,Schenectady,New York
+*,Male,29/02/2000,Kansas City,Kansas
+*,Female,06/12/1999,Syracuse,New York
+*,Male,09/11/1999,Buffalo,New York
+*,Male,22/10/1999,Syracuse,New York
+*,Female,18/02/2000,Staten Island,New York
+*,Male,03/11/1999,Albany,New York
+*,Male,14/03/2000,New York City,New York
+*,Male,11/02/2000,New York City,New York
+*,Female,20/02/2000,White Plains,New York
+*,Female,16/01/2000,Wichita,Kansas
+*,Female,08/12/1999,Wichita,Kansas
+*,Female,11/12/1999,Syracuse,New York
+*,Female,11/03/2000,Brooklyn,New York
+*,Female,12/11/1999,New York City,New York
+*,Male,02/02/2000,Topeka,Kansas
+*,Female,09/03/2000,New York City,New York
+*,Male,07/03/2000,Bronx,New York
+*,Male,19/03/2000,Jamaica,New York
+*,Male,04/03/2000,New York City,New York
+*,Male,19/03/2000,Shawnee Mission,Kansas
