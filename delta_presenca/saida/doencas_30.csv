@@ -1,0 +1,401 @@
+genero,cidade,estado,data,doenca
+Female,**,New York,**/**/2000,Virose
+Female,**,Kansas,**/**/1999,Zika
+Female,**,New York,**/**/1999,Virose
+Female,**,New York,**/**/2000,Conjuntivite
+Male,**,New York,**/**/1999,Conjuntivite
+Female,**,New York,**/**/2000,Gripe
+Male,**,New York,**/**/1999,Zika
+Female,**,New York,**/**/1999,Gripe
+Male,**,Kansas,**/**/2000,Gripe
+Male,**,New York,**/**/2000,Conjuntivite
+Female,**,New York,**/**/2000,Zika
+Female,**,New York,**/**/1999,Zika
+Female,**,New York,**/**/2000,Zika
+Female,**,New York,**/**/2000,Dengue
+Female,**,New York,**/**/2000,Dengue
+Male,**,New York,**/**/1999,Zika
+Female,**,New York,**/**/2000,Zika
+Female,**,Kansas,**/**/2000,Virose
+Male,**,New York,**/**/2000,Virose
+Female,**,New York,**/**/2000,Gripe
+Male,**,New York,**/**/1999,Gripe
+Male,**,New York,**/**/1999,Zika
+Male,**,New York,**/**/1999,Zika
+Female,**,New York,**/**/1999,Gripe
+Male,**,New York,**/**/2000,Virose
+Female,**,New York,**/**/1999,Conjuntivite
+Female,**,New York,**/**/2000,Gripe
+Male,**,Kansas,**/**/1999,Conjuntivite
+Female,**,Kansas,**/**/1999,Dengue
+Male,**,New York,**/**/1999,Gripe
+Female,**,New York,**/**/1999,Dengue
+Male,**,New York,**/**/1999,Conjuntivite
+Female,**,Kansas,**/**/1999,Gripe
+Male,**,New York,**/**/1999,Gripe
+Male,**,New York,**/**/1999,Virose
+Female,**,Kansas,**/**/1999,Zika
+Female,**,New York,**/**/1999,Gripe
+Male,**,New York,**/**/2000,Zika
+Male,**,New York,**/**/1999,Dengue
+Female,**,New York,**/**/1999,Conjuntivite
+Male,**,New York,**/**/2000,Conjuntivite
+Male,**,New York,**/**/2000,Dengue
+Male,**,New York,**/**/2000,Dengue
+Male,**,Kansas,**/**/1999,Virose
+Male,**,New York,**/**/2000,Dengue
+Male,**,New York,**/**/2000,Zika
+Female,**,New York,**/**/1999,Zika
+Male,**,New York,**/**/2000,Dengue
+Male,**,New York,**/**/1999,Gripe
+Male,**,Kansas,**/**/2000,Gripe
+Female,**,New York,**/**/2000,Zika
+Female,**,New York,**/**/1999,Virose
+Female,**,New York,**/**/1999,Dengue
+Male,**,New York,**/**/1999,Gripe
+Male,**,New York,**/**/2000,Gripe
+Male,**,New York,**/**/2000,Zika
+Male,**,New York,**/**/1999,Conjuntivite
+Male,**,Kansas,**/**/1999,Virose
+Female,**,New York,**/**/2000,Dengue
+Male,**,New York,**/**/1999,Conjuntivite
+Female,**,New York,**/**/1999,Conjuntivite
+Female,**,New York,**/**/2000,Gripe
+Female,**,New York,**/**/1999,Virose
+Male,**,New York,**/**/2000,Zika
+Male,**,Kansas,**/**/2000,Gripe
+Female,**,New York,**/**/2000,Conjuntivite
+Female,**,New York,**/**/1999,Virose
+Female,**,New York,**/**/2000,Virose
+Male,**,New York,**/**/2000,Conjuntivite
+Female,**,New York,**/**/1999,Dengue
+Female,**,New York,**/**/1999,Zika
+Male,**,New York,**/**/1999,Dengue
+Female,**,Kansas,**/**/2000,Dengue
+Male,**,New York,**/**/2000,Conjuntivite
+Female,**,New York,**/**/1999,Zika
+Male,**,New York,**/**/2000,Conjuntivite
+Male,**,New York,**/**/2000,Virose
+Male,**,Kansas,**/**/2000,Zika
+Male,**,New York,**/**/1999,Gripe
+Male,**,New York,**/**/1999,Dengue
+Male,**,New York,**/**/1999,Dengue
+Male,**,New York,**/**/2000,Gripe
+Female,**,New York,**/**/1999,Virose
+Female,**,New York,**/**/2000,Dengue
+Male,**,New York,**/**/1999,Conjuntivite
+Female,**,New York,**/**/1999,Dengue
+Male,**,New York,**/**/1999,Conjuntivite
+Female,**,Kansas,**/**/2000,Gripe
+Male,**,New York,**/**/1999,Dengue
+Male,**,New York,**/**/1999,Gripe
+Female,**,New York,**/**/1999,Gripe
+Male,**,New York,**/**/1999,Gripe
+Female,**,New York,**/**/2000,Virose
+Male,**,Kansas,**/**/1999,Dengue
+Female,**,New York,**/**/2000,Gripe
+Male,**,New York,**/**/2000,Dengue
+Female,**,New York,**/**/1999,Virose
+Female,**,New York,**/**/2000,Virose
+Female,**,Kansas,**/**/1999,Zika
+Male,**,New York,**/**/1999,Virose
+Female,**,New York,**/**/1999,Dengue
+Male,**,New York,**/**/2000,Dengue
+Male,**,New York,**/**/2000,Zika
+Male,**,New York,**/**/1999,Virose
+Female,**,New York,**/**/1999,Gripe
+Male,**,New York,**/**/1999,Dengue
+Male,**,New York,**/**/1999,Virose
+Female,**,New York,**/**/1999,Zika
+Female,**,New York,**/**/2000,Virose
+Male,**,New York,**/**/1999,Virose
+Male,**,New York,**/**/2000,Gripe
+Male,**,New York,**/**/2000,Conjuntivite
+Female,**,New York,**/**/2000,Zika
+Male,**,New York,**/**/1999,Conjuntivite
+Female,**,New York,**/**/1999,Dengue
+Male,**,New York,**/**/2000,Conjuntivite
+Male,**,New York,**/**/2000,Conjuntivite
+Male,**,Kansas,**/**/2000,Dengue
+Female,**,New York,**/**/2000,Dengue
+Female,**,New York,**/**/2000,Gripe
+Female,**,New York,**/**/2000,Dengue
+Male,**,New York,**/**/1999,Gripe
+Male,**,New York,**/**/2000,Gripe
+Male,**,New York,**/**/1999,Dengue
+Female,**,New York,**/**/2000,Virose
+Male,**,New York,**/**/1999,Virose
+Male,**,New York,**/**/1999,Zika
+Female,**,New York,**/**/1999,Conjuntivite
+Female,**,New York,**/**/2000,Gripe
+Female,**,New York,**/**/1999,Gripe
+Male,**,New York,**/**/2000,Gripe
+Male,**,New York,**/**/1999,Virose
+Female,**,New York,**/**/1999,Zika
+Male,**,New York,**/**/1999,Virose
+Male,**,New York,**/**/1999,Dengue
+Male,**,Kansas,**/**/2000,Virose
+Female,**,New York,**/**/1999,Dengue
+Female,**,New York,**/**/1999,Zika
+Female,**,New York,**/**/1999,Dengue
+Female,**,New York,**/**/2000,Gripe
+Male,**,New York,**/**/2000,Zika
+Male,**,Kansas,**/**/1999,Zika
+Male,**,Kansas,**/**/1999,Gripe
+Female,**,New York,**/**/1999,Dengue
+Female,**,New York,**/**/1999,Zika
+Male,**,New York,**/**/1999,Virose
+Female,**,New York,**/**/1999,Conjuntivite
+Female,**,New York,**/**/2000,Conjuntivite
+Female,**,New York,**/**/2000,Dengue
+Female,**,New York,**/**/1999,Dengue
+Female,**,New York,**/**/2000,Zika
+Male,**,New York,**/**/2000,Conjuntivite
+Female,**,Kansas,**/**/1999,Virose
+Male,**,New York,**/**/1999,Dengue
+Female,**,New York,**/**/1999,Virose
+Male,**,New York,**/**/1999,Conjuntivite
+Male,**,Kansas,**/**/1999,Virose
+Male,**,New York,**/**/1999,Dengue
+Male,**,New York,**/**/2000,Gripe
+Female,**,New York,**/**/2000,Zika
+Male,**,New York,**/**/1999,Zika
+Male,**,Kansas,**/**/1999,Virose
+Male,**,New York,**/**/2000,Virose
+Female,**,New York,**/**/2000,Virose
+Female,**,New York,**/**/2000,Zika
+Male,**,Kansas,**/**/2000,Gripe
+Female,**,New York,**/**/1999,Gripe
+Female,**,New York,**/**/2000,Zika
+Male,**,New York,**/**/1999,Dengue
+Female,**,Kansas,**/**/2000,Dengue
+Female,**,New York,**/**/2000,Zika
+Male,**,New York,**/**/2000,Conjuntivite
+Male,**,New York,**/**/1999,Virose
+Male,**,New York,**/**/2000,Conjuntivite
+Female,**,Kansas,**/**/1999,Dengue
+Female,**,New York,**/**/1999,Dengue
+Male,**,New York,**/**/2000,Dengue
+Male,**,New York,**/**/1999,Gripe
+Female,**,New York,**/**/2000,Gripe
+Male,**,New York,**/**/1999,Zika
+Male,**,New York,**/**/1999,Zika
+Male,**,New York,**/**/2000,Zika
+Male,**,New York,**/**/1999,Dengue
+Female,**,Kansas,**/**/2000,Gripe
+Female,**,New York,**/**/2000,Conjuntivite
+Male,**,New York,**/**/1999,Dengue
+Female,**,New York,**/**/1999,Virose
+Male,**,New York,**/**/2000,Conjuntivite
+Male,**,New York,**/**/1999,Gripe
+Female,**,New York,**/**/2000,Gripe
+Female,**,New York,**/**/1999,Conjuntivite
+Female,**,New York,**/**/2000,Virose
+Male,**,New York,**/**/1999,Conjuntivite
+Female,**,New York,**/**/2000,Virose
+Male,**,New York,**/**/1999,Dengue
+Male,**,New York,**/**/2000,Dengue
+Female,**,New York,**/**/1999,Gripe
+Female,**,New York,**/**/2000,Zika
+Male,**,New York,**/**/2000,Dengue
+Male,**,New York,**/**/1999,Zika
+Male,**,New York,**/**/1999,Conjuntivite
+Male,**,New York,**/**/1999,Conjuntivite
+Female,**,New York,**/**/2000,Dengue
+Female,**,New York,**/**/2000,Zika
+Female,**,New York,**/**/1999,Zika
+Male,**,New York,**/**/1999,Gripe
+Female,**,New York,**/**/1999,Dengue
+Female,**,New York,**/**/2000,Conjuntivite
+Female,**,New York,**/**/1999,Zika
+Male,**,New York,**/**/1999,Zika
+Female,**,New York,**/**/2000,Zika
+Male,**,New York,**/**/2000,Dengue
+Female,**,New York,**/**/1999,Gripe
+Female,**,New York,**/**/2000,Dengue
+Female,**,Kansas,**/**/1999,Virose
+Female,**,Kansas,**/**/1999,Virose
+Male,**,New York,**/**/2000,Gripe
+Male,**,New York,**/**/1999,Conjuntivite
+Male,**,New York,**/**/1999,Gripe
+Male,**,New York,**/**/2000,Gripe
+Male,**,New York,**/**/1999,Dengue
+Male,**,New York,**/**/2000,Conjuntivite
+Male,**,New York,**/**/1999,Dengue
+Female,**,New York,**/**/1999,Dengue
+Female,**,New York,**/**/2000,Virose
+Female,**,New York,**/**/2000,Zika
+Male,**,New York,**/**/2000,Dengue
+Female,**,New York,**/**/2000,Virose
+Male,**,New York,**/**/1999,Conjuntivite
+Male,**,New York,**/**/2000,Conjuntivite
+Male,**,New York,**/**/1999,Virose
+Female,**,New York,**/**/1999,Virose
+Male,**,New York,**/**/2000,Zika
+Female,**,Kansas,**/**/1999,Zika
+Female,**,New York,**/**/1999,Conjuntivite
+Female,**,New York,**/**/1999,Dengue
+Male,**,New York,**/**/2000,Dengue
+Male,**,New York,**/**/2000,Zika
+Female,**,New York,**/**/2000,Dengue
+Male,**,New York,**/**/2000,Gripe
+Male,**,New York,**/**/1999,Virose
+Male,**,New York,**/**/2000,Zika
+Male,**,New York,**/**/1999,Dengue
+Male,**,New York,**/**/1999,Conjuntivite
+Male,**,New York,**/**/1999,Zika
+Male,**,Kansas,**/**/2000,Conjuntivite
+Female,**,New York,**/**/2000,Gripe
+Male,**,New York,**/**/1999,Dengue
+Male,**,New York,**/**/1999,Dengue
+Male,**,Kansas,**/**/2000,Virose
+Female,**,Kansas,**/**/1999,Conjuntivite
+Male,**,New York,**/**/2000,Gripe
+Female,**,Kansas,**/**/1999,Virose
+Male,**,New York,**/**/2000,Gripe
+Female,**,Kansas,**/**/1999,Gripe
+Female,**,New York,**/**/1999,Gripe
+Female,**,New York,**/**/1999,Gripe
+Male,**,New York,**/**/2000,Zika
+Female,**,New York,**/**/2000,Dengue
+Female,**,New York,**/**/1999,Zika
+Female,**,Kansas,**/**/1999,Zika
+Male,**,New York,**/**/2000,Zika
+Male,**,New York,**/**/2000,Conjuntivite
+Male,**,Kansas,**/**/2000,Virose
+Female,**,New York,**/**/1999,Conjuntivite
+Male,**,New York,**/**/2000,Zika
+Female,**,Kansas,**/**/1999,Virose
+Female,**,Kansas,**/**/1999,Dengue
+Female,**,Kansas,**/**/1999,Gripe
+Female,**,Kansas,**/**/2000,Virose
+Female,**,Kansas,**/**/2000,Conjuntivite
+Male,**,New York,**/**/2000,Zika
+Female,**,New York,**/**/1999,Virose
+Male,**,New York,**/**/1999,Virose
+Female,**,New York,**/**/1999,Gripe
+Female,**,New York,**/**/2000,Dengue
+Male,**,New York,**/**/1999,Gripe
+Male,**,New York,**/**/2000,Conjuntivite
+Female,**,New York,**/**/2000,Dengue
+Female,**,New York,**/**/1999,Gripe
+Male,**,New York,**/**/1999,Zika
+Male,**,New York,**/**/1999,Gripe
+Female,**,New York,**/**/1999,Gripe
+Male,**,Kansas,**/**/2000,Virose
+Male,**,New York,**/**/2000,Virose
+Female,**,New York,**/**/2000,Virose
+Male,**,New York,**/**/1999,Conjuntivite
+Female,**,New York,**/**/2000,Gripe
+Female,**,New York,**/**/1999,Dengue
+Female,**,New York,**/**/1999,Virose
+Female,**,Kansas,**/**/2000,Conjuntivite
+Male,**,New York,**/**/1999,Zika
+Male,**,New York,**/**/2000,Conjuntivite
+Male,**,New York,**/**/2000,Zika
+Female,**,New York,**/**/1999,Virose
+Female,**,New York,**/**/2000,Conjuntivite
+Female,**,New York,**/**/1999,Zika
+Male,**,New York,**/**/2000,Dengue
+Female,**,New York,**/**/2000,Zika
+Male,**,Kansas,**/**/2000,Dengue
+Male,**,New York,**/**/1999,Dengue
+Male,**,Kansas,**/**/2000,Gripe
+Female,**,New York,**/**/2000,Virose
+Male,**,New York,**/**/2000,Zika
+Female,**,Kansas,**/**/1999,Conjuntivite
+Female,**,New York,**/**/2000,Dengue
+Female,**,New York,**/**/2000,Virose
+Male,**,New York,**/**/1999,Dengue
+Female,**,New York,**/**/2000,Conjuntivite
+Male,**,New York,**/**/1999,Conjuntivite
+Male,**,Kansas,**/**/2000,Zika
+Female,**,New York,**/**/2000,Conjuntivite
+Male,**,New York,**/**/1999,Zika
+Female,**,New York,**/**/2000,Gripe
+Male,**,New York,**/**/1999,Conjuntivite
+Female,**,New York,**/**/2000,Gripe
+Female,**,New York,**/**/2000,Conjuntivite
+Male,**,New York,**/**/1999,Conjuntivite
+Female,**,New York,**/**/1999,Virose
+Female,**,New York,**/**/1999,Conjuntivite
+Male,**,New York,**/**/2000,Zika
+Female,**,Kansas,**/**/1999,Dengue
+Female,**,New York,**/**/1999,Gripe
+Female,**,New York,**/**/1999,Virose
+Female,**,New York,**/**/2000,Gripe
+Male,**,New York,**/**/1999,Virose
+Female,**,New York,**/**/2000,Virose
+Female,**,New York,**/**/2000,Dengue
+Male,**,New York,**/**/1999,Virose
+Male,**,New York,**/**/2000,Dengue
+Female,**,New York,**/**/1999,Zika
+Male,**,New York,**/**/2000,Zika
+Female,**,New York,**/**/2000,Conjuntivite
+Female,**,Kansas,**/**/1999,Conjuntivite
+Female,**,New York,**/**/2000,Zika
+Female,**,New York,**/**/1999,Conjuntivite
+Female,**,New York,**/**/2000,Gripe
+Male,**,New York,**/**/1999,Gripe
+Male,**,Kansas,**/**/2000,Conjuntivite
+Male,**,New York,**/**/2000,Conjuntivite
+Female,**,New York,**/**/1999,Dengue
+Female,**,New York,**/**/1999,Dengue
+Female,**,New York,**/**/2000,Dengue
+Male,**,New York,**/**/1999,Zika
+Female,**,Kansas,**/**/1999,Zika
+Male,**,New York,**/**/1999,Virose
+Female,**,New York,**/**/1999,Conjuntivite
+Male,**,New York,**/**/2000,Virose
+Male,**,New York,**/**/2000,Zika
+Male,**,Kansas,**/**/1999,Dengue
+Female,**,New York,**/**/1999,Zika
+Female,**,New York,**/**/1999,Zika
+Male,**,New York,**/**/2000,Dengue
+Male,**,New York,**/**/2000,Virose
+Female,**,Kansas,**/**/2000,Virose
+Female,**,Kansas,**/**/1999,Gripe
+Male,**,New York,**/**/2000,Virose
+Female,**,New York,**/**/2000,Virose
+Male,**,Kansas,**/**/1999,Gripe
+Male,**,New York,**/**/1999,Conjuntivite
+Male,**,New York,**/**/2000,Dengue
+Female,**,New York,**/**/2000,Conjuntivite
+Female,**,New York,**/**/2000,Conjuntivite
+Female,**,New York,**/**/2000,Dengue
+Female,**,New York,**/**/1999,Conjuntivite
+Female,**,New York,**/**/1999,Dengue
+Female,**,New York,**/**/1999,Virose
+Female,**,New York,**/**/2000,Conjuntivite
+Male,**,New York,**/**/1999,Virose
+Female,**,New York,**/**/2000,Conjuntivite
+Male,**,New York,**/**/2000,Zika
+Male,**,Kansas,**/**/2000,Conjuntivite
+Female,**,New York,**/**/1999,Dengue
+Male,**,New York,**/**/1999,Conjuntivite
+Female,**,New York,**/**/1999,Dengue
+Male,**,New York,**/**/2000,Conjuntivite
+Male,**,New York,**/**/2000,Virose
+Male,**,New York,**/**/1999,Virose
+Male,**,New York,**/**/1999,Dengue
+Male,**,New York,**/**/2000,Conjuntivite
+Male,**,Kansas,**/**/2000,Zika
+Female,**,New York,**/**/1999,Virose
+Male,**,New York,**/**/1999,Zika
+Male,**,New York,**/**/1999,Zika
+Female,**,New York,**/**/2000,Dengue
+Male,**,New York,**/**/1999,Conjuntivite
+Male,**,New York,**/**/2000,Zika
+Male,**,New York,**/**/2000,Virose
+Female,**,New York,**/**/2000,Virose
+Female,**,Kansas,**/**/2000,Gripe
+Female,**,Kansas,**/**/1999,Gripe
+Female,**,New York,**/**/1999,Zika
+Female,**,New York,**/**/2000,Conjuntivite
+Female,**,New York,**/**/1999,Virose
+Male,**,Kansas,**/**/2000,Virose
+Female,**,New York,**/**/2000,Virose
+Male,**,New York,**/**/2000,Dengue
+Male,**,New York,**/**/2000,Gripe
+Male,**,New York,**/**/2000,Virose
+Male,**,Kansas,**/**/2000,Gripe
